@@ -12,8 +12,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Texts and Lecture Notes"
+    url: /notes/
     
   #- title: "CV"
   #  url: /cv/
