@@ -4,9 +4,11 @@ collection: talks
 type: "Talk"
 permalink: talks-pydata-0
 venue: "PyData Conference"
-date: 07 December 2019
+date: 2019-12-07
 location: "Austin, Texas, USA"
 ---
+
+_Abstract_: 
 
 Today's AI algorithms closely parallel the function of the brain, such that they are able to do many tasks as well as, or better than, humans. This talk will examine not only the functional parallels between the brain and AI but also the structural parallels, drawing comparisons between AI and the brain to discuss AI design in a creative way.
 
