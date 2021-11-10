@@ -1,2 +1,1 @@
-# DARSakthi.github.io
-Personal website
+This is the personal website of Dalton Sakthivadivel.
