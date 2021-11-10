@@ -35,7 +35,7 @@ This has been a bit long, so hopefully it has some utility as a reading guide. I
 
 <script src="https://utteranc.es/client.js"
         repo="darsakthi/darsakthi.gitub.io"
-        issue-term="path-name"
+        issue-term="pathname"
         label="Comments"
         theme="github-light"
         crossorigin="anonymous"
