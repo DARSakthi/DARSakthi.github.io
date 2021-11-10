@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-GB"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Activation Functions and Models of Magnets | Dalton A R Sakthivadivel</title>
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="Activation Functions and Models of Magnets" />
+<meta property="og:locale" content="en_GB" />
+<meta name="description" content="As stated on the home page of this website, I’m going to start writing the occasional blog post about my work. At the time of writing, I had resisted the temptation for a while, but I think it would be nice to post about specific things (e.g. papers) every once in a while; since publishing in pure mathematics really is once in a while, it seems like it won’t be too much to keep on top of. This inaugural post concerns a paper that I preprinted some time ago, which discusses the activation function in neural networks. The work in question can be found here: Formalising the Use of the Activation Function in Neural Inference." />
+<meta property="og:description" content="As stated on the home page of this website, I’m going to start writing the occasional blog post about my work. At the time of writing, I had resisted the temptation for a while, but I think it would be nice to post about specific things (e.g. papers) every once in a while; since publishing in pure mathematics really is once in a while, it seems like it won’t be too much to keep on top of. This inaugural post concerns a paper that I preprinted some time ago, which discusses the activation function in neural networks. The work in question can be found here: Formalising the Use of the Activation Function in Neural Inference." />
+<link rel="canonical" href="http://localhost:4000/posts/2021/02/act-func/" />
+<meta property="og:url" content="http://localhost:4000/posts/2021/02/act-func/" />
+<meta property="og:site_name" content="Dalton A R Sakthivadivel" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-02-02T00:00:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Activation Functions and Models of Magnets" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/2021/02/act-func/"},"@type":"BlogPosting","description":"As stated on the home page of this website, I’m going to start writing the occasional blog post about my work. At the time of writing, I had resisted the temptation for a while, but I think it would be nice to post about specific things (e.g. papers) every once in a while; since publishing in pure mathematics really is once in a while, it seems like it won’t be too much to keep on top of. This inaugural post concerns a paper that I preprinted some time ago, which discusses the activation function in neural networks. The work in question can be found here: Formalising the Use of the Activation Function in Neural Inference.","headline":"Activation Functions and Models of Magnets","dateModified":"2021-02-02T00:00:00-05:00","datePublished":"2021-02-02T00:00:00-05:00","url":"http://localhost:4000/posts/2021/02/act-func/","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Dalton A R Sakthivadivel" />
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+        TeX: { equationNumbers: { autoNumber: "AMS" } }
+        });
+      </script>
+      <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Dalton A R Sakthivadivel</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/talks.html">Talks</a><a class="page-link" href="/teaching.html">Teaching</a><a class="page-link" href="/texts.html">Texts and Lecture Notes</a><a class="page-link" href="/blog.html">Posts</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Activation Functions and Models of Magnets</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2021-02-02T00:00:00-05:00" itemprop="datePublished">02 Feb 2021
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>As stated on the home page of this website, I’m going to start writing the occasional blog post about my work. At the time of writing, I had resisted the temptation for a while, but I think it would be nice to post about specific things (e.g. papers) every once in a while; since publishing in pure mathematics really is once in a while, it seems like it won’t be too much to keep on top of. This inaugural post concerns a paper that I preprinted some time ago, which discusses the activation function in neural networks. The work in question can be found here: <a href="https://arxiv.org/abs/2102.04896">Formalising the Use of the Activation Function in Neural Inference</a>.</p>
+
+<p>As someone who does occasional work on statistical mechanics I am quite familiar with the Ising model, and with <em>universality</em>. If one is not, I have a pedagogical paper on the Ising model <a href="https://darsakthi.github.io/texts-lec-notes/ising-tutorial">here on this website</a>, which I wrote for more-or-less this purpose—I thought it would be good to have a well-explained resource to refer to. Universality refers to the fact that certain classes of phase transition, which are nothing but changes in the characteristics of an object (such as changing from a solid to a liquid to a gas), share key dynamical features. In this sense, a model that exhibits a phase transition can be used to model certain other systems faithfully, even if they are quite different. Universality is explained well in <a href="https://www.damtp.cam.ac.uk/user/tong/sft.html">David Tong’s notes on statistical field theory</a>, and in John Cardy’s <em>Scaling and Renormalisation in Statistical Physics</em>. There are some interesting references in <a href="https://twitter.com/stevenstrogatz/status/1392958445624696838">this tweet</a> too, and <a href="https://twitter.com/nigelgoldenfeld/status/1394443499924230145">this response</a> to that tweet discusses the same thing that is covered in Chapter 3 of Tong’s notes.</p>
+
+<p>In the course of working on something else, I came across an interesting case of the Ising universality class as a kind of toy model of a neural network. This paper discusses exactly this, and I read it as motivating the activation function ML people are familiar with beyond ‘it works.’ This is something like my broader research mission, formulating complex system theories like ML or neuroscience axiomatically, so I thought it was worth writing up. In that sense, hopefully it goes beyond the curiosity of ‘a neural net looks a bit like an Ising model; isn’t that clever.’</p>
+
+<p>The way a simple neurone might be claimed to work is by the following essential anatomy of an action potential: the resting potential is slightly below ionic equilibrium, creating a concentration gradient of positive ions diffusing across the cell membrane. The way the neurone keeps the membrane potential low is by pumping these ions out as they diffuse in. When the voltage of the neural cell rises to a critical point, sensors in the neurone ‘un-gate’ the closed channels that prohibit mass diffusion and close the pumps getting rid of these ions, and positive ions flood the cell, going past even the equilibrium point. This is the characteristic spike in membrane potential that we read as an action potential, and foregoing some dynamical details about how exactly this model would work, it is sufficient to describe an action potential.  We’ll hold on to this thought for now, and lay out the necessary physics; then we’ll revisit this model.</p>
+
+<p>The Ising model, on the other hand, is a model of the electronic structure of a magnet. It is a lattice of atoms and their electrons, the latter of which possess a quantity called ‘spin’ from quantum mechanics. It isn’t important what spin is—and it probably doesn’t really have an intuitive explanation—other than to say that it points ‘up’ or ‘down.’ When all spins are aligned in one such direction, the metal has a magnetic moment from this alignment. The Ising model exhibits a phase transition wherein when the metal is heated, the energy added from the heat causes these electrons to start flipping their spins, just like molecules in a solid vibrating at high speeds when heated. This disorders the configuration of the lattice, and zeroes the magnetic moment \(m\). The contrapositive also holds: when the magnet is cooled once more, past a critical point \(m\) goes to one again. This is like a liquid solidifying below zero centigrade.</p>
+
+<p>One way of modelling the dynamics of the Ising model is by mean field theory (MFT), which looks at the ‘average’ dynamics of a system. The way we do MFT is by approximating the system with a simpler system that is related in some way to the original (specifically, we use a trial Hamiltonian for which the free energy is bounded from below by the Bogoliubov inequality). The typical way this is done, and in some sense the most meaningful, is by replacing the system with a ‘mean field’ and ignoring fluctuations in the dynamics of smaller items constituting the system. MFT is thus a theory of mean fields, ignoring the fluctuations around a mean (consider the transport relation \(\delta A(t) = A(t) - \langle A \rangle\) for the dynamics of an observable \(A\) in the presence of fluctuations. When we ignore fluctuations and the term \(\delta A(t)\) vanishes, we have \(A(t) = \langle A \rangle\)). It is also a multiscale modelling method, if these fluctuations are due to the dynamics of smaller things in a large system, and the mean field is representative of the dynamics of the larger things. In this sense MFT is not just a clever approximation—not in my view, anyway—but has some extra ontological importance as a method of understanding a system’s dynamics at multiple scales.</p>
+
+<p>In Section IIC, we do exactly this, derive a mean field model for the Ising model. It’s nothing new, I just go through it for the purpose of the paper. I actually use a short cut that neglects fluctuations, rather than performing the full formal derivation. This is, in fact, the same as the formal procedure—neglecting fluctuations produces a simpler trial Hamiltonian, for which the free energy is strictly greater than the real one, which we minimise with respect to a control parameter based on what we know of the Bogoliubov inequality. Again, it’s nothing but a short cut.</p>
+
+<p>Revisiting the model we discussed earlier, in Sections IIA and IIB we discuss the similarities between the Ising lattice and the network of channels in the cell membrane, with a spin equivalent to a channel containing a diffusing ion (\(+1\)) or not (\(-1\)). We consider the Ising model in a hot environment with an occasional quench applied, to model the effect of an external stimulus being applied that cools the lattice. In the neural case, this is a cell body in a disordered environment—some channels closed and some open—which occasionally is quenched and cooled below the critical temperature. When this cooling happens, all the channels open, the analogous Ising model is positively magnetised, and as the magnetic moment goes to one, we have an action potential. When the quench is removed, the neurone ‘heats up’ again, and the channels close just as spins get disordered.</p>
+
+<p>The key feature of this phase transition is, if we claim a neurone is in the Ising universality class, and the indicated magnetisation function (Figure 1 in the paper) arises from a mean field model of the Ising model, then the typical sigmoidal activation function is a mean field model of a real neurone. Correspondingly, if we think of real neurones as the thing to aspire to in building artificial neural networks—indeed, human brains are the best learners that we know of—then this explains why the sigmoid class of activation function has been so successful.</p>
+
+<p>If we then consider the quench in more detail, and look at it dynamically, then we can parameterise the function for \(m\) in terms of time and look at how ‘hard’ the quench is, and how long we take to heat up. If we assume a linear relationship between \(t\) and heat flow inwards, then the time spent magnetised is akin to a firing rate (i.e., spikes per second over the number of seconds gives us the number of spikes we have in the time we were allowed to spike). Analysing this gives us back the ReLU function and other functions with similar shapes.</p>
+
+<p>This paper is important to me for three reasons. For one thing, as stated previously, it formalises the problem of why sigmoidal activation functions are necessary to classify things, in a more motivated way than ‘it doesn’t work without it.’  For another, it shows that if we consider the conventional artificial neural network to be a mean field model of a real neural network, then this approximation of spiking dynamics necessarily looks as though it has a sigmoidal <em>or</em> rectified activation function. For a third and final reason, it sheds light on other interesting questions about ANNs by way of statistical mechanical analogy, which are examined in the discussion.</p>
+
+<p>This has been a bit long, so hopefully it has some utility as a reading guide. I also hope one can see why I enjoyed writing this paper. What I will likely do from here onwards, if only to make this useful for myself, is deposit similar reading guides and summaries in this blog. Ideally, readers will also find it useful, and others end up enjoying my work too. Do let me know if this was the case for you—I’m always a fan of public outreach (read: not screaming into the void).</p>
+
+  </div><a class="u-url" href="/posts/2021/02/act-func/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Dalton A R Sakthivadivel</li><li><a class="u-email" href="mailto:dalton.sakthivadivel@stonybrook.edu">dalton.sakthivadivel@stonybrook.edu</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/DARSakthi"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">DARSakthi</span></a></li><li><a href="https://www.twitter.com/DaltonSakthi"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">DaltonSakthi</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>This is the personal website of Dalton Sakthivadivel.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

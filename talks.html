@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Talks"
+author_profile: true
+---
+
+<h1> Talks, Lectures, and Presentations </h1>
+
+<div>
+
+  {%- if site.talks.size > 0 -%}
+    <ul class="post-list">
+      {%- for talk in site.talks reversed -%}
+      <h3>
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%}
+        <span class="post-meta">{{ talk.date | date: date_format }}</span>
+          <a href="{{ talk.url | relative_url }}">
+            {{ talk.title | escape }}
+          </a>
+      </li>
+      </h3>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

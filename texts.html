@@ -1,0 +1,33 @@
+---
+layout: default
+title: "Texts and Lecture Notes"
+author_profile: true
+---
+
+<h1> Texts and Lecture Notes </h1>
+
+<div>
+
+  {%- if site.texts.size > 0 -%}
+    <ul class="post-list">
+      {%- for text in site.texts reversed -%}
+      <li>
+       <h3>
+        {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+        <span class="post-meta">{{ text.date | date: date_format }}</span>
+          <a class="post-link" href="{{ text.url | relative_url }}">
+            {{ text.title | escape }}
+          </a>
+        <h3>
+        <h4>
+        {%- if site.show_excerpts -%}
+          {{ text.excerpt | truncatewords: 20 }}
+        {%- endif -%}
+        </h4>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

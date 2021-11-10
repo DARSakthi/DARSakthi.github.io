@@ -1,0 +1,12 @@
+---
+title: "Neuromatch Academy 2021"
+collection: teaching
+type: "Online summer school"
+layout: page
+permalink: teaching/2021-NMA
+venue: "Neuromatch Academy"
+date: 2021-07-05
+location: "Everywhere"
+---
+
+I was an instructor and volunteer at [NMA 2021](https://academy.neuromatch.io/home). It seems I couldn't stay away. Please see [NMA 2020](2020-NMA) for details.

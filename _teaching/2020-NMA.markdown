@@ -1,0 +1,12 @@
+---
+title: "Neuromatch Academy 2020"
+collection: teaching
+type: "Online summer school"
+layout: page
+permalink: teaching/2020-NMA
+venue: "Neuromatch Academy"
+date: 2020-07-13
+location: "Everywhere"
+---
+
+I was an instructor at [NMA 2020](https://academy.neuromatch.io/nma2020). It was quite fun. I developed a set of lecture notes for students, called 'The Mathematics of Cognition: Inference, Reward, and Behaviour,' which can be found in the 'Texts and Lecture Notes' tab.  There are more general [content discussions](https://neurostars.org/search?q=neuromatch%20content%20discussion) from the course that one can view. I recommend students who are interested in getting started in computational neuroscience, including the basics of neural modelling, statistical methods, deep and machine learning, etc., to get involved in NMA. It will be offered again in the summer of 2021, and hopefully, many years to come. 
