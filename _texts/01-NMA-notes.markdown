@@ -6,9 +6,7 @@ permalink: /texts/NMA-notes
 date: 2020-07-30
 ---
 
-Here you'll find my notes for the second week of Neuromatch Academy 2020. 
-
-Specific course content is referenced throughout. Links to the video lectures and google colab tutorials/assignments can be found [here](https://github.com/NeuromatchAcademy) if one looks around. Videos were also posted to YouTube during the course.
+Here you'll find my notes for the second week of Neuromatch Academy 2020. Specific course content is referenced throughout. Links to the video lectures and google colab tutorials/assignments can be found [here](https://github.com/NeuromatchAcademy) if one looks around. Videos were also posted to YouTube during the course.
 
 Fair warning: these notes are already a bit old at the time of posting (May 2021) and I haven't updated the content, so some of the material is no longer relevant or is incomplete. It was my intention that some of this would make it into a paper, but that has yet to materialise; I hope instead someone can find some utility in it this way. 
 
