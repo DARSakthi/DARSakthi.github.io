@@ -6,7 +6,7 @@ author_profile: true
 
 # About and Contact Information
 
-I am a researcher primarily affiliated with the Department of Mathematics at Stony Brook University. I am also involved in the Department of Physics and Astronomy, and the Department of Biomedical Engineering in the Renaissance School of Medicine. 
+I am a researcher primarily affiliated with the Department of Mathematics at Stony Brook University. I am also involved in the Department of Physics and Astronomy, and the Department of Biomedical Engineering in the Renaissance School of Medicine. I am also a consultant research scientist for the London-based AI and active inference think tank, Nested Minds Solutions.
 
 I take a particular interest in complex systems theory, and understanding features of complexity in both biology and physics. My research often focusses on the mathematical structure of complex systems. I’m active in mathematical and statistical physics; especially geometric and category theoretic methods, non-equilibrium statistical physics, and dynamical systems theory. One of my long-term research goals is to formulate an axiomatic complex systems theory. I often apply this philosophy to questions in theoretical neuroscience and machine learning—at times I have taken an interest in clinical objectives in the computational modelling of the brain, as well as foundations and theory in machine learning.
 
