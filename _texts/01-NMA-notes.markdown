@@ -1,5 +1,5 @@
 ---
-collection: texts-lec-notes
+collection: texts
 title: "The Mathematics of Cognition: Inference, Reward, and Behaviour"
 layout: post
 permalink: /texts/NMA-notes
