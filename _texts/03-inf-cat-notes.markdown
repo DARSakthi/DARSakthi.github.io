@@ -1,5 +1,5 @@
 ---
-collection: texts-lec-notes
+collection: texts
 title: "Some Vocabulary and Motivation for $$\infty$$-Category Theory"
 layout: post
 permalink: /texts/infcat-notes
