@@ -1,6 +1,6 @@
 ---
 collection: texts
-title: "Some Vocabulary and Motivation for $$\infty$$-Category Theory"
+title: "Some Vocabulary and Motivation for Infinity-Category Theory"
 layout: post
 permalink: /texts/infcat-notes
 date: 2021-11-24
