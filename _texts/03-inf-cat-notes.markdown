@@ -10,7 +10,7 @@ These are notes for the 2021-2022 algebraic topology reading group on $$\infty$$
 
 On 29 November these notes were updated to include more about $$\infty$$-categories themselves.
 
-On 6 December these notes were updated again to include more about homotopy coherence. I take the approach of cosimplicial sets without necessarily saying as much. New things in the last section are described at a partially heuristic level, so a useful resource for further reading is Riehl's set of notes on cosimplicial objects, [Cosimplicial Sets, An Overture](https://math.jhu.edu/~eriehl/complicial.pdf).
+On 6 December these notes were updated again to include more about homotopy coherence. I take the approach of cosimplicial sets without necessarily saying as much. New things in the last section are described at a partially heuristic level, so a useful resource for further reading is Riehl's set of notes on cosimplicial objects, [Cosimplicial Sets, an Overture](https://math.jhu.edu/~eriehl/complicial.pdf).
 
 Notes: [Some Vocabulary and Motivation for $$\infty$$-Category Theory](/files/InfCat_Notes.pdf)
 
