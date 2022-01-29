@@ -1,6 +1,6 @@
 ---
 title: 'More About What Mean Field Theory Actually Means'
-date: 2022-01-29
+date: 2022-01-25
 permalink: /posts/2022/01/2-MFT-4-ME
 layout: post
 usemathjax: true
