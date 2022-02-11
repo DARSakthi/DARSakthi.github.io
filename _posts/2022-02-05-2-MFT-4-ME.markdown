@@ -9,7 +9,7 @@ tags:
   - musings
 ---
 
-Wherein I discuss at length what puts the 'mean' in mean field theory, and why we minimise free energy to calculate it. Some more general comments on free energy are given, because I can't help myself. The proofs in the middle about the effective field, and at the very bottom about variational inference, both appear new, so that's nice. 
+Wherein I discuss at length what puts the 'mean' in mean field theory, and why we minimise free energy to calculate it. Some more general comments on free energy are given, because I can't help myself. The proof in the middle about the effective field, and at the very bottom about variational inference, both appear new, so that's nice. 
 
 The gift that continues to give is evidently [this set of notes](https://darsakthi.github.io/texts/ising-tutorial) I wrote recently on mean field theory, where I discuss a little about the formal, variational basis for mean field approximation. In that paper, I _hint_ at a nice physical motivation for mean field theory—if we simplify a system to something that has certain effective dynamics, then interaction terms tend to go away, having the physical interpretation of suppressing fluctuations around a mean. It was pointed out to me by a dear reader that I never prove this in the paper, only suggesting that there is a relationship between simple non-interacting pictures and actual convergence to mean field dynamics. That is, I never explicitly show what puts the 'mean' in mean field theory. As an addendum to the paper indicated, I'll talk a little about this here, in this blog post. 
 
@@ -64,9 +64,13 @@ $$ \ln\{Z(x\mid y)\} \geq \ln\{Z_q(x; \lambda)\} - \beta \langle \hat H(x \mid y
 where we have also introduced some parameter $$\lambda$$ to the trial distribution $$q$$ (not a notational accident; this is indeed a control parameter for our trial Hamiltonian). Just as in mean field theory, this KL divergence is the variational free energy of $$q$$ as compared to $$p$$, which is greater than (or equal to) the free energy of $$p$$ in general. Again, though, this is usually not tractable. So, we do the following: using the fact that $$p$$ and $$q$$ are exponential distributions (by assumption), Bayes' theorem to expand the posterior, and linearity of the expectation throughout, we can rewrite the Bogoliubov inequality for $$q$$ away from $$p(x \mid y)$$ as 
 
 $$ \ln\{Z_{\mid y})\} \geq \ln\{Z_q\} - \beta \langle \ln\{ Z_{\mid y} p(x \mid y) \} \rangle_q + \beta \langle \ln\{Z_q q_\lambda(x) \} \rangle_q $$
+
 $$\ln\{Z_{\mid y})\} \geq \ln\{Z_q\} - \beta \left\langle \ln\left\{ Z_{\mid y} \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \beta \langle Z_q \ln\{q_\lambda(x) \} \rangle_q$$
+
 $$0 \geq \ln\{Z_q\} - \beta \left\langle \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \beta \langle \ln\{q_\lambda(x) \} \rangle_q$$
+
 $$0 \geq - \beta \left\langle \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \beta \langle \ln\{q_\lambda(x) \} \rangle_q$$
+
 $$0 \geq - \beta D_{KL}( q_\lambda(x) \| p(x,y) ) + \ln\{p(y)\}$.$
 
 Et voilà, the ELBO is secretly the Bogoliubov inequality. In particular, now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$\ln\{p(y)\}$$, which one could read as scoring the difference between our trial distribution $$q$$'s performance for the 'true' distribution $$p(x,y)$$ and the actual true distribution $$p(x \mid y)$$. That is to say, we have the identity 
