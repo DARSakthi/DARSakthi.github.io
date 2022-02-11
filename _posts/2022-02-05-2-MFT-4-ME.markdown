@@ -9,7 +9,7 @@ tags:
   - musings
 ---
 
-Wherein I discuss at length what puts the 'mean' in mean field theory, and why we minimise free energy to calculate it. Some more general comments on free energy are given, because I can't help myself. The proof in the middle about the effective field, and at the very bottom about variational inference, both appear new, so that's nice. 
+Wherein I discuss at length what puts the 'mean' in mean field theory, and why we minimise free energy to calculate it. Some more general comments on free energy are given, because I can't help myself. The proofs (about the effective field in the middle, and about variational inference at the bottom) appear new, so that's nice. 
 
 # Mean Field Theory in Statistical Physics
 
