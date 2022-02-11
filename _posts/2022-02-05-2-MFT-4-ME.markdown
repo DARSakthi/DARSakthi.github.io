@@ -71,7 +71,7 @@ $$0 \geq \ln\{Z_q\} - \beta \left\langle \ln\left\{ \frac{p(x,y)}{p(y)} \right\}
 
 $$0 \geq - \beta \left\langle \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \beta \langle \ln\{q_\lambda(x) \} \rangle_q$$
 
-$$0 \geq - \beta D_{KL}( q_\lambda(x) \| p(x,y) ) + \ln\{p(y)\}$.$
+$$0 \geq - \beta D_{KL}( q_\lambda(x) \| p(x,y) ) + \ln\{p(y)\}.$$
 
 Et voilà, the ELBO is secretly the Bogoliubov inequality. In particular, now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$\ln\{p(y)\}$$, which one could read as scoring the difference between our trial distribution $$q$$'s performance for the 'true' distribution $$p(x,y)$$ and the actual true distribution $$p(x \mid y)$$. That is to say, we have the identity 
 
