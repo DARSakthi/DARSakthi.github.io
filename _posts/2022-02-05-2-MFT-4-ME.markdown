@@ -72,17 +72,11 @@ Et voilà, the ELBO is secretly the Bogoliubov inequality. In particular, now, t
 
 $$ D_{KL}\left( q_\lambda(x), \frac{p(x, y)}{p(y)} \right) = D_{KL}(q_\lambda(x), p(x, y) ) + \ln\{ p(y) \},$$
 
-such that 
+which implies the full relation 
 
-$$ D_{KL}\left( q_\lambda(x), \frac{p(x, y)}{p(y)} \right) = \ln\{Z_{,y} - \ln\{Z_q\} + \beta \langle \hat H_{,y} - \hat H_q \rangle_q + \ln\{p(y)\} \geq 0. $$ 
+$$ \ln\{Z_{\mid y}\} - \ln\{Z_q\} + \beta \langle \hat H_{\mid y} - \hat H_q \rangle_q = \ln\{Z_{,y} \} - \ln\{Z_q\} + \beta \langle \hat H_{,y} - \hat H_q \rangle_q + \ln\{p(y)\} \geq 0, $$
 
-This implies the full relation 
-
-$$ \ln\{Z_{\mid y}\} - \ln\{Z_q\} + \beta \langle \hat H_{\mid y} - \hat H_q \rangle_q = \ln\{Z_{,y} - \ln\{Z_q\} + \beta \langle \hat H_{,y} - \hat H_q \rangle_q + \ln\{p(y)\} \geq 0, $$
-
-Such that we minimise the variational free energy precisely when we have a particular optimal value of $$\lambda$$, i.e., 
-
-$$ q_\lambda(x) \approx p(x,y) $$
+such that minimising the variational free energy occurs precisely when we have a particular optimal value of $$\lambda$$, i.e., $$ q_\lambda(x) \approx p(x,y) $$ _and_ a maximum for $$-\ln\{p(y)\} $$.
 
 
 To recap, we went over A) why it is we minimise $$F_V$$ in MFT, B) how this is equivalent to approximating the system with a field of means, C) what minimising $$F_V$$ actually means, and D) what it tells us about other types of approximations in statistics. Mean field theory is one of my favourite things in statistical physics, mostly because it takes something that should be ugly—heuristic, even mindless approximation of something that we feel 'should' work—and makes it into something rather elegant, with important things to say about physics and statistics itself. Hope you're coming round to it as well.
