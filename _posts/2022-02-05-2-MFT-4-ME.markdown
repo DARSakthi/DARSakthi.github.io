@@ -57,12 +57,27 @@ Since $$D_{KL} \geq 0$$, we in turn have
 
 $$ \ln\{Z\} \geq \ln\{Z_0\} - \beta \langle \hat H - \hat H_0) \rangle_0, $$ 
 
-which implies the Bogoliubov inequality (proof in [Sak22], with an unfortunate but inconsequential misprint in the sign of one term and the direction of one bound. These counteract each other such that the expression as a whole is correct, which becomes apparent in the line immediately following). Procedurally, variational inference is typically a bit more complicated, in that we have a slightly harder problem. It is often the case that the true distribution is unknown or too complicated to be accessible even in principle—say, a difficult marginal distribution which is the posterior of some Bayesian estimation problem. In that case, we can't minimise the distance away from something we don't know, so we rewrite the Bogoliubov inequality using Bayes' theorem to get 
+which implies the Bogoliubov inequality (proof in [Sak22], with an unfortunate but inconsequential misprint in the sign of one term and the direction of one bound. These counteract each other such that the expression as a whole is correct, which becomes apparent in the line immediately following). Procedurally, variational inference is typically a bit more complicated, in that we have a slightly harder problem. It is often the case that the true distribution is unknown or too complicated to be accessible even in principle—say, a difficult marginal distribution which is the posterior of some Bayesian estimation problem. In that case, we can't minimise the distance away from something we don't know, so we rewrite the Bogoliubov inequality using our new probability densities to get  
 
-$$ D_{KL}( q(x;\lambda), p(x \mid y) = D_{KL}\left( q_\lambda(x), \frac{p(x, y)}{p(y)} \right) = D_{KL}(q_\lambda(x), p(x,y) ) - \ln\{ p(y) \}$$
+$$ \ln\{Z(x\mid y)\} \geq \ln\{Z_0(x; \lambda)\} - \beta \langle \hat H(x \mid y) - \hat H_0(x ; \lambda)) \rangle_0 \iff D_{KL}( q(x;\lambda), p(x \mid y) \geq 0 $$ 
 
-where we have also introduce some parameter $$\lambda$$ to the trial distribution (not a notational accident; this is indeed a control parameter for our trial Hamiltonian). 
+where we have also introduce some parameter $$\lambda$$ to the trial distribution (not a notational accident; this is indeed a control parameter for our trial Hamiltonian). Just as in mean field theory, this KL divergence is the variational free energy of $$q$$ as compared to $$p$$, which is greater than (or equal to) the free energy of $$p$$ in general. Again, though, this is usually not tractable. So, we do the following: the RHS of this equation expands by Bayes' theorem to
+
+$$ D_{KL}\left( q_\lambda(x), \frac{p(x, y)}{p(y)} \right) = D_{KL}(q_\lambda(x), p(x, y) ) + \ln\{ p(y) \},$$
+
+such that 
+
+$$ F \leq F_0 + \lambda \Delta \hat H \iff D_{KL}(q_\lambda(x), p(x,y) ) \geq - \ln\{ p(y) \} $$
+
+by the previous argument ( $$D_{KL} \geq 0$$ ). Now, the distance between the variational free energy and the true free energy is controlled not just by $$\lambda$$, but $$-\ln\{p(y)\}$$. That is, we have
+
+
+However, this implies we minimise the variational free energy precisely when we have a particular optimal value of $$\lambda$$, such that
+
+$$ q_\lambda(x) \approx p(x,y) $$
+
+now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$-\ln\{p(y)\}$$. 
 
 Et voilà, the ELBO is secretly the Bogoliubov inequality. 
 
-To recap, we went over A) why it is we minimise $$F_V$$, B) how this is equivalent to approximating the system with a field of means, C) what minimising $$F_V$$ actually means, and D) what it tells us about other types of approximations. Mean field theory is one of my favourite things in statistical physics, mostly because it takes something that should be ugly—heuristic, even mindless approximation of something that we feel 'should' work—and makes it into something rather elegant, with important things to say about physics and statistics itself. Hope you're coming round to it as well.
+To recap, we went over A) why it is we minimise $$F_V$$ in MFT, B) how this is equivalent to approximating the system with a field of means, C) what minimising $$F_V$$ actually means, and D) what it tells us about other types of approximations in statistics. Mean field theory is one of my favourite things in statistical physics, mostly because it takes something that should be ugly—heuristic, even mindless approximation of something that we feel 'should' work—and makes it into something rather elegant, with important things to say about physics and statistics itself. Hope you're coming round to it as well.
