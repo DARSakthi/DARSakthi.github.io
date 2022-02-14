@@ -61,19 +61,19 @@ $$ D_{KL}(q \, \| \, p) = \beta \langle \hat H - \hat H_0 \rangle_0 + \ln\left\{
 
 Since $$D_{KL} \geq 0$$, in turn we have 
 
-$$ \ln\{Z\} \geq \ln\{Z_0\} - \beta \langle \hat H - \hat H_0 \rangle_0, $$ 
+$$ - \ln\{Z\} \leq - \ln\{Z_0\} + \beta \langle \hat H - \hat H_0 \rangle_0, $$ 
 
-which implies the Bogoliubov inequality (proof in [Sak22], with an unfortunate but inconsequential misprint in the sign of one term and the direction of one bound. These counteract each other such that the expression as a whole is correct, which becomes apparent in the line immediately following). Procedurally, variational inference is typically a bit more complicated, in that we have a slightly harder problem. It is often the case that the true distribution is unknown or too complicated to be accessible even in principle—say, a difficult marginal distribution which is the posterior of some Bayesian estimation problem. In that case, we can't minimise the distance away from something we don't know. Let's rewrite the Bogoliubov inequality using our new probability densities, to get  
+which is the Bogoliubov inequality (proof in [Sak22], with an unfortunate but inconsequential misprint in the sign of one term and the direction of one bound. These counteract each other such that the expression as a whole is correct, which becomes apparent in the line immediately following). Procedurally, variational inference is typically a bit more complicated, in that we have a slightly harder problem. It is often the case that the true distribution is unknown or too complicated to be accessible even in principle—say, a difficult marginal distribution which is the posterior of some Bayesian estimation problem. In that case, we can't minimise the distance away from something we don't know. Let's rewrite the Bogoliubov inequality using our new probability densities, to get  
 
-$$ \ln\{Z(x\mid y)\} \geq \ln\{Z_q(x; \lambda)\} - \langle \hat H(x \mid y) - \hat H_q(x ; \lambda)) \rangle_q \iff D_{KL}( q(x;\lambda) \|\, p(x \mid y) \geq 0, $$ 
+$$ -\ln\{Z(x\mid y)\} \leq -\ln\{Z_q(x; \lambda)\} + \langle \hat H(x \mid y) - \hat H_q(x ; \lambda)) \rangle_q \iff D_{KL}( q(x;\lambda) \|\, p(x \mid y) \geq 0, $$ 
 
 where we have also set $$\beta = 1$$ and introduced some parameter $$\lambda$$ to the trial distribution $$q$$ (not a notational accident; this is indeed a control parameter for our trial Hamiltonian). Just as in mean field theory, this KL divergence is the variational free energy of $$q$$ as compared to $$p$$, which is greater than (or equal to) the free energy of $$p$$ in general. Again, though, this is usually not tractable. So, we do the following: using the fact that $$p$$ and $$q$$ are exponential distributions (by assumption), Bayes' theorem to expand the posterior, and linearity of the expectation throughout, we can rewrite the Bogoliubov inequality for $$q$$ away from $$p(x \mid y)$$ as 
 
 $$ \begin{align*} 
-\ln\{Z_{\mid y})\} &\geq \ln\{Z_q\} - \langle -\ln\{ Z_{\mid y} p(x \mid y) \} \rangle_q - \langle \ln\{Z_q q_\lambda(x) \} \rangle_q \\
-\ln\{Z_{\mid y})\} &\geq \ln\{Z_q\} + \left\langle \ln\{Z_{\mid y}\} + \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q - \langle \ln\{Z_q\} + \ln\{q_\lambda(x) \} \rangle_q\\
-0 &\geq \left\langle \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q - \langle \ln\{q_\lambda(x) \} \rangle_q\\
-0 &\geq - D_{KL}( q_\lambda(x) \|\, p(x,y) ) - \ln\{p(y)\}. \end{align*} $$
+-\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \langle -\ln\{ Z_{\mid y} p(x \mid y) \} \rangle_q - \langle \ln\{Z_q q_\lambda(x) \} \rangle_q \\
+-\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \left\langle - \ln\{Z_{\mid y}\} - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q - \langle \ln\{Z_q\} + \ln\{q_\lambda(x) \} \rangle_q\\
+0 &\leq \left\langle - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \langle \ln\{q_\lambda(x) \} \rangle_q\\
+0 &\leq D_{KL}( q_\lambda(x) \|\, p(x,y) ) + \ln\{p(y)\}. \end{align*} $$
 
 Et voilà, the ELBO is secretly the Bogoliubov inequality. In particular, now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$\ln\{p(y)\}$$, which one could read as scoring the difference between our trial distribution $$q$$'s performance for the 'true' distribution $$p(x,y)$$ and the actual true distribution $$p(x \mid y)$$. That is to say, we have the identity 
 
