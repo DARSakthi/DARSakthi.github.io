@@ -81,7 +81,7 @@ $$ D_{KL}\left( q_\lambda(x) \bigg\|\, \frac{p(x, y)}{p(y)} \right) = D_{KL}(q_\
 
 which implies the full relation 
 
-$$ \ln\{Z_{\mid y}\} - \ln\{Z_q\} + \beta \langle \hat H_{\mid y} - \hat H_q \rangle_q = \ln\{Z_{,y} \} - \ln\{Z_q\} + \beta \langle \hat H_{,y} - \hat H_q \rangle_q + \ln\{p(y)\} \geq 0, $$
+$$ -\ln\{Z_{\mid y}\} + \ln\{Z_q\} - \beta \langle \hat H_{\mid y} - \hat H_q \rangle_q = -\ln\{Z_{,y} \} + \ln\{Z_q\} + \beta \langle \hat H_{,y} - \hat H_q \rangle_q + \ln\{p(y)\} \geq 0, $$
 
 such that globally minimising the variational free energy occurs precisely when we have a particular optimal value of $$\lambda$$, i.e., $$ q_\lambda(x) \approx p(x,y) $$, _and_ a maximum for $$-\ln\{p(y)\} $$. If you wish to look at it a different way, the Bogoliubov inequality arises _because_ there is a distance between the trial and true distributions which is not necessarily zero, and minimising the KL divergence between these two things makes $$F_V$$ approach $$F$$ for some critical value of $$\lambda$$. Taking the fact that the KL divergence of $$q_\lambda(x)$$ and $$p(x\mid y)$$ is equivalent to that of $$q_\lambda(x)$$ and $$p(x,y)$$ plus the log term, minimising the variational free energy of $$q$$ and $$p(x \mid y)$$ is equivalent to minimising either (ideally both) terms.  
 
