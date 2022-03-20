@@ -1,0 +1,11 @@
+---
+title: 'Agent-Environment Symmetry and Entropy-Energy Duality'
+date: 2022-03-21
+permalink: /posts/2022/03/FEP-Ent/
+layout: post
+usemathjax: true
+tags:
+  - projects and papers
+  - reading guides
+---
+
