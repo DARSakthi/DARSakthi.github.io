@@ -1,7 +1,7 @@
 ---
 title: 'High Energy Physics and Energy-Based Learning'
 date: 2022-03-21
-permalink: /posts/2022/03/hep-ebl/
+permalink: /posts/2022/03/HEP-EBL/
 layout: post
 usemathjax: true
 tags:
