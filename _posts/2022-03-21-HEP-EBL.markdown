@@ -31,11 +31,11 @@ The equation for parallel transport satisfies a Newtonian relation for geodesic 
 
 $$ \nabla \nabla p(x) = - \nabla (\nabla J(x) p(x)), \tag{1}$$
 
-yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\grad J(x)$$. By the gradient theorem, when we integrate \ref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in a potential $$\grad J(x)$$,
+yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\nabla J(x)$$. By the gradient theorem, when we integrate \ref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in a potential $$\nabla J(x)$$,
 
 $$ \nabla p(x) = - \nabla J(x) p(x), $$
 
-whose solution is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \ref{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
+whose solution is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \cite{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
 
 $$ - \frac{\nabla p(x)}{p(x)} - \nabla J(x), $$
 
