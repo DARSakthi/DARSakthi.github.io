@@ -29,15 +29,15 @@ In more detail—when the potential can be read as a deformation of the space, g
 
 The equation for parallel transport satisfies a Newtonian relation for geodesic flows,
 
-$$ \nabla \nabla p(x) = - \nabla (\nabla J(x) p(x)), \tag{1}$$
+$$ \nabla \nabla p(x) = - \nabla (\nabla J(x) p(x)), \label{1}$$
 
-yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\nabla J(x)$$. By the gradient theorem, when we integrate \ref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in a potential $$\nabla J(x)$$,
+yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\nabla J(x)$$. By the gradient theorem, when we integrate \eqref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in a potential $$\nabla J(x)$$,
 
 $$ \nabla p(x) = - \nabla J(x) p(x), $$
 
-whose solution is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \cite{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
+whose solution is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \eqref{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
 
-$$ - \frac{\nabla p(x)}{p(x)} - \nabla J(x), $$
+$$ - \frac{\nabla p(x)}{p(x)} - \nabla J(x) = 0, $$
 
 which integrates to the Euler-Lagrange equation satisfying the maximisation of entropy subject to a constraint function, $$-\ln\{p(x)\} - J(x)$$. Maximising entropy is famously the stationary solution to the Fokker-Planck equation (see work by Otto, Villani, etc). So, the purely analytic perspective confirms the general idea. Establishing as much is the content of Theorem 1.
 
