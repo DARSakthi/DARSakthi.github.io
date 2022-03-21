@@ -29,13 +29,13 @@ In more detail—when the potential can be read as a deformation of the space, g
 
 The equation for parallel transport satisfies a Newtonian relation for geodesic flows,
 
-$$ \nabla \nabla p(x) = - \nabla (\nabla J(x) p(x)), \label{1}$$
+$$ \nabla \nabla p(x) = - \nabla (\nabla J(x) p(x)), \tag{1}\label{1}$$
 
-yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\nabla J(x)$$. By the gradient theorem, when we integrate \eqref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in a potential $$\nabla J(x)$$,
+yielding the second-order spatial change in some point $$p(x)$$ under a potential function $$\nabla J(x) p(x)$$. Note that I mean this a bit loosely; this Newtonian relation is usually for the temporal change in the point and the potential isn't quite what we want. Nonetheless, it's close enough that it gives us a reason to keep investigating. By the gradient theorem, when we integrate \eqref{1} (ignoring some ultimately unimportant technical details) we get the system of ODEs for parallel transport in $$\mathbb{R}^n$$ and a potential $$\nabla J(x)$$,
 
-$$ \nabla p(x) = - \nabla J(x) p(x), $$
+$$ \nabla p(x) = - \nabla J(x) p(x).$$
 
-whose solution is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \eqref{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
+The solution to this equation is obviously $$\exp\{ -J(x) \}$$. Attentive readers might recognise \eqref{1} as the stationary Fokker-Planck equation; indeed, $$\exp\{ - J(x) \}$$ is the solution to that too. The equivalence is more principled still—the parallel transport equation rearranges to 
 
 $$ - \frac{\nabla p(x)}{p(x)} - \nabla J(x) = 0, $$
 
