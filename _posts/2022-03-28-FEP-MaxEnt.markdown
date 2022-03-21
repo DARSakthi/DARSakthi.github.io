@@ -1,6 +1,6 @@
 ---
 title: 'Agent/Environment Symmetry and Entropy/Free Energy Duality'
-date: 2022-03-21
+date: 2022-03-28
 permalink: /posts/2022/03/FEP-MaxEnt/
 layout: post
 usemathjax: true
