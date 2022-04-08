@@ -53,7 +53,7 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. Alexander Tschantz, Beren Mi
 
 ## Neuroscience, Philosophy, Human Intelligence and Perception
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. Maxwell J D Ramstead, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. Review of Philosophy and Psychology. 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [paper](({{site.files}}/files/MJDR2022-1.pdf))
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. Maxwell J D Ramstead, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [paper](({{site.files}}/files/MJDR2022-1.pdf))
 
 ## Other
 
