@@ -7,34 +7,34 @@ The VERSES Research Lab is a centre for research in statistical and biological p
 
 Mahault Albarracin
 
-Christopher L Buckley
+Christopher L Buckley [(website)](https://christopherlbuckley.com)
 
-Conor Heins
+Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
-Riddhi Pitliya Jain
+Riddhi Pitliya Jain [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
 
-Alex B Kiefer
+Alex B Kiefer [(website)](http://alexbkiefer.net)
 
-Brennan Klein
+Brennan Klein [(website)](https://www.jkbrennan.com)
 
-Magnus Koudahl
+Magnus Koudahl [(website)](https://biaslab.github.io/member/magnus/)
 
 Jonas Mago
 
-Beren Millidge
+Beren Millidge [(website)](https://beren.io)
 
-Gabriel Axel Montes
+Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
 
-Maxwell J D Ramstead
+Maxwell J D Ramstead [(website)](https://twitter.com/mjdramstead)
 
 Dalton A R Sakthivadivel
 
 Safae Essafi Tremblay
 
-Simon Tremblay
+Simon Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
 
-Alexander Tschantz
+Alexander Tschantz [(website)](https://alec-tschantz.github.io)
 
-Additionally, the lab has strong connections to the EASy group at Sussex Univesity and the Wellcome Centre at University College London. (Current as of April 2022.)
+Additionally, the lab has strong connections to the EASy group at Sussex Univesity and the Wellcome Centre at University College London. (Current as of March 2022.)
 
 
