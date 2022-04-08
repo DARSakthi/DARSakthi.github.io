@@ -47,7 +47,7 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 
 # Machine Learning, Control Theory, and Optimisation
 
-Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467)
+Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467)
 
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**, **Beren Millidge**, Anil K Seth, **Christopher L Buckley**. 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169)
 
