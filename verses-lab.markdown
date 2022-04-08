@@ -3,7 +3,7 @@ layout: page
 permalink: /verses-lab/
 ---
 
-The VERSES Research Lab is a centre for research in statistical and biological physics, artifical and human intelligence, as well as algorithms, techniques, and methods in control theory and machine learning. Via its research interests in the free energy principle and its corollaries—active inference, predictive processing, and Bayesian mechanics—the lab is producing highly original work in these areas. VERSES and the Spatial Web Foundation have generously funded this work. The research group consists of
+The VERSES Research Lab is a centre for research in statistical and biological physics, complexity theory, artifical and human intelligence, as well as algorithms, techniques, and methods in optimisation and machine learning. Via its research interests in the free energy principle and its corollaries—active inference, predictive processing, and Bayesian mechanics—the lab is producing highly original work in these areas. VERSES and the Spatial Web Foundation have generously funded this work. The research group consists of
 
 Mahault Albarracin
 
