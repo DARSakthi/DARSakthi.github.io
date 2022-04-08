@@ -31,7 +31,7 @@ Dalton A R Sakthivadivel
 
 Safae Essafi Tremblay
 
-Simon Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
+Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
 
 Alexander Tschantz [(website)](https://alec-tschantz.github.io)
 
