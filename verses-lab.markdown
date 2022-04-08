@@ -65,9 +65,10 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 
 Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
 
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [PDF](https://darsakthi.github.io/files/MJDR2022-1.pdf).
+
 Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w), [PDF](https://darsakthi.github.io/files/Smith2022-1.pdf).
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [PDF](https://darsakthi.github.io/files/MJDR2022-1.pdf).
 
 
 
