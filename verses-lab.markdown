@@ -11,6 +11,8 @@ Mahault Albarracin [(website)](https://scholar.google.ca/citations?hl=en&user=KA
 
 Christopher L Buckley [(website)](https://christopherlbuckley.com)
 
+Karl J Friston [(website)](https://scholar.google.co.uk/citations?user=q_4u0aoAAAAJ&hl=en)
+
 Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
 Alex B Kiefer [(website)](http://alexbkiefer.net)
@@ -55,11 +57,11 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
-Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, Karl J Friston. *Entropy*, 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
+Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. *Entropy*, 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [PDF](https://darsakthi.github.io/files/MJDR2022-1.pdf).
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [PDF](https://darsakthi.github.io/files/MJDR2022-1.pdf).
 
 
 
