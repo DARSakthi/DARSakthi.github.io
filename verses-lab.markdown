@@ -45,7 +45,7 @@ Additionally, the lab has strong connections to the EASy group at Sussex Univesi
 
 A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2204.02169)
 
-# Machine Learning, Control Theory, and Optimisation
+# Machine Learning, Control Theory, Optimisation
 
 Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467)
 
