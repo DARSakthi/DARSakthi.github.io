@@ -55,7 +55,7 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**, **Be
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [paper](https://darsakthi.github.io/files/MJDR2022-1.pdf).
 
-# Other
+# The Free Energy Principle
 
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
