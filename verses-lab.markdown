@@ -55,7 +55,7 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
-Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. *Entropy*, 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
+Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, Karl J Friston. *Entropy*, 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
