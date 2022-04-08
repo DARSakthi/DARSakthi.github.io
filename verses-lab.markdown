@@ -3,7 +3,7 @@ layout: page
 permalink: /verses-lab/
 ---
 
-The VERSES Research Lab is a centre for research in statistical physics, biological physics, and complexity science, as well as artifical and human intelligence; robust work on theory, algorithms, techniques, and methods for optimisation and machine learning also happens in the lab. Via our research interests in the free energy principle and its corollaries—active inference, predictive processing, and Bayesian mechanics—the lab is producing highly original work in these areas. VERSES and the Spatial Web Foundation have generously funded this work. The research group consists of the following people:
+The VERSES Research Lab is a centre for research in statistical physics, biological physics, and complexity science, as well as artifical and human intelligence; robust work on theory, algorithms, techniques, and methods for optimisation and machine learning also happens in the lab. Via our research interests in the free energy principle and its corollaries—Bayesian mechanics, active inference, and predictive coding—the lab is producing highly original work in these areas. VERSES and the Spatial Web Foundation have generously funded this work. The research group consists of the following people:
 
 ## Team
 
@@ -45,7 +45,7 @@ Additionally, the lab has strong connections to the EASy group at Sussex Univers
 
 # Mathematics and Physics
 
-A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2204.02169).
+A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
 
 # Machine Learning, Control Theory, Optimisation
 
