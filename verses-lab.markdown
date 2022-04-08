@@ -19,7 +19,7 @@ Alex B Kiefer [(website)](http://alexbkiefer.net)
 
 Brennan Klein [(website)](https://www.jkbrennan.com)
 
-Magnus Koudahl [(website)](https://github.com/MagnusKoudahl)
+Magnus Koudahl [(website)](https://scholar.google.com/citations?user=RC6kLkYAAAAJ&hl=en&oi=ao)
 
 Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao)
 
