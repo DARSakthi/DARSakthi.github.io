@@ -11,7 +11,7 @@ Christopher L Buckley [(website)](https://christopherlbuckley.com)
 
 Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
-Riddhi Pitliya Jain [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
+Riddhi Jain Pitliya [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
 
 Alex B Kiefer [(website)](http://alexbkiefer.net)
 
