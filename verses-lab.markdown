@@ -39,25 +39,25 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
 Additionally, the lab has strong connections to the EASy group at Sussex Univesity and the Wellcome Centre at University College London. (Current as of April 2022.)
 
-## Papers and preprints
+## Papers and Preprints
 
 # Mathematics and Physics
 
-A Constraint Geometry for Inference and Integration. Dalton A R Sakthivadivel. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2204.02169)
+A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2204.02169)
 
 # Machine Learning, Control Theory, and Optimisation
 
-Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation? Beren Millidge, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467)
+Predictive Coding: Towards a Future of Deep Learning beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467)
 
-Hybrid Predictive Coding: Inferring, Fast and Slow. Alexander Tschantz, Beren Millidge, Anil K Seth, Christopher L Buckley. 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169)
+Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**, **Beren Millidge**, Anil K Seth, **Christopher L Buckley**. 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169)
 
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. Maxwell J D Ramstead, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [paper](({{site.files}}/files/MJDR2022-1.pdf))
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, Karl J Friston, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [paper](({{site.files}}/files/MJDR2022-1.pdf))
 
 # Other
 
-The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. Maxwell J D Ramstead. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528)
+The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528)
 
 
 
