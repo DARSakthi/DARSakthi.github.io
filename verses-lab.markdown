@@ -13,8 +13,6 @@ Christopher L Buckley [(website)](https://christopherlbuckley.com)
 
 Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
-Riddhi Jain Pitliya [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
-
 Alex B Kiefer [(website)](http://alexbkiefer.net)
 
 Brennan Klein [(website)](https://www.jkbrennan.com)
@@ -26,6 +24,8 @@ Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=
 Beren Millidge [(website)](https://beren.io)
 
 Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
+
+Riddhi Jain Pitliya [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
 
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
 
