@@ -15,6 +15,8 @@ Karl J Friston [(website)](https://scholar.google.co.uk/citations?user=q_4u0aoAA
 
 Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
+Riddhi Pitliya Jain [(website)](https://www.linkedin.com/in/riddhi-jain-98092b1b9/)
+
 Alex B Kiefer [(website)](http://alexbkiefer.net)
 
 Brennan Klein [(website)](https://www.jkbrennan.com)
@@ -27,13 +29,11 @@ Beren Millidge [(website)](https://beren.io)
 
 Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
 
-Riddhi Jain Pitliya [(website)](https://www.psy.ox.ac.uk/people/jain-riddhi)
-
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
 
 Dalton A R Sakthivadivel
 
-Safae Essafi Tremblay [(website)](https://ca.linkedin.com/in/safae-essafi-tremblay-086b74213)
+Safae Essafi Tremblay [(website)](https://www.researchgate.net/profile/Safae-Essafi-Tremblay-2)
 
 Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
 
