@@ -9,7 +9,7 @@ tags:
   - reading guides
 ---
 
-Here I discuss a lengthy new paper of mine entitled _Towards a Geometry and Analysis for Bayesian Mechanics_ (preprint arXiv:2204.xxxxx), as well as an accompanying collaborative paper entitled ... . I'll give broad overviews of both papers, contextualising their results and walking through the thought process. The rest of this post will be devoted to an in-depth look at Sections 4 and 6 of 2204.xxxxx.[^1] The second paper, 2204.xxxxx, speaks for itself, I think—that's the beauty of working with skilled collaborators.
+Here I discuss a lengthy new paper of mine entitled _Towards a Geometry and Analysis for Bayesian Mechanics_ (preprint arXiv:2204.xxxxx, cited here as [Sak2022]), as well as an accompanying collaborative paper entitled ... (preprint arXiv:2204.xxxx, cited here as [RSTK+22]). I'll give broad overviews of both papers, contextualising their results and walking through the thought process. The rest of this post will be devoted to an in-depth look at Sections 4 and 6 of [Sak2022].[^1] The second paper, [RSTK+22], speaks for itself, I think—that's the beauty of working with skilled collaborators.
 
 In any case—if I were to file this post under an MSC code, it would probably be 51P05, 'classical or axiomatic geometry and physics.' Allow me to explain why.
 
