@@ -9,6 +9,7 @@ layout: page
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%}
         {{ page.date | date: date_format }}    
+        
         {{ page.type }}
         {{ page.venue }}
         {{ page.location }}
