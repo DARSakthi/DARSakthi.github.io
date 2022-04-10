@@ -31,7 +31,7 @@ Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
 
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
 
-Dalton A R Sakthivadivel [(you are here)]({{ site.baseurl }})
+Dalton A R Sakthivadivel [(you are here)]({{ site.url }})
 
 Safae Essafi Tremblay [(website)](https://www.researchgate.net/profile/Safae-Essafi-Tremblay-2)
 
