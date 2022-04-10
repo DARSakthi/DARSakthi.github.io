@@ -43,6 +43,8 @@ Additionally, the lab has strong connections to the EASy group at Sussex Univers
 
 ## Papers and Preprints
 
+Unless indicated, all publications are open access and can be found at the links provided.
+
 # Mathematics and Physics
 
 A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
@@ -66,11 +68,11 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 
 Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y), [PDF](https://darsakthi.github.io/files/RSHSS+2022.pdf).
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
-Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w), [PDF](https://darsakthi.github.io/files/SRK2022.pdf).
+Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
 
-Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793), [PDF](https://darsakthi.github.io/files/ACFR2022.pdf).
+Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
 
 
