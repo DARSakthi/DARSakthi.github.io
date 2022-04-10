@@ -1,7 +1,7 @@
 ---
 title: "The Cortex in the Code: How Neuroscience Makes AI Intelligent"
 collection: talks
-type: "Talk"
+type: "Contribution"
 layout: talks
 venue: "PyData Conference"
 date: 2019-12-07
