@@ -3,7 +3,6 @@ title: "Morphogenesis : Basal Cognition :: Self-Organisation : Maximum Entropy"
 collection: talks
 type: "Invitation"
 layout: talks
-venue: ""
 date: 2022-03-31
 ---
 
