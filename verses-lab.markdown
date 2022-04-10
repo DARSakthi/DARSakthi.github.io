@@ -70,7 +70,7 @@ From Generative Models to Generative Passages: A Computational Approach to (Neur
 
 Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w), [PDF](https://darsakthi.github.io/files/SRK2022.pdf).
 
-Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, 2022. [Link](www.sciencedirect.com/science/article/pii/S0149763422000793), [PDF](https://darsakthi.github.io/files/ACFR2022.pdf).
+Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793), [PDF](https://darsakthi.github.io/files/ACFR2022.pdf).
 
 
 
