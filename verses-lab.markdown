@@ -39,7 +39,7 @@ Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay
 
 Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
-Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at Sussex University and the [Wellcome Centre](https://www.fil.ion.ucl.ac.uk) at University College London. (Current as of April 2022.)
+Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Wellcome Centre](https://www.fil.ion.ucl.ac.uk) at University College London. (Current as of April 2022.)
 
 ## Papers and Preprints
 
