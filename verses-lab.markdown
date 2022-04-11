@@ -58,6 +58,8 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 # The Free Energy Principle
 
+pymdp: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_, 2022. To appear. [See also preprint arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for mathematical appendices.
+
 Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_, 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
 
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
