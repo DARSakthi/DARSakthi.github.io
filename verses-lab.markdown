@@ -41,42 +41,38 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
 Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of April 2022.)
 
-## Papers and Preprints
+## Publications and Preprints
 
 Unless indicated, all publications are open access and can be found at the links provided.
 
 # Mathematics and Physics
 
-A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
+A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. March 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
 
 # Machine Learning, Control Theory, Optimisation
 
-Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
+Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
 \* equal contributions; listed alphabetically by first name
 
-Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
+Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
 
 # The Free Energy Principle
 
-pymdp: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_, 2022. To appear. See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
+pymdp: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_, April 2022. To appear. See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
-Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_, 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
+Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_, March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
 
-The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
+The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. December 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
-Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_, 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
+Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_, August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
-Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
+Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, March 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
 
-Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
+Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. February 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
 
-Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
-
-
-
-
+Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
