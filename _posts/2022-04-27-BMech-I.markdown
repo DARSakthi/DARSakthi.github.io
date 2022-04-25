@@ -1,7 +1,7 @@
 ---
 title: 'Agent/Environment Symmetry and Entropy/Free Energy Duality (Bayesian Mechanics I)'
 date: 2022-04-27
-permalink: /posts/2022/05/BMech/
+permalink: /posts/2022/05/BMech-I/
 layout: post
 usemathjax: true
 tags:
