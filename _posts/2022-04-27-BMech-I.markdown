@@ -9,7 +9,7 @@ tags:
   - reading guides
 ---
 
-Here I discuss a lengthy new paper of mine entitled _Towards a Geometry and Analysis for Bayesian Mechanics_ (preprint arXiv:2204.xxxxx, cited here as [Sak22]). I'll give a broad overview of the paper, contextualising the results and walking through the thought process. A future post will be devoted to an in-depth look at Sections 4 and 6 of [Sak22].[^1] There will be a more collaborative paper following this one which talks more about this line of enquiry, so I'll give a glimpse of that here too, but that may also get its own post. 
+Here I discuss a lengthy new paper of mine entitled _Towards a Geometry and Analysis for Bayesian Mechanics_ (preprint arXiv:2204.xxxxx, cited here as [Sak22]). I'll give a broad overview of the paper, contextualising the results and walking through the thought process. A future post will be devoted to an in-depth look at Sections 4 and 6 of [Sak22].[^1] There will be a more collaborative paper following this one which talks more about this line of enquiry, so I'll give a glimpse of that here too, but that may also get its own post. Lastly, a preliminary account of these results appeared in [this talk](https://darsakthi.github.io/talks/tnb-1). The gauge theory stuff in Section 6 makes some more sense when combined with pictures.
 
 In any case, if I were to file this post under an MSC code, it would probably be 51P05: classical or axiomatic geometry and physics. Allow me to explain why.
 
