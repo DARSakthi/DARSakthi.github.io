@@ -47,6 +47,8 @@ Unless indicated, all publications are open access and can be found at the links
 
 # Mathematics and Physics
 
+Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
+
 A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. March 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
 
 # Machine Learning, Control Theory, Optimisation
