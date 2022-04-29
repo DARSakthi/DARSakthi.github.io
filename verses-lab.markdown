@@ -45,6 +45,8 @@ Additionally, the lab has strong connections to the [EASy group](https://www.sus
 
 Unless indicated, all publications are open access and can be found at the links provided.
 
+&nbsp;
+
 [Mathematics and Physics](#math-ph)
 
 [Machine Learning, Control Theory, Optimisation](#ml)
@@ -54,6 +56,8 @@ Unless indicated, all publications are open access and can be found at the links
 [Neuroscience, Philosophy, Human Intelligence and Perception](#neuro)
 
 [Comments on "How Particular is the Physics of the Free Energy Principle?"](#sota)
+
+&nbsp;
 
 <a name="math-ph"></a>
 # Mathematics and Physics
@@ -70,6 +74,8 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **
 
 Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
 
+&nbsp;
+
 <a name="fep"></a>
 # The Free Energy Principle
 
@@ -80,6 +86,8 @@ Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Dem
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. December 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
 Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_, August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
+
+&nbsp;
 
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
@@ -92,10 +100,14 @@ Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems.
 
 Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
+&nbsp;
+
 <a name="sota"></a>
 # Comments on "How Particular is the Physics of the Free Energy Principle?"
 
 A group effort amongst lab members to take stock of the state of the art of the FEP around April/May 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
+
+&nbsp;
 
 Some Minimal Notes on Notation and Minima: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. April 2022. Preprint arXiv:2204.13576. [Link](https://arxiv.org/abs/2204.13576).    
 \* equal contributions; listed alphabetically by surname.
