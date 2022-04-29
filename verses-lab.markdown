@@ -45,6 +45,17 @@ Additionally, the lab has strong connections to the [EASy group](https://www.sus
 
 Unless indicated, all publications are open access and can be found at the links provided.
 
+[Mathematics and Physics](#mathematics-and-physics)
+
+[Machine Learning, Control Theory, Optimisation](#machine-learning,-control-theory,-optimisation)
+
+[The Free Energy Principle](#the-free-energy-principle)
+
+[Neuroscience, Philosophy, Human Intelligence and Perception](#neuroscience,-philosophy,-human-intelligence-and-perception)
+
+[Comments on "How Particular is the Physics of the Free Energy Principle?"](#comments-on-"how-particular-is-the-physics-of-the-free-energy-principle?")
+
+
 # Mathematics and Physics
 
 Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
@@ -77,4 +88,11 @@ Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell
 Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. February 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
 
 Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
+
+# Comments on "How Particular is the Physics of the Free Energy Principle?"
+
+A group effort amongst lab members to take stock of the state of the art of the FEP around April/May 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
+
+Some Minimal Notes on Notation and Minima: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. April 2022. Preprint arXiv:2204.13576. [Link](https://arxiv.org/abs/2204.13576).
+* equal contributions; listed alphabetically by surname.
 
