@@ -45,24 +45,26 @@ Additionally, the lab has strong connections to the [EASy group](https://www.sus
 
 Unless indicated, all publications are open access and can be found at the links provided.
 
-[Mathematics and Physics](#mathematics-and-physics)
+[Mathematics and Physics](#math-ph)
 
-[Machine Learning, Control Theory, Optimisation](#machine-learning,-control-theory,-optimisation)
+[Machine Learning, Control Theory, Optimisation](#ml)
 
-[The Free Energy Principle](#the-free-energy-principle)
+[The Free Energy Principle](#fep)
 
-[Neuroscience, Philosophy, Human Intelligence and Perception](#neuroscience,-philosophy,-human-intelligence-and-perception)
+[Neuroscience, Philosophy, Human Intelligence and Perception](#neuro)
 
-[Comments on "How Particular is the Physics of the Free Energy Principle?"](#comments-on-"how-particular-is-the-physics-of-the-free-energy-principle?")
+[Comments on "How Particular is the Physics of the Free Energy Principle?"](#sota)
 
 
 # Mathematics and Physics
+{: math-ph}
 
 Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
 
 A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. March 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
 
 # Machine Learning, Control Theory, Optimisation
+{: ml}
 
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
 \* equal contributions; listed alphabetically by first name
@@ -70,6 +72,7 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **
 Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
 
 # The Free Energy Principle
+{: fep}
 
 pymdp: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_, April 2022. To appear. See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
@@ -80,6 +83,7 @@ The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell 
 Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_, August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 # Neuroscience, Philosophy, Human Intelligence and Perception
+{: neuro}
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
@@ -90,6 +94,7 @@ Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems.
 Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
 # Comments on "How Particular is the Physics of the Free Energy Principle?"
+{: sota}
 
 A group effort amongst lab members to take stock of the state of the art of the FEP around April/May 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
 
