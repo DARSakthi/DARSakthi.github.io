@@ -5,6 +5,8 @@ permalink: /verses-lab/
 
 The VERSES Research Lab is an international centre for research in statistical physics, biological physics, and complexity science, as well as artifical and human intelligence; robust work on algorithms, techniques, and foundations for optimisation and learning theory also happens in the lab. Via our research interests in the free energy principle and its corollaries—Bayesian mechanics, active inference, and predictive coding—the lab is producing highly original work in these areas. VERSES and the Spatial Web Foundation have generously funded these endeavours. The research group consists of the following people:
 
+&nbsp;
+
 ## Team
 
 Mahault Albarracin [(website)](https://scholar.google.ca/citations?hl=en&user=KAxZtUIAAAAJ)
@@ -40,6 +42,8 @@ Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay
 Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
 Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of April 2022.)
+
+&nbsp;
 
 ## Publications and Preprints
 
