@@ -107,7 +107,9 @@ Stress and its Sequelae: An Active Inference Account of the Etiological Pathway 
 <a name="sota"></a>
 # Comments on "How Particular is the Physics of the Free Energy Principle?"
 
-> A group effort amongst lab members to take stock of the state of the art of the FEP around April/May 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
+A group effort amongst lab members to take stock of the state of the art of the FEP around April and May of 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
+
+&nbsp;
 
 Some Minimal Notes on Notation and Minima: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. April 2022. Preprint arXiv:2204.13576. [Link](https://arxiv.org/abs/2204.13576).    
 \* equal contributions; listed alphabetically by surname.
