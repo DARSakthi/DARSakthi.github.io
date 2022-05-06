@@ -51,7 +51,7 @@ Now, on to S6. In S6 I focus on some more esoteric aspects of both max ent and t
 
 In S6.1, I discuss gauge theory, giving a brief and probably too-terse-by-half overview of what a gauge theory is. I also talk a little about my parallel transport results, which get a little bit more attention in the post linked above. 
 
-In S6.2, I elaborate on the statement that the target density is 'essentially a stand in for a probability density that arises from paths being constrained to an attractor.' This is given in a long proof, Theorem 6.1. I also discuss the infamous Helmholtz decomposition here, which turns out to be less frightening than it seems: it merely arises from a constraint geoemtry, and so in this simple case, is nothing but a gauge-symmetric aspect of maximum entropy.[^3] 
+In S6.2, I elaborate on the statement that the target density is 'essentially a stand in for a probability density that arises from paths being constrained to an attractor.' This is given in a long proof, Theorem 6.1. I also discuss the infamous Helmholtz decomposition here, which turns out to be less frightening than it seems: it merely arises from a constraint geometry, and so in this simple case, is nothing but a gauge-symmetric aspect of maximum entropy.[^3] 
 
 In S6.3 I discuss generalisations of all this to less simple cases like non-equilibria. We can get some results, but not great ones; so it remains a future task to extend this to genuine non-equilibra. 
 
