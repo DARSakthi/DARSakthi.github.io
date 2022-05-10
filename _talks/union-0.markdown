@@ -3,7 +3,7 @@ title: "Statistical Inference and the Parallel Transport of Probability"
 collection: talks
 type: "Contribution"
 layout: talks
-venue: "Union College Mathematics Conference"
+venue: "Union College"
 date: 2022-06-5
 location: "Schenectady, New York, United States"
 ---
