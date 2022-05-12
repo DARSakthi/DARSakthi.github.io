@@ -112,5 +112,5 @@ A group effort amongst lab members to take stock of the state of the art of the 
 &nbsp;
 
 Some Minimal Notes on Notation and Minima: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. April 2022. Preprint arXiv:2204.13576. [Link](https://arxiv.org/abs/2204.13576).    
-\* equal contributions; listed alphabetically by surname.
+\* equal contributions; listed alphabetically by surname
 
