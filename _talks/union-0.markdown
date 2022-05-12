@@ -13,9 +13,3 @@ I gave the following talk at the Union College Mathematics Conference, in the St
 _Abstract_: 
 
 Methods in statistics like maximum entropy usually focus on the probability measure associated to a dynamical system or field theory with probabilistic degrees of freedom; in so doing, statistical inference yields the probability of observing any given state of the system under some randomness. We prove that the solution to maximum entropy is parallel transport over the state space of the system. This gives a principled reason for the almost unreasonable success of certain energy-based statistical algorithms, in that finding the probability measure over states is simplified from solving a difficult PDE to an entirely geometric characterisation of a flow along a potential function.
-
-Talk: [link to recording](https://darsakthi.github.io/404)
-
-Slides: [UCM Jun 2022.pdf](https://darsakthi.github.io/404)
-
-Other details: [link to website](https://darsakthi.github.io/404)
