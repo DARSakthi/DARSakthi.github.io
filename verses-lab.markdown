@@ -111,6 +111,8 @@ A group effort amongst lab members to take stock of the state of the art of the 
 
 &nbsp;
 
+Regarding Flows Under the Free Energy Principle: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Dalton A R Sakthivadivel**. May 2022. Preprint arXiv:2205.07793. [Link](https://arxiv.org/abs/2205.07793).
+
 Some Minimal Notes on Notation and Minima: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. April 2022. Preprint arXiv:2204.13576. [Link](https://arxiv.org/abs/2204.13576).    
 \* equal contributions; listed alphabetically by surname
 
