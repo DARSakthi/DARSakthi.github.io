@@ -1,5 +1,3 @@
-2057
-
 ---
 title: "Morphogenesis : Basal Cognition :: Self-Organisation : Maximum Entropy"
 collection: talks
