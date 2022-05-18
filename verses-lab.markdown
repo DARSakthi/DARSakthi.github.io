@@ -81,28 +81,28 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 <a name="fep"></a>
 # The Free Energy Principle
 
-Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_, May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
+Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_. May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
 
-<span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_, May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
+<span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
-Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_, March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
+Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_. March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
 
 The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. December 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
 
-Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_, August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
+Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_. August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 &nbsp;
 
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
-From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_, March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
+From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
-Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_, March 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
+Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_. March 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
 
 Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. February 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
 
-Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_, February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
+Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_. February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
 &nbsp;
 
