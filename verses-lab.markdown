@@ -109,7 +109,7 @@ Stress and its Sequelae: An Active Inference Account of the Etiological Pathway 
 <a name="sota"></a>
 # Comments on "How Particular is the Physics of the Free Energy Principle?"
 
-A group effort amongst lab members to take stock of the state of the art of the FEP around April and May of 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in volume 41. 
+A group effort amongst lab members to take stock of the state of the art of the FEP around April and May of 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in [volume 41](https://www.sciencedirect.com/journal/physics-of-life-reviews/vol/41/suppl/C). 
 
 &nbsp;    
 Regarding Flows Under the Free Energy Principle: A Comment on "How Particular is the Physics of the Free Energy Principle?" by Aguilera, Millidge, Tschantz, and Buckley. **Dalton A R Sakthivadivel**. May 2022. Preprint arXiv:2205.07793. [Link](https://arxiv.org/abs/2205.07793).
