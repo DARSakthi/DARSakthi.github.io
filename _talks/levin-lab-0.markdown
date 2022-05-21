@@ -9,7 +9,7 @@ location: "Boston, Massachusetts, United States (virtually)"
 published: true
 ---
 
-I gave a talk to the Levin lab about my recent work on gauge symmetries, inference, and self-organisation.
+I am giving a talk to the Levin lab about my recent work on gauge symmetries, inference, and self-organisation.
 
 _Abstract_: 
 
