@@ -55,7 +55,7 @@ theme: minima
 plugins:
   - jekyll-feed
   
- future: true
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
