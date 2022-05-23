@@ -29,6 +29,8 @@ Beren Millidge [(website)](https://beren.io)
 
 Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
 
+Jurgis Pasukonis [(website)](https://scholar.google.com/citations?user=nxRttTYAAAAJ&hl=en&authuser=1)
+
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
 
 Dalton A R Sakthivadivel [(you are here)]({{ site.url }})
