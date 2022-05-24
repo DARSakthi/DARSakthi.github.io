@@ -120,6 +120,6 @@ Particular Flows and Attracting Sets. **Conor Heins**. May 2022. Preprint 2205.0
 
 Regarding Flows Under the Free Energy Principle. **Dalton A R Sakthivadivel**. May 2022. Preprint arXiv:2205.07793. [Link](https://arxiv.org/abs/2205.07793).
 
-Some Minimal Notes on Notation and Minima. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. May 2022. [Preprint](https://arxiv.org/abs/2204.13576). [Link](https://doi.org/10.1016/j.plrev.2022.05.005). [PDF]({{ site.url }}/files/MJDR Phys Life Rev 2022 (proofs).pdf).    
+Some Minimal Notes on Notation and Minima. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. May 2022. [Preprint](https://arxiv.org/abs/2204.13576). [Link](https://doi.org/10.1016/j.plrev.2022.05.005), [PDF]({{ site.url }}/files/MJDR Phys Life Rev 2022 (proofs).pdf).    
 \* equal contributions; listed alphabetically by surname
 
