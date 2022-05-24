@@ -65,7 +65,7 @@ Unless indicated, all publications are open access and can be found at the links
 # Mathematics and Physics
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint 2205.xxxx. [Link](DNE).    
-<span style="font-size:0.5em;">\* equal contributions; listed alphabetically by surname</span>
+<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
 
 Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
 
@@ -79,7 +79,7 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning. **Beren Millidge**, Mark Walton, Rafal Bogacz. April 2022. BioRxiv preprint. [Link](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1).
 
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
-<span style="font-size:0.5em;">\* equal contributions; listed alphabetically by first name</span>
+<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
 
 Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
 
@@ -126,5 +126,5 @@ Particular Flows and Attracting Sets. **Conor Heins**. May 2022. Preprint 2205.0
 Regarding Flows Under the Free Energy Principle. **Dalton A R Sakthivadivel**. May 2022. Preprint arXiv:2205.07793. [Link](https://arxiv.org/abs/2205.07793).
 
 Some Minimal Notes on Notation and Minima. **Maxwell J D Ramstead**\* and **Dalton A R Sakthivadivel**\*. May 2022. [Preprint](https://arxiv.org/abs/2204.13576). [Link](https://doi.org/10.1016/j.plrev.2022.05.005), [PDF]({{ site.url }}/files/MJDR Phys Life Rev 2022 (proofs).pdf).    
-<span style="font-size:0.5em;">\* equal contributions; listed alphabetically by surname</span
+<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span
 
