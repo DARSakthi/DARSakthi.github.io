@@ -47,7 +47,7 @@ Additionally, the lab has strong connections to the [EASy group](https://www.sus
 
 ## Publications and Preprints
 
-Unless indicated, all publications are open access and can be found at the links provided.
+Except for where PDFs are provided, publications are open access and can be found at the links indicated.
 
 [Mathematics and Physics](#math-ph)
 
