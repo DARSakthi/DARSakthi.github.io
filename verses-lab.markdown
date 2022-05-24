@@ -73,6 +73,8 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
+Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning. **Beren Millidge**, Mark Walton, Rafal Bogacz. April 2022. BioRxiv preprint. [Link](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1).
+
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
 \* equal contributions; listed alphabetically by first name
 
