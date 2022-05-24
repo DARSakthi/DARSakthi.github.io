@@ -76,6 +76,8 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
+<span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
+
 Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning. **Beren Millidge**, Mark Walton, Rafal Bogacz. April 2022. BioRxiv preprint. [Link](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1).
 
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
@@ -89,8 +91,6 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 # The Free Energy Principle
 
 Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_. May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
-
-<span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
 Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_. March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
 
