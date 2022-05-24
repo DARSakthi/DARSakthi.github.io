@@ -65,7 +65,7 @@ Unless indicated, all publications are open access and can be found at the links
 # Mathematics and Physics
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint 2205.xxxx. [Link](DNE).    
-\* equal contributions; listed alphabetically by surname
+<span style="font-size:1em;">\* equal contributions; listed alphabetically by surname</span>
 
 Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
 
