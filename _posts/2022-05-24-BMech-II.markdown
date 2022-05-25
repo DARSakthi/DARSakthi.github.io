@@ -1,6 +1,6 @@
 ---
 title: 'A Working Definition of Bayesian Mechanics (Bayesian Mechanics II)'
-date: 2022-05-29
+date: 2022-05-24
 permalink: /posts/2022/05/BMech-II/
 layout: post
 usemathjax: true
