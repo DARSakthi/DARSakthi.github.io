@@ -8,7 +8,7 @@ date: 2022-06-5
 location: "Schenectady, New York, United States"
 ---
 
-I am giving the following talk at the Union College Mathematics Conference, in the Stochastic Analysis and Applications track.
+I gave the following talk at the Union College Mathematics Conference, in the Stochastic Analysis and Applications track.
 
 _Abstract_: 
 
