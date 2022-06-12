@@ -12,7 +12,7 @@ Other activities of or relating to my work
 # Outreach and Advocacy
 
 I am signatory
-- 1268 (post publication) to le collectif 'no fake science'
+- 1249 (post publication) to le collectif 'no fake science'
 - 1226 to the USACBI boycott
 - 379 to the No Free View? No Review! pledge
 - 151 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
