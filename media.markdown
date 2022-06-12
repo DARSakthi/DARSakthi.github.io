@@ -16,6 +16,7 @@ I am signatory
 - 1226 to the USACBI boycott
 - 379 to the No Free View? No Review! pledge
 - 151 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
+
 I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. I also feel strongly about [equity in science and mathematics](http://math.sfsu.edu/federico/).
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). 
