@@ -3,6 +3,10 @@ layout: page
 permalink: /media/
 ---
 
+Other activities of or relating to my work
+
+&nbsp;
+
 # Outreach and Advocacy
 
 I am signatory
@@ -20,3 +24,7 @@ I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in v
 # Media and Press
 
 On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.activeinference.org/home)'s podcasts, ActInfLab GuestStream, episode 23.1, which was [livestreamed here](https://youtu.be/igY9iyowesc).
+
+&nbsp;
+
+[Take me home](https://darsakthi.github.io)
