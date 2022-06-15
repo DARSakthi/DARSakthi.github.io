@@ -3,12 +3,6 @@ layout: page
 permalink: /media/
 ---
 
-Other activities of or relating to my work
-
-***
-
-&nbsp;
-
 # Outreach and Advocacy
 
 I am signatory
