@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /res
+permalink: /res/
 ---
 
 I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. I take a particular interest in 
