@@ -119,9 +119,9 @@ Stress and its Sequelae: An Active Inference Account of the Etiological Pathway 
 A group effort amongst lab members to take stock of the state of the art of the FEP around April and May of 2022. The target article appeared in volume 40 of _Physics of Life Reviews_ ([link](https://www.sciencedirect.com/science/article/pii/S1571064521000749)), whilst the comments, and the authors' response to those comments, are to appear in [volume 41](https://www.sciencedirect.com/journal/physics-of-life-reviews/vol/41/suppl/C) and [volume 42](https://www.sciencedirect.com/journal/physics-of-life-reviews/vol/42/suppl/C). 
 
 &nbsp;    
-Sparse Coupling and Markov Blankets. **Conor Heins** and Lancelot Da Costa. June 2022. [Preprint](https://arxiv.org/abs/2205.10190). [Journal link](https://doi.org/10.1016/j.plrev.2022.06.001).
-
 Particular Flows and Attracting Sets. **Conor Heins**. June 2022. [Preprint](https://arxiv.org/abs/2205.09595). [Journal link](https://doi.org/10.1016/j.plrev.2022.06.003).
+
+Sparse Coupling and Markov Blankets. **Conor Heins** and Lancelot Da Costa. June 2022. [Preprint](https://arxiv.org/abs/2205.10190). [Journal link](https://doi.org/10.1016/j.plrev.2022.06.001).
 
 Regarding Flows Under the Free Energy Principle. **Dalton A R Sakthivadivel**. May 2022. [Preprint](https://arxiv.org/abs/2205.07793). [Journal link](https://doi.org/10.1016/j.plrev.2022.05.009).
 
