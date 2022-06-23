@@ -8,7 +8,7 @@ Autumn 2022 reading group on Martin Hairer's regularity structures \[[main text:
 
 &nbsp;
 
-# Administrtive
+# Administrative
 
 Join the Discord server for this group with [this invitation](...). 
 
