@@ -14,6 +14,8 @@ Join the Discord server for this group with [this invitation](...).
 
 Zoom coordinates: [meeting link](...), XXXX on -day-.
 
+&nbsp;
+
 # Presentations
 
 Meeting one: part I, presented by X. Notes found here. 
