@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Current Research
 permalink: /research/
 ---
 
