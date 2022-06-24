@@ -6,14 +6,19 @@ permalink: /research/
 
 I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. I take a particular interest in 
 
-- complex and cybernetic systems, and 
+- complex and cybernetic systems, and    
+
 - understanding features of complexity in both biology and physics.
 
-At times I have taken an interest in theoretical neuroscience, like the computational modelling of the human brain in order and disorder or health and disease, modelling cortical organisation and firing dynamics, and the multiscale modelling of the brain. I have also been interested in theory and foundations for machine learning, and formal approaches to non-equilibrium statistical mechanics. Regardless of the specific system, one of my long-term research goals is to formulate an axiomatic complex systems theory. 
+At times I have taken an interest in theoretical neuroscience, like the multiscale modelling of the human brain (i.e., cortical organisation and firing dynamics in health and disease). I have also been interested in theory and foundations for machine learning, and formal approaches to non-equilibrium statistical mechanics. Regardless of the specific system, one of my long-term research goals is to formulate an axiomatic complex systems theory, determining where features of complexity come from in some rule-based fashion. Similarly, my research often has an eye towards formal structures for systems which are analytically difficult, and conversely, uses the physics of such systems as an inspiration for developing new mathematics.
 
-In the broadest possible terms, what this means is, I study—and try to find—**mathematical laws that explain how the more complicated things in our world work**, and why they work that way, using a variety of methods that map mathematical descriptions onto physical objects. I study these things generally, but, I am especially interested in how systems like the brain work from the standpoint of mathematics and physics. To understand this, I often work in an area broadly called 'complex systems theory.' The study of complex systems isn’t precisely mathematics yet, because it lacks laws—axioms and theorems—at the standard of [mathematical proof](https://en.wikipedia.org/wiki/Mathematical_proof). My research usually focusses on the mathematical structure of these complex systems, and attempts to determine what those laws might be.
+In the widest possible terms, what this means is, I study—and try to find—**mathematical laws that explain how the more complicated things in our world work**, and why they work that way, using a variety of methods that map mathematical descriptions onto physical objects. I study these things generally, but, I am especially interested in how systems like the brain (and other random systems) work from the standpoint of rigorous mathematics and physics. To understand this, I often work in an area broadly called 'complex systems theory.' The study of complex systems isn’t precisely mathematics yet, because it lacks laws—axioms and theorems—at the standard of [mathematical proof](https://en.wikipedia.org/wiki/Mathematical_proof). My research usually focusses on the mathematical structure of these complex systems, and attempts to determine what those laws might be.
 
-For the last few years I have worked primarily on ideas related to the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), which I believe to be a good scaffold for a mathematical theory of complexity. Most recently, myself and some collaborators have been developing a promising new approach to the statistical physics of non-equilibria and complexity, called _Bayesian mechanics._
+&nbsp;
+
+## Bayesian Mechanics
+
+For the last few years I have worked primarily on ideas related to the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), which I believe to be a good scaffold for a mathematical theory of complexity. Myself and some collaborators are working on developing a promising new approach to the statistical physics of non-equilibria and complexity, called _Bayesian mechanics._
 
 What is Bayesian mechanics? Our best attempt at an axiomatic characterisation of complexity unifies the study of stochastic thermodynamics, interacting random processes, and the topological and geometric features of dynamical systems. This lays out a theory of how one could formulate a picture of interacting random dynamical systems in a way that is conducive to axiomatisation, and which captures all the relevant teleological notions of complexity.
 
