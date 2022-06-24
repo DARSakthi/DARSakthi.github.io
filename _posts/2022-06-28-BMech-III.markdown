@@ -1,0 +1,15 @@
+---
+title: 'Classical Physics for the Bayesian Mechanic (Bayesian Mechanics III)'
+date: 2022-06-28
+permalink: /posts/2022/06/BMech-III/
+layout: post
+usemathjax: true
+published: false
+tags:
+  - projects and papers
+  - reading guides
+---
+
+Here I'll briefly summarise some of the finer points of a recent preprint of mine, [...](...), and in doing so, summarise the state of the art of Bayesian mechanics. I get to talk about supersymmetry too, which will be fun.
+
+
