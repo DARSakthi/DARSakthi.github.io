@@ -17,7 +17,7 @@ I am signatory
 
 I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. I also feel strongly about [equity in science and mathematics](http://math.sfsu.edu/federico/).
 
-I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). 
+I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
 I am also a member of the VERSES Research Ethics Board. I believe strongly in thinking through the ethical implications of my and others’ research.
 
