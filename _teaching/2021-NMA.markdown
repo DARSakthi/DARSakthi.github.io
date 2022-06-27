@@ -9,4 +9,4 @@ date: 2021-07-05
 location: "Everywhere"
 ---
 
-I was an instructor and volunteer at [NMA 2021](https://academy.neuromatch.io/nma2021). It seems I couldn't stay away. Please see [NMA 2020](2020-NMA) for details.
+I was an instructor, mentor, and volunteer at [NMA 2021](https://academy.neuromatch.io/nma2021). It seems I couldn't stay away. Please see [NMA 2020](2020-NMA) for details.
