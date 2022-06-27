@@ -32,6 +32,8 @@ Its connection to control in a worked example of a stochastic process is written
 
 The fullest single account of (a somewhat more nascent version of) the theory is the 2019 monograph [_A Free Energy Principle for a Particular Physics_](https://arxiv.org/abs/1906.10184), and its initial formulation in terms of coupled random dynamical systems arguably dates back to [_A Free Energy Principle for Biological Systems_](https://www.mdpi.com/1099-4300/14/11/2100). 
 
+Following on [Example 2.1 of 'Geometry and Analysis,'](https://arxiv.org/pdf/2204.11900.pdf#page.9) a worked example of the Bayesian mechanics of stones is [available here](https://drive.google.com/file/d/1JdBBbbLcRJDs_BCtmQRA3L5PMb072LSj/view?usp=sharing). 
+
 Other remarks about Bayesian mechanics can be found on [my blog](https://darsakthi.github.io/blog.html).
 
 &nbsp;
