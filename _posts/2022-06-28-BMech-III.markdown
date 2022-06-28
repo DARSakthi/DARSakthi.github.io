@@ -11,7 +11,7 @@ tags:
   - Bayesian mechanics
 ---
 
-Here I'll briefly summarise some of the coarser points of a recent preprint of mine, [...](...), and in doing so, summarise the state of the art of Bayesian mechanics. The introduction of the paper frames this summary quite well. I'll get to talk about supersymmetry too, which will be fun.
+Here I'll briefly summarise some of the coarser points of a recent preprint of mine, [arXiv:2206.12996](https://arxiv.org/abs/2206.12996), and in doing so, summarise the state of the art of Bayesian mechanics. The introduction of the paper frames this summary quite well. I'll get to talk about supersymmetry too, which will be fun.
 
 Everybody likes [examples](https://mathoverflow.net/questions/326912/story-of-grothendiecks-prime-number-57). It's well and good to speak in abstracts, but a good example seems to make things 'click' better than any statement or restatement of a general principle. One thing the free energy principle and Bayesian mechanics appear to lack is examples. It's important to note that that isn't quite true, but nevertheless, the impression one gets when looking at the literature is that it's a mathematical theory, spoken of in full generality, and occasionally makes its way down to earth to meet physics or biology. [A page summarising my research interests](https://darsakthi.github.io/research/) now has, at the bottom, a Bayesian mechanical bibliography; here I've recorded some key moments in the story so far. Only two of those key moments are about examples. I'm partially guilty of making that worse, and I recognise that it's not a terribly reader-friendly state of affairs. This was the beginning of my motivation for writing the paper I will discuss here. 
 
