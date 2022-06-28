@@ -4,7 +4,7 @@ date: 2022-06-28
 permalink: /posts/2022/06/BMech-III/
 layout: post
 usemathjax: true
-published: false
+published: true
 tags:
   - projects and papers
   - reading guides
