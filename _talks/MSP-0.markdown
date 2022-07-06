@@ -8,7 +8,7 @@ date: 2022-07-25
 location: "Glasgow, Scotland, United Kingdom"
 ---
 
-I will be going to the University of Strathclyde's Mathematically Structured Programming group to speak about Bayesian mechanics.
+I will be going to the University of Strathclyde's [Mathematically Structured Programming group](https://msp.cis.strath.ac.uk) to speak about Bayesian mechanics and its possible relations to categorical cybernetics.
 
 _Abstract_: 
 
