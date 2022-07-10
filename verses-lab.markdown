@@ -41,7 +41,7 @@ Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay
 
 Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
-Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of May 2022.)
+Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of June 2022.)
 
 &nbsp;
 
@@ -77,6 +77,8 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
+
+Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. June 2022. Preprint arXiv:2206.02629. [Link](https://arxiv.org/abs/2206.02629).
 
 <span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
