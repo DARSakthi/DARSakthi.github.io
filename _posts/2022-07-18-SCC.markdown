@@ -1,0 +1,18 @@
+---
+title: 'The Sparse Coupling Conjecture: New Results'
+date: 2022-07-18
+permalink: /posts/2022/06/SCC/
+layout: post
+usemathjax: true
+published: false
+tags:
+  - projects and papers
+  - reading guides
+  - Bayesian mechanics
+---
+
+In a recent paper of mine, [arXiv...](...), I give a set of proofs that resolve (to the best extent possible, anyway) an open question in the study of complex systems and random dynamics. Here I'll discuss the conjecture (including relevant background), and my results, at a high-level.
+
+Regular readers of this blog will most likely be familiar with the name Karl Friston and will find this superfluous. Folks from a broader audience might want to read it. In a [2021 paper](https://www.mdpi.com/1099-4300/23/9/1220/htm)—first appearing a year and a week ago, in fact, although the problem was being discussed for some time prior to this—a colleague and close collaborator of mine, Karl Friston, introduced the _sparse coupling conjecture_, a statement motivated by the structure of a particular class of random dynamical system relevant for complex systems theory (and statistical physics more broadly, in fact). Take two coupled random dynamical systems, interacting in such a way that they are separable, i.e., are statistically distinguishable. That is, either (in fact, both) system's statistics are conditionally independent of the other respective system, making them measurable and hence statistically distinct. This sort of structure is called a Markov blanket. The SCC is a conjecture that any sufficiently high-dimensional system with non-linearities and which exhibits certain features of complexity possesses a Markov blanket. There is a deeper, metalogical statement that a Markov blanket is the source (or, the reflection) of such complexity, and this is one way of thinking about Bayesian mechanics.[^1] However, purely mathematically, it is a statement that a certain class of systems with some properties that make them useful models of physics also come with the property of having a Markov blanket. 
+
+[1]: See the following page: [darsakthi.github.io/research](https://darsakthi.github.io/research/).
