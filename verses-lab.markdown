@@ -59,6 +59,8 @@ Except for where PDFs are provided, publications are open access and can be foun
 
 [Comments on "How Particular is the Physics of the Free Energy Principle?"](#sota)
 
+[Papers in _The Third International Workshop on Active Inference_](#iwai22)
+
 &nbsp;
 
 <a name="math-ph"></a>
@@ -130,4 +132,11 @@ Sparse Coupling and Markov Blankets. **Conor Heins** and Lancelot Da Costa. June
 Regarding Flows Under the Free Energy Principle. **Dalton A R Sakthivadivel**. May 2022. [Preprint](https://arxiv.org/abs/2205.07793). [Journal link](https://doi.org/10.1016/j.plrev.2022.05.009).
 
 Some Minimal Notes on Notation and Minima. **Maxwell J D Ramstead** and **Dalton A R Sakthivadivel**. May 2022. [Preprint](https://arxiv.org/abs/2204.13576). [Journal link](https://doi.org/10.1016/j.plrev.2022.05.005).
+
+&nbsp;
+
+<a name="iwai22"></a>
+# Papers in _The Third International Workshop on Active Inference_
+
+Papers go here
 
