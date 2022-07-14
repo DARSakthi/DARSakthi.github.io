@@ -19,4 +19,6 @@ What is a Markov blanket? [thing about fast mixing]
 
 The sparse coupling conjecture is, in particular, a statement that all sufficiently high-dimensional and non-linear [random dynamical] systems have a Markov blanket. Some reasons why we might expect this are outlined in the introduction: high-dimensional and non-linear systems are usually the sorts of complex systems that can engage in complex behaviours to remain cohesive. They are usually better at control, computation, and self-organisation; see the high-dimensionality of the brain or deep learning architectures, or the non-linearities in Turing pattern PDEs. Simply thinking mathematically, in larger state spaces there will be fewer states coupled at all, so as dimension increases the coupling structure will become sparser: not every state will couple to every other state. 
 
+[weaken it and you get better results and you make more physical sense. this is probably not a coincidence]
+
 [^1]: For more, see the following page: [darsakthi.github.io/research](https://darsakthi.github.io/research/).
