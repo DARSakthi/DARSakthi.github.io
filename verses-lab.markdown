@@ -66,7 +66,7 @@ Except for where PDFs are provided, publications are open access and can be foun
 <a name="math-ph"></a>
 # Mathematics and Physics
 
-A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996).
+A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996). To appear in _The Third International Workshop on Active Inference_.
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint arXiv:2205.11543. [Link](https://arxiv.org/abs/2205.11543).    
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
@@ -96,6 +96,8 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 <a name="fep"></a>
 # The Free Energy Principle
 
+Spin Glass Systems as Collective Active Inference. **Conor Heins**, **Brennan Klein**, Daphne Demekas, Miguel Aguilera, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.06970. [Link](https://arxiv.org/abs/2207.06970). To appear in _The Third International Workshop on Active Inference_.
+
 Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_. May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
 
 Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_. March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
@@ -108,6 +110,8 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
+
+Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
@@ -132,11 +136,3 @@ Sparse Coupling and Markov Blankets. **Conor Heins** and Lancelot Da Costa. June
 Regarding Flows Under the Free Energy Principle. **Dalton A R Sakthivadivel**. May 2022. [Preprint](https://arxiv.org/abs/2205.07793). [Journal link](https://doi.org/10.1016/j.plrev.2022.05.009).
 
 Some Minimal Notes on Notation and Minima. **Maxwell J D Ramstead** and **Dalton A R Sakthivadivel**. May 2022. [Preprint](https://arxiv.org/abs/2204.13576). [Journal link](https://doi.org/10.1016/j.plrev.2022.05.005).
-
-&nbsp;
-
-<a name="iwai22"></a>
-# Papers in _The Third International Workshop on Active Inference_
-
-Papers go here
-
