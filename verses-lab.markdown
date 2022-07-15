@@ -59,8 +59,6 @@ Except for where PDFs are provided, publications are open access and can be foun
 
 [Comments on "How Particular is the Physics of the Free Energy Principle?"](#sota)
 
-[Papers in _The Third International Workshop on Active Inference_](#iwai22)
-
 &nbsp;
 
 <a name="math-ph"></a>
