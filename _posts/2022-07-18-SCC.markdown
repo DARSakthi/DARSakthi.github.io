@@ -38,7 +38,7 @@ _Proof._ Let $\bm F_3$ be the field $\{-1, 0, 1\}$ and suppose entries in $Q$ an
 
 $$\frac{9^{n-1} - 2(4^{n-1})}{9^{n-1}},$$
 
-which clearly goes to one quickly with increasing $n$. $$\blacksquare$$.
+which clearly goes to one quickly with increasing $n$. $$\blacksquare$$
 
 Note also that, relatively speaking, sets of measure zero can still be quite large; see for instance the infamous Cantor set. This result only says that Markov blankets are more frequent than non-blanketed systems in the natural world. In some sense we have really given a dual result: weak Markov blankets are exceedingly common, indeed, almost tautological. More faithful blankets where each such index vanishes are much more difficult to find in general but are also common, indeed almost definitional, of high-dimensional systems. This latter statement is the sparse coupling conjecture.
 
