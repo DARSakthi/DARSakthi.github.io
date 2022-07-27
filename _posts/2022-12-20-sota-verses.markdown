@@ -4,7 +4,7 @@ date: 2022-12-20
 permalink: /posts/2022/12/sota-verses/
 layout: post
 usemathjax: true
-published: true
+published: false
 tags:
   - musings and writings
 ---
