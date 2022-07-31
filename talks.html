@@ -20,12 +20,13 @@ author_profile: true
           </a>
         
           <html>
+            #summary { max-width: 600px; }
             <div id="summary"><span style="font-size:0.75em;">Description</span></div>
             <div id="detail"><span style="font-size:0.75em;">{{ talk.content | truncatewords: 50 }}</span></div>
             <style type="text/css">
               #summary:hover + #detail, #detail:hover {
               display: block;
-              width: 400px
+              width: 600px;
               }
               #detail {
               display: none;
