@@ -20,8 +20,8 @@ author_profile: true
           </a>
         
           <html>
-            <div id="summary">{{ talk.title }}</div>
-            <div id="detail">{{ talk.content | truncatewords: 50 }}</div>
+            <div id="summary">Description</div>
+            <div id="detail"><span style="font-size:0.75em;">{{ talk.content | truncatewords: 50 }}</span></div>
             <style type="text/css">
               #summary:hover + #detail, #detail:hover {
               display: block;
