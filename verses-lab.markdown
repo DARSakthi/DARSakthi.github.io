@@ -109,6 +109,8 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
+Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
+
 Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
