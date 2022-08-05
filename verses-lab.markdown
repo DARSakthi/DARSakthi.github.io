@@ -44,14 +44,16 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
   <div id="summary"><span>As well as former team members.</span></div>
   <div id="detail"><span> 
     
-    Former members of the VERSES Lab include:
+    Former members of the VERSES Lab include: 
+    
+    &nbsp;
 
     Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao)
   
     </span></div>
   <style type="text/css">
      #summary {
-     max-width: 200px; 
+     max-width: 300px; 
      }
      #summary:hover + #detail, #detail:hover {
      display: block;
