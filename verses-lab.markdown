@@ -41,6 +41,7 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
 
 
 <html>
+  
   <div id="summary"><span>As well as former team members.</span></div>
   <div id="detail"><span> 
     
@@ -63,6 +64,9 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
      display: none;
      }
      </style>
+  
+  <br>
+  
 </html>
 
 Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of June 2022.)
