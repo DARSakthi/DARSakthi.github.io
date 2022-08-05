@@ -64,6 +64,8 @@ Except for where PDFs are provided, publications are open access and can be foun
 <a name="math-ph"></a>
 # Mathematics and Physics
 
+Weak Markov Blankets in High-Dimensional, Sparsely-Coupled Random Dynamical Systems. **Dalton A R Sakthivadivel**. July 2022. Preprint arXiv:2207.07620. [Link](https://arxiv.org/abs/2207.07620).
+
 A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996). To appear in _The Third International Workshop on Active Inference_.
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint arXiv:2205.11543. [Link](https://arxiv.org/abs/2205.11543).    
