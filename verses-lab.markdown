@@ -46,9 +46,9 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
     
     Former members of the VERSES Lab include: 
     
-    &nbsp;
+    <br>
 
-    Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao)
+    Jonas Mago <a href="https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao">(website)</a>
   
     </span></div>
   <style type="text/css">
