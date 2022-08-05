@@ -23,8 +23,6 @@ Brennan Klein [(website)](https://www.jkbrennan.com)
 
 Magnus Koudahl [(website)](https://scholar.google.com/citations?user=RC6kLkYAAAAJ&hl=en&oi=ao)
 
-Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao)
-
 Beren Millidge [(website)](https://beren.io)
 
 Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
@@ -40,6 +38,30 @@ Safae Essafi Tremblay [(website)](https://www.researchgate.net/profile/Safae-Ess
 Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
 
 Alexander Tschantz [(website)](https://github.com/alec-tschantz)
+
+
+<html>
+  <div id="summary"><span>As well as former team members.</span></div>
+  <div id="detail"><span> 
+    
+    Former members of the VERSES Lab include:
+
+    Jonas Mago [(website)](https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao)
+  
+    </span></div>
+  <style type="text/css">
+     #summary {
+     max-width: 200px; 
+     }
+     #summary:hover + #detail, #detail:hover {
+     display: block;
+     width: 800px;
+     }
+     #detail {
+     display: none;
+     }
+     </style>
+</html>
 
 Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex and the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre. The lab has a physical base of operations in Los Angeles, California. (Current as of June 2022.)
 
