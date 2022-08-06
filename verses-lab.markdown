@@ -15,8 +15,6 @@ Karl J Friston [(website)](https://scholar.google.co.uk/citations?user=q_4u0aoAA
 
 Conor Heins [(website)](https://www.ab.mpg.de/people/101190)
 
-Riddhi Pitliya Jain [(website)](https://www.linkedin.com/in/riddhi-jain-98092b1b9/)
-
 Alex B Kiefer [(website)](http://alexbkiefer.net)
 
 Brennan Klein [(website)](https://www.jkbrennan.com)
@@ -28,6 +26,8 @@ Beren Millidge [(website)](https://beren.io)
 Gabriel Axel Montes [(website)](http://gabrielaxel.com/academic)
 
 Jurgis Pasukonis [(website)](https://scholar.google.com/citations?user=nxRttTYAAAAJ&hl=en&authuser=1)
+
+Riddhi Jain Pitliya [(website)](https://www.linkedin.com/in/riddhi-jain-98092b1b9/)
 
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
 
@@ -137,7 +137,10 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 
 Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
 
-Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).
+Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
+<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
+
+Drift-Diffusion Model Reveals Impaired Reward-Based Perceptual Decision-Making Processes Associated with Depression in Late Childhood and Early Adolescent Girls. **Riddhi J Pitliya**, Brady D Nelson, Greg Hajcak, Jingwen Jin. _Research on Child and Adolescent Psychopathology._ June 2022. [Link](https://link.springer.com/article/10.1007/s10802-022-00936-y).
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
