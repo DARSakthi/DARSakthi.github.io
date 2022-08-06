@@ -142,6 +142,8 @@ Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin**\* and **
 
 Drift-Diffusion Model Reveals Impaired Reward-Based Perceptual Decision-Making Processes Associated with Depression in Late Childhood and Early Adolescent Girls. **Riddhi J Pitliya**, Brady D Nelson, Greg Hajcak, Jingwen Jin. _Research on Child and Adolescent Psychopathology._ June 2022. [Link](https://link.springer.com/article/10.1007/s10802-022-00936-y).
 
+Enacting Gender: An Enactive-Ecological Account of Gender and Its Fluidity. **Mahault Albarracin** and Pierre Poirier. _Frontiers in Psychology_. May 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.772287/full).
+
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
 Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_. March 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
