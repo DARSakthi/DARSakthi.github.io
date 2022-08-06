@@ -122,6 +122,8 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 Spin Glass Systems as Collective Active Inference. **Conor Heins**, **Brennan Klein**, Daphne Demekas, Miguel Aguilera, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.06970. [Link](https://arxiv.org/abs/2207.06970). To appear in _The Third International Workshop on Active Inference_.
 
+Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
+
 Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_. May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
 
 Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_. March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
@@ -134,8 +136,6 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
-
-Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
 
 Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
