@@ -137,7 +137,7 @@ Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **M
 <a name="neuro"></a>
 # Neuroscience, Philosophy, Human Intelligence and Perception
 
-Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
+Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin**\* and **Riddhi J Pitliya**\*. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
 
 Drift-Diffusion Model Reveals Impaired Reward-Based Perceptual Decision-Making Processes Associated with Depression in Late Childhood and Early Adolescent Girls. **Riddhi J Pitliya**, Brady D Nelson, Greg Hajcak, Jingwen Jin. _Research on Child and Adolescent Psychopathology._ June 2022. [Link](https://link.springer.com/article/10.1007/s10802-022-00936-y).
