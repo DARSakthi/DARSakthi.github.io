@@ -119,7 +119,7 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **
 
 Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models. **Beren Millidge,** Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz. February 2022. Preprint arXiv:2202.04557. [Link](https://arxiv.org/abs/2202.04557).
 
-Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**\*, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
+Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**\*, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).      
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
 
 &nbsp;
