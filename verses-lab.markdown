@@ -110,7 +110,7 @@ Successor Representation Active Inference. **Beren Millidge**, **Christopher L B
 
 Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. June 2022. Preprint arXiv:2206.02629. [Link](https://arxiv.org/abs/2206.02629).
 
-<span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
+<span style="font-family: Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
 Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning. **Beren Millidge**, Mark Walton, Rafal Bogacz. April 2022. BioRxiv preprint. [Link](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1).
 
