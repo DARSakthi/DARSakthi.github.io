@@ -129,6 +129,8 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 One Person's Modus Ponens...: Comment on "The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference" by Raja and Colleagues (2021). **Maxwell J D Ramstead**. August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.04275).
 
+Extended Plastic Inevitable. **Maxwell J D Ramstead** and **Karl J Friston.** _Constructivist Foundations_. July 2022. [Link](https://constructivist.info/17/3/238).
+
 Spin Glass Systems as Collective Active Inference. **Conor Heins**, **Brennan Klein**, Daphne Demekas, Miguel Aguilera, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.06970. [Link](https://arxiv.org/abs/2207.06970). To appear in _The Third International Workshop on Active Inference_.
 
 Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
