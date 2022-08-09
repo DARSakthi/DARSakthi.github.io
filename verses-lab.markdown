@@ -104,6 +104,10 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
+A Theoretical Framework for Inference and Learning in Predictive Coding Networks. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. July 2022. Preprint arXiv:2207.12316. [Link](https://arxiv.org/abs/2207.12316).
+
+Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897).
+
 Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. June 2022. Preprint arXiv:2206.02629. [Link](https://arxiv.org/abs/2206.02629).
 
 <span style="font-family:Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
@@ -113,12 +117,17 @@ Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
 
-Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**, Tommaso Salvatori, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
+Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models. **Beren Millidge,** Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz. February 2022. Preprint arXiv:2202.04557. [Link](https://arxiv.org/abs/2202.04557).
+
+Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**\*, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).
+<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
 
 &nbsp;
 
 <a name="fep"></a>
 # The Free Energy Principle
+
+One Person's Modus Ponens...: Comment on "The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference" by Raja and Colleagues (2021). **Maxwell J D Ramstead**. August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.04275).
 
 Spin Glass Systems as Collective Active Inference. **Conor Heins**, **Brennan Klein**, Daphne Demekas, Miguel Aguilera, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.06970. [Link](https://arxiv.org/abs/2207.06970). To appear in _The Third International Workshop on Active Inference_.
 
