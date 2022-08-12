@@ -1,0 +1,18 @@
+---
+title: 'Extraneous Lemmata'
+date: 2022-08-25
+permalink: /posts/2022/08/SCC/
+layout: post
+usemathjax: true
+published: false
+tags:
+  - projects and papers
+  - reading guides
+  - Bayesian mechanics
+---
+
+Tower contraction
+
+Local ergodicity
+
+Modified log-Sobolev
