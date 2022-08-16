@@ -127,6 +127,8 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 <a name="fep"></a>
 # The Free Energy Principle
 
+On the Map-Territory Fallacy Fallacy. **Maxwell J D Ramstead**, **Dalton A R Sakthivadivel**, **Karl J Friston.** August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.06924).
+
 One Person's Modus Ponens...: Comment on "The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference" by Raja and Colleagues (2021). **Maxwell J D Ramstead**. August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.04275).
 
 Extended Plastic Inevitable. **Maxwell J D Ramstead** and **Karl J Friston.** _Constructivist Foundations_. July 2022. [Link](https://constructivist.info/17/3/238).
