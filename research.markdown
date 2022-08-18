@@ -4,7 +4,7 @@ title: Current Research
 permalink: /research/
 ---
 
-I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. I take a particular interest in 
+The aims, motivation, progress, and bibliography for my current research programme can be found here. I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. I take a particular interest in 
 
 - complex and cybernetic systems, and    
 
