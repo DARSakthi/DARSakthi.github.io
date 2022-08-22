@@ -23,8 +23,6 @@ Magnus Koudahl [(website)](https://scholar.google.com/citations?user=RC6kLkYAAAA
 
 Beren Millidge [(website)](https://beren.io)
 
-Jurgis Pasukonis [(website)](https://scholar.google.com/citations?user=nxRttTYAAAAJ&hl=en&authuser=1)
-
 Riddhi Jain Pitliya [(website)](https://www.linkedin.com/in/riddhi-jain-98092b1b9/)
 
 Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user=ILpGOMkAAAAJ)
@@ -43,7 +41,7 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
   <div id="summary"><span>As well as former team members.</span></div>
   <div id="detail"><span> 
     
-    Former members of the VERSES Lab include: Jonas Mago <a href="https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao">(website)</a>, Gabriel Axel Montes <a href="http://gabrielaxel.com/academic">(website)</a>
+    Former members of the VERSES Lab include: Jonas Mago <a href="https://scholar.google.ca/citations?user=edwAqz0AAAAJ&hl=en&oi=ao">(website)</a>, Gabriel Axel Montes <a href="http://gabrielaxel.com/academic">(website)</a>, Jurgis Pasukonis <a href="https://scholar.google.com/citations?user=nxRttTYAAAAJ&hl=en&authuser=1)">(website)</a>
   
     </span></div>
   <style type="text/css">
