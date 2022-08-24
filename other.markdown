@@ -15,7 +15,7 @@ I am signatory
 - 379 to the No Free View? No Review! pledge
 - 151 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
 
-I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public.
+I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, this can help promote wider scientific literacy, another problem which I feel must be attended to.
 
 I am originally Indian. Because of this, I also feel strongly about [equity in science and mathematics](http://math.sfsu.edu/federico/). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals.
 
