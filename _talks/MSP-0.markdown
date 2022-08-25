@@ -16,4 +16,4 @@ Bayesian mechanics is a new set of tools for studying the mathematical physics o
 
 Slides: [MSP July 2022.pdf]({{site.files}}/files/MSP Slides July 2022.pdf)
 
-Talk: [link to recording](https://strath.zoom.us/rec/share/nH4MavDm3mfLhELiCIm6pSiIcFl68OachbkfHU2woAreIUiB9V-fL05f-9ZQF6Ds.1fM8pyUIQByvoFOs) (password: 5kh.AgX?)
+Talk: [link to recording](https://strath.zoom.us/rec/share/nH4MavDm3mfLhELiCIm6pSiIcFl68OachbkfHU2woAreIUiB9V-fL05f-9ZQF6Ds.1fM8pyUIQByvoFOs) (access password: 5kh.AgX?)
