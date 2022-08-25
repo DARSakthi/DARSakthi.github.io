@@ -8,7 +8,7 @@ date: 2022-10-21
 location: "Salt Lake City, Utah, United States"
 ---
 
-I will be giving a talk at this year's Fall [AMS Western Sectional Meeting](https://www.ams.org/meetings/sectional/2295_program.html) in the following [special session](https://www.ams.org/meetings/sectional/2295_program_ss7.html#title): PDEs, Data, and Inverse Problems. The meeting is hosted this year by the University of Utah. Many thanks to [Vincent R Martinez](http://math.hunter.cuny.edu/vmartine/) for inviting me to this session.
+I will be giving a talk at this year's Fall [AMS Western Sectional Meeting](https://www.ams.org/meetings/sectional/2295_program.html) in the following [special session](https://www.ams.org/meetings/sectional/2295_program_ss7.html#title): PDEs, Data, and Inverse Problems. The meeting is hosted this year by the University of Utah. Many thanks to [Vincent R Martinez](http://math.hunter.cuny.edu/vmartine/) for inviting me.
 
 _Abstract:_ 
 
