@@ -17,7 +17,7 @@ I am signatory
 
 I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, this can help promote wider scientific literacy, another problem which I feel must be attended to.
 
-I am originally Indian. Because of this, I also feel strongly about [equity in science and mathematics](http://math.sfsu.edu/federico/). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals.
+I am Indian originally. Because of this, I also feel strongly about [equity in science and mathematics](http://math.sfsu.edu/federico/). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals.
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
@@ -27,7 +27,7 @@ I am also a member of the VERSES Research Ethics Board. I believe it is importan
 
 # Media and Press
 
-On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.activeinference.org/home)'s podcasts, ActInfLab GuestStream, episode 23.1, which was [livestreamed here](https://youtu.be/igY9iyowesc). I will appear on the podcast again in October to discuss my weak blankets paper.
+On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.activeinference.org/home)'s podcasts, ActInfLab GuestStream, episode 23.1, which was [livestreamed here](https://youtu.be/igY9iyowesc). I will appear on the podcast again in October to discuss my classical physics paper.
 
 &nbsp;
 
