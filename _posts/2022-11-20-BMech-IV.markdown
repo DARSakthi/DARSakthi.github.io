@@ -1,0 +1,16 @@
+---
+title: 'Updates on Bayesian Mechanics (Bayesian Mechanics IV)'
+date: 2022-11-20
+permalink: /posts/2022/11/BMech-IV/
+layout: post
+usemathjax: true
+published: false
+tags:
+  - projects and papers
+  - reading guides
+  - Bayesian mechanics
+---
+
+In a whirlwind tour of the last few months of papers, I'll update the interested reader on what has transpired in the world of Bayesian mechanics. 
+
+Mention Urs quote somewhere here
