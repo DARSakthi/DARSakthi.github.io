@@ -102,7 +102,7 @@ A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel*
 
 A Theoretical Framework for Inference and Learning in Predictive Coding Networks. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. July 2022. Preprint arXiv:2207.12316. [Link](https://arxiv.org/abs/2207.12316).
 
-Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897).
+Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897). To appear in _The Third International Workshop on Active Inference._
 
 Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. June 2022. Preprint arXiv:2206.02629. [Link](https://arxiv.org/abs/2206.02629).
 
