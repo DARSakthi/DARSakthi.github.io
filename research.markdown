@@ -6,7 +6,7 @@ permalink: /research/
 
 The aims, motivation, progress, and bibliography for my current research programme can be found here. I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. My research primarily has two arms, one of which feeds into the other: 
 
-- Further developing the mathematics of stochastic processes and random dynamical systems, and      
+- Further developing the mathematics of stochastic processes and random dynamical systems.      
 
 - Applying those tools to make sense of complex or non-equilibrium systems in statistical physics.
 
