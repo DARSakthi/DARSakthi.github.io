@@ -70,8 +70,8 @@ $$ -\ln\{Z(x\mid y)\} \leq -\ln\{Z_q(x; \lambda)\} + \langle \hat H(x \mid y) - 
 where we have also set $$\beta = 1$$ and introduced some parameter $$\lambda$$ to the trial distribution $$q$$ (not a notational accident; this is indeed a control parameter for our trial Hamiltonian). Just as in mean field theory, this KL divergence is the variational free energy of $$q$$ as compared to $$p$$, which is greater than (or equal to) the free energy of $$p$$ in general. Again, though, this is usually not tractable. So, let any probability density $$p = Z^{-1} \tilde p$$ where $$\tilde p$$ is of the form $$e^{-H}$$. Note now that $$\hat H = -\ln\{\tilde p\} = -\ln\{Z p\}$$. We do the following: using this assumption, Bayes' theorem to expand the posterior, and linearity of the expectation throughout, we can rewrite the Bogoliubov inequality for $$q$$ away from $$p(x \mid y)$$ as 
 
 $$ \begin{align*} 
--\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \langle -\ln\{ Z_{\mid y} p(x \mid y) \} \rangle_q - \langle \ln\{Z_q q_\lambda(x) \} \rangle_q \\
--\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \left\langle - \ln\{Z_{\mid y}\} - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q - \langle \ln\{Z_q\} + \ln\{q_\lambda(x) \} \rangle_q\\
+-\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \langle -\ln\{ Z_{\mid y} p(x \mid y) \} \rangle_q + \langle \ln\{Z_q q_\lambda(x) \} \rangle_q \\
+-\ln\{Z_{\mid y})\} &\leq - \ln\{Z_q\} + \left\langle - \ln\{Z_{\mid y}\} - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \langle \ln\{Z_q\} + \ln\{q_\lambda(x) \} \rangle_q\\
 0 &\leq \left\langle - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \langle \ln\{q_\lambda(x) \} \rangle_q\\
 0 &\leq D_{KL}( q_\lambda(x) \|\, p(x,y) ) + \ln\{p(y)\}. \end{align*} $$
 
