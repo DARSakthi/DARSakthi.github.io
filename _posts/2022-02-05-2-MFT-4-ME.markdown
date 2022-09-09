@@ -75,7 +75,7 @@ $$ \begin{align*}
 0 &\leq \left\langle - \ln\left\{ \frac{p(x,y)}{p(y)} \right\} \right\rangle_q + \langle \ln\{q_\lambda(x) \} \rangle_q\\
 0 &\leq D_{KL}( q_\lambda(x) \|\, p(x,y) ) + \ln\{p(y)\}. \end{align*} $$
 
-Et voilà, the ELBO is secretly the Bogoliubov inequality. In particular, now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$\ln\{p(y)\}$$, which one could read as scoring the difference between our trial distribution $$q$$'s performance for the 'true' distribution $$p(x,y)$$ and the actual true distribution $$p(x \mid y)$$. That is to say, we have the identity 
+Et voilà, the ELBO is secretly the Bogoliubov inequality. (Though this derivation seems circuitous, putting the constant $$Z$$ back in mirrors taking it out in our initial derivation that the KL divergence produces the Bogoliubov inequality.) In particular, now, the distance between $$q_\lambda(x)$$ and $$p(x \mid y)$$ is controlled by not just $$\lambda$$, but $$\ln\{p(y)\}$$, which one could read as scoring the difference between our trial distribution $$q$$'s performance for the 'true' distribution $$p(x,y)$$ and the actual true distribution $$p(x \mid y)$$. That is to say, we have the identity 
 
 $$ D_{KL}\left( q_\lambda(x) \bigg\|\, \frac{p(x, y)}{p(y)} \right) = D_{KL}(q_\lambda(x), p(x, y) ) + \ln\{ p(y) \},$$
 
