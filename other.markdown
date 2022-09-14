@@ -31,7 +31,7 @@ On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.acti
 
 On 5 October 2022 I appeared on one of the Active Inference Lab's podcasts, LiveStream [episode 49.1](https://www.youtube.com/watch?v=dAtC-Enmc8M). I discussed my paper on [classical physics for the Bayesian mechanic](https://arxiv.org/abs/2206.12996).
 
-On 12 October 2022 I appeared again for Livestream [episode 49.2](https://www.youtube.com/watch?v=2SuBJBEg9LI), also discussing my classical physics paper.
+On 12 October 2022 I appeared again for LiveStream [episode 49.2](https://www.youtube.com/watch?v=2SuBJBEg9LI), also discussing my classical physics paper.
 
 &nbsp;
 
