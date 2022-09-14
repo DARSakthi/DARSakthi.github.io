@@ -27,7 +27,11 @@ I am a member of the VERSES Research Ethics Board. I believe it is important to 
 
 # Media and Press
 
-On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.activeinference.org/home)'s podcasts, ActInfLab GuestStream, episode 23.1, which was [livestreamed here](https://youtu.be/igY9iyowesc). I will appear on the podcast again in October to discuss my classical physics paper (LiveStream [episode 49.1](https://www.youtube.com/watch?v=dAtC-Enmc8M) and [episode 49.2](https://www.youtube.com/watch?v=2SuBJBEg9LI)).
+On 13 June 2022 I appeared on one of the [Active Inference Lab](https://www.activeinference.org/home)'s podcasts, ActInfLab GuestStream, episode 23.1, which was [livestreamed here](https://youtu.be/igY9iyowesc). There I discussed my paper [On Bayesian Mechanics](https://arxiv.org/abs/2205.11543).
+
+On 5 October 2022 I appeared on one of the Active Inference Lab's podcasts, LiveStream [episode 49.1](https://www.youtube.com/watch?v=dAtC-Enmc8M). I discussed my paper on [classical physics for the Bayesian mechanic](https://arxiv.org/abs/2206.12996).
+
+On 12 October 2022 I appeared again for Livestream [episode 49.2](https://www.youtube.com/watch?v=2SuBJBEg9LI), also discussing my classical physics paper.
 
 &nbsp;
 
