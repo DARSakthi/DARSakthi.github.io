@@ -15,13 +15,13 @@ I am signatory
 - 379 to the No Free View? No Review! pledge
 - 151 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
 
-I feel strongly about [free and open](https://julesh.com/2021/02/16/free-publishing/) science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, this can help promote wider scientific literacy, another problem which I feel must be attended to.
+I feel strongly about [open access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt) and [free and open](https://julesh.com/2021/02/16/free-publishing/) science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, both can help promote wider scientific literacy, another problem which I feel must be attended to.
 
 I also feel strongly about [equity](http://fardila.com) in science and [mathematics](https://www.scientificamerican.com/article/modern-mathematics-confronts-its-white-patriarchal-past/) (I am originally, though not completely, Indian). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals.
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
-I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. In particular, mathematics has been misused and abused in the past. It is paramount that we bear in mind who and what we do mathematics in service of.
+I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of.
 
 &nbsp;
 
