@@ -29,6 +29,8 @@ Maxwell J D Ramstead [(website)](https://scholar.google.com/citations?hl=en&user
 
 Dalton A R Sakthivadivel [(you are here)]({{ site.url }})
 
+Toby St Clere Smithe [(website)](https://tsmithe.net)
+
 Safae Essafi Tremblay [(website)](https://www.researchgate.net/profile/Safae-Essafi-Tremblay-2)
 
 Simon C Tremblay [(website)](https://www.researchgate.net/profile/Simon-Tremblay-2)
