@@ -18,9 +18,9 @@ In the widest possible terms, what this means is, I study—and try to find—**
 
 ## Bayesian Mechanics
 
-One of my specific interests lies in studying how methods from statistical inference can yield insights into stochastic analysis, PDE analysis, and statistical physics, especially with respect to complex systems. There is a rich history underwriting this feedback loop, but it remains somewhat underdeveloped.
+One of my specific interests lies in studying how methods from statistical inference can yield insights into stochastic analysis, PDE analysis, and statistical physics, especially with respect to complex systems. There is a rich history underwriting this feedback loop going back to Jaynes, Villani, and others, but it remains somewhat underdeveloped when it comes to complexity science.
 
-For the last few years I have worked primarily on ideas related to the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), a theory of inference in physical systems which I believe to be a good scaffold for a mathematical theory of complexity. Myself and some collaborators are working on developing a new approach to the statistical physics of non-equilibria and complexity based on the free energy principle; we have called this _Bayesian mechanics._
+For the last few years I have often worked on ideas related to the [free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), a theory of inference in physical systems which I believe to be a good scaffold for a mathematical theory of complexity. Myself and some collaborators are working on developing a new approach to the statistical physics of non-equilibria and complexity based on the free energy principle; we have called this _Bayesian mechanics._
 
 What is Bayesian mechanics? This attempt at a full characterisation of complexity unifies the study of stochastic thermodynamics, interacting random processes, and the topological and geometric features of dynamical systems. As it continues to be refined, it seems to lay out how one could formulate a picture of interacting random dynamical systems in a way that is conducive to axiomatisation, and which captures all the relevant teleological notions of complexity and self-organisation. 
 
