@@ -44,7 +44,7 @@ collections:
     permalink: /:collection/:name
 
 header_pages:
- - research.html
+ - research.md
  - talks.html
  - teaching.html
  - texts.html
