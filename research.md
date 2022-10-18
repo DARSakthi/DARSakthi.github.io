@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{{ Some information related to my current research programme can be found here. 
+Some information related to my current research programme can be found here. 
 
 I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. My research primarily has two arms, one of which feeds into the other: 
 
@@ -50,4 +50,3 @@ Other remarks about Bayesian mechanics can be found on [my blog](https://darsakt
 
 [Take me home](https://darsakthi.github.io)
 
-| markdownify }}
