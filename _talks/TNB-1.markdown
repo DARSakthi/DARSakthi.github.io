@@ -8,7 +8,7 @@ date: 2022-03-07
 location: "London, England, United Kingdom (virtually)"
 ---
 
-I returned to UCL's Theoretical Neurobiology seminar to speak about my recent work on gauge symmetries in inference.
+I returned to [UCL's Theoretical Neurobiology](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) seminar to speak about my recent work on gauge symmetries in inference.
 
 _Abstract_: 
 
