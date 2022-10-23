@@ -8,7 +8,7 @@ date: 2021-03-16
 location: "London, England, United Kingdom (virtually)"
 ---
 
-I gave the following seminar at UCL's Theoretical Neurobiology meeting.
+I gave the following seminar at UCL's [Theoretical Neurobiology](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) meeting.
 
 _Abstract_: 
 
