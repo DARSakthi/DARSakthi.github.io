@@ -13,7 +13,7 @@ tags:
 
 In a whirlwind tour of the last few months of papers, I'll update the interested reader on what has transpired in the world of Bayesian mechanics. 
 
-Mention Urs quote somewhere here
+Mention Urs quote somewhere here (urs quote from where? About maths feeding into physics? Have to find his slides)
 
 I hope you will consider my article, `Towards a Geometry and Analysis for Bayesian Mechanics,' for publication in the \emph{IMAJAM}. This paper takes a version of the free energy principle, previously a poorly understood theory with wide reaching claims about biological physics and self-organisation, and places it on firm mathematical and physical grounds.  This fills in gaps left in other papers in the literature and points very clearly towards an axiomatic description of complex systems via the principle of maximum calibre. It is my belief that this is an extremely important result, since it both clarifies the nature of the sometimes controversial FEP, and in doing so, gestures towards a faithful axiomatic framework for biological self-organisation and complexity. The article has already garnered broad readership and even citations, with many in the theoretical biology community finding value in the results. \\
 
