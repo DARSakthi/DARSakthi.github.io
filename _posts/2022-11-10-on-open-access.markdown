@@ -1,6 +1,6 @@
 ---
 title: 'Some Remarks on MDPI's Business Model, and Open Access More Generally'
-date: 2022-11-20
+date: 2022-11-10
 permalink: /posts/2022/11/on-open-access/
 layout: post
 usemathjax: true
@@ -11,7 +11,11 @@ tags:
 
 It's not a secret that I support open access publishing. If I've met you before you've probably heard my hot takes (if not, [avail yourself here](https://darsakthi.github.io/other/)). One year ago I almost guest edited a special issue with the MDPI journal _Symmetry_. I assembled some facts and figures to share with them regarding their egregious article processing charges and now want to share them with you, the reader. Here is the email I sent the chief editor of _Symmetry_, more or less copied and pasted. For legal reasons, I am obligated to point out that these are not false statements and therefore do not constitute a tort. Since [MDPI is not the type to take bad news well](https://www.chronicle.com/article/publisher-threatens-to-sue-blogger-for-1-billion/), it seems prudent to note that I am simply stating the facts of the matter, free of embellishment or interpretation. For some reason I also feel compelled to follow that with a cheeky wink. 
 
-Some of this data is bound to be out of date given it's a year old. I throw biologists under the bus at some point, so deepest apologies for that.
+Some of this data is bound to be out of date given it's a year old. I throw biologists under the bus at some point, so, deepest apologies for that.
+
+My personal issues with MPDI go beyond the numbers outlined below. Much has been written about this and I am not the first or only person to feel this way, so what shall I be doing to address those issues? For one thing, I will not be submitting to MDPI journals in the future, nor will be editing or reviewing for them. I would encourage others to do the same. Taking advantage of a fast publication if one can pay for it is blameless and is a symptom of the problem, not the real problm -- but nonetheless, it is important to show that, as academics, we will not be extorted. Likewise, seeking more flexible venues for longer or more interdisciplinary papers is understandable, as these are badly needed. MDPI, however, has taken us in; they've identified this unmet need and treated it as a business opportunity, which ought to insult the reader. What we should do is fill that vacuum ourselves. For instance, a blog post by [Timothy Gowers](https://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) (and a few more related posts), which are all very similar to this one, preciptated his beginning a new journal from scratch that met the need for a different sort of venue in discrete maths. Direct action is cool. 
+
+Enough meta-commentary: on with the show.
 
 ---
 
@@ -43,17 +47,17 @@ On a personal note, as I said, I am a mathematician, where low cost open access 
 
 The bottom line is, if any author invited to contribute to this special issue requests a partial or full fee waiver on the grounds of financial hardship, I would expect it to be granted. It ought to be granted as requested and without question, pursuant to your own (necessarily accurate) annual reporting. This issue is simply dead on arrival if we don't do this, and I see no legitimate reason not to proceed in this fashion. So, this is your invitation to reconsider, especially in accordance with points II.1 and II.2.
 
-[1] https://scholarlykitchen.sspnet.org/2020/08/10/guest-post-mdpis-remarkable-growth/
-[2] https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/
-[3] https://mdpi-res.com/data/2020_web.pdf
-[4] https://mdpi-res.com/data/2019_web.pdf
-[5] https://www.nature.com/articles/35039681
-[6] https://www.nsf.gov/about/budget/fy2015/pdf/53_fy2015.pdf
-[7] https://politics.stackexchange.com/questions/3091/why-fund-research-in-pure-mathematics/3100#3100
-[8] https://www.jstor.org/stable/24967635
-[9] https://handelsregister.help.ch/aktiengesellschaft.cfm?nr=CH-270.3.014.334-3&name=MDPI-AG
-[10] https://assets.kpmg/content/dam/kpmg/ch/pdf/explanation-of-the-most-important-provisions.pdf
-[11] https://www.pwc.ch/en/publications/2016/pwc_the_new_swiss_financial_reporting_law_jan_2015_e.pdf
+[1] https://scholarlykitchen.sspnet.org/2020/08/10/guest-post-mdpis-remarkable-growth/      
+[2] https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/      
+[3] https://mdpi-res.com/data/2020_web.pdf      
+[4] https://mdpi-res.com/data/2019_web.pdf      
+[5] https://www.nature.com/articles/35039681      
+[6] https://www.nsf.gov/about/budget/fy2015/pdf/53_fy2015.pdf      
+[7] https://politics.stackexchange.com/questions/3091/why-fund-research-in-pure-mathematics/3100#3100      
+[8] https://www.jstor.org/stable/24967635      
+[9] https://handelsregister.help.ch/aktiengesellschaft.cfm?nr=CH-270.3.014.334-3&name=MDPI-AG      
+[10] https://assets.kpmg/content/dam/kpmg/ch/pdf/explanation-of-the-most-important-provisions.pdf      
+[11] https://www.pwc.ch/en/publications/2016/pwc_the_new_swiss_financial_reporting_law_jan_2015_e.pdf      
 
 ---
 
