@@ -86,8 +86,6 @@ Selected publications are listed below. For full lists, see our members' webpage
 <a name="math-ph"></a>
 # Mathematics and Physics
 
-Path Integrals, Particular Kinds, and Strange Things. **Karl J Friston**, Lancelot Da Costa, **Dalton A R Sakthivadivel**, **Conor Heins**, Grigorios A Pavliotis, **Maxwell J D Ramstead**, Thomas Parr. October 2022. Preprint arXiv:2210.12761. [Link](https://arxiv.org/abs/2210.12761). 
-
 A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996). To appear in _The Third International Workshop on Active Inference_.
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint arXiv:2205.11543. [Link](https://arxiv.org/abs/2205.11543).    
@@ -113,6 +111,8 @@ Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **
 
 <a name="fep"></a>
 # The Free Energy Principle
+
+Path Integrals, Particular Kinds, and Strange Things. **Karl J Friston**, Lancelot Da Costa, **Dalton A R Sakthivadivel**, **Conor Heins**, Grigorios A Pavliotis, **Maxwell J D Ramstead**, Thomas Parr. October 2022. Preprint arXiv:2210.12761. [Link](https://arxiv.org/abs/2210.12761). 
 
 On the Map-Territory Fallacy Fallacy. **Maxwell J D Ramstead**, **Dalton A R Sakthivadivel**, **Karl J Friston.** August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.06924).
 
