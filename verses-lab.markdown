@@ -86,6 +86,8 @@ Selected publications are listed below. For full lists, see our members' webpage
 <a name="math-ph"></a>
 # Mathematics and Physics
 
+Path Integrals, Particular Kinds, and Strange Things. **Karl J Friston**, Lancelot Da Costa, **Dalton A R Sakthivadivel**, **Conor Heins**, Grigorios A Pavliotis, **Maxwell J D Ramstead**, Thomas Parr. October 2022. Preprint arXiv:2210.12761. [Link](https://arxiv.org/abs/2210.12761). 
+
 A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996). To appear in _The Third International Workshop on Active Inference_.
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint arXiv:2205.11543. [Link](https://arxiv.org/abs/2205.11543).    
@@ -98,7 +100,7 @@ Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadiv
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
-Capsule Networks as Generative Models. **Alex B Kiefer**, **Beren Millidge**, **Alexander Tschantz**, **Christopher L Buckley**. Sept 2022. Preprint arXiv:2209.02567. [Link](https://arxiv.org/abs/2209.02567). To appear in _The Third International Workshop on Active Inference._
+Capsule Networks as Generative Models. **Alex B Kiefer**, **Beren Millidge**, **Alexander Tschantz**, **Christopher L Buckley**. September 2022. Preprint arXiv:2209.02567. [Link](https://arxiv.org/abs/2209.02567). To appear in _The Third International Workshop on Active Inference._
 
 Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897). To appear in _The Third International Workshop on Active Inference._
 
