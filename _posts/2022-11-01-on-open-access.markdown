@@ -1,10 +1,9 @@
 ---
 title: 'Some Remarks on MDPI's Business Model, and Open Access More Generally'
-date: 2022-11-02
+date: 2022-11-01
 permalink: /posts/2022/11/on-open-access/
 layout: post
 usemathjax: true
-published: true
 tags:
   - musings
 ---
