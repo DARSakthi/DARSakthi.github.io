@@ -4,7 +4,7 @@ date: 2022-11-2
 permalink: /posts/2022/11/on-open-access/
 layout: post
 usemathjax: true
-published: false
+published: true
 tags:
   - musings
 ---
