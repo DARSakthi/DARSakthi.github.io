@@ -1,14 +1,12 @@
 ---
-title: 'Some Remarks on MDPI's Business Model, and Open Access More Generally'
-date: 2022-11-01
-permalink: /posts/2022/11/SCC/
+title: 'Some Remarks on MDPI\'s Business Model, and Open Access More Generally'
+date: 2022-11-02
+permalink: /posts/2022/11/on-open-access/
 layout: post
 usemathjax: true
 published: true
 tags:
-  - projects and papers
-  - reading guides
-  - Bayesian mechanics
+  - musings
 ---
 
 It's not a secret that I support open access publishing. If I've met you before you've probably heard my hot takes (if not, [avail yourself here](https://darsakthi.github.io/other/)). One year ago I almost guest edited a special issue with the MDPI journal _Symmetry_. I assembled some facts and figures to share with them regarding their egregious article processing charges and now want to share them with you, the reader. Here is the email I sent the chief editor of _Symmetry_, more or less copied and pasted. For legal reasons, I am obligated to point out that these are not false statements and therefore do not constitute a tort. Since [MDPI is not the type to take bad news well](https://www.chronicle.com/article/publisher-threatens-to-sue-blogger-for-1-billion/), it seems prudent to note that I am simply stating the facts of the matter, free of embellishment or interpretation. For some reason I also feel compelled to follow that with a cheeky wink. 
