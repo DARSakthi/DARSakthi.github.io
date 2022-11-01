@@ -133,8 +133,7 @@ Mapping Husserlian phenomenology onto active inference. **Mahault Albarracin**, 
 Yoshimi\*. August 2022. Preprint arXiv:2208.09058. [Link](https://arxiv.org/abs/2208.09058). To appear in _The Third International Workshop on Active Inference_.       
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
 
-Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin**\* and **Riddhi J Pitliya**\*. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
-<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
+Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin** and **Riddhi J Pitliya**. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
 
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
