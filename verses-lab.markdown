@@ -98,6 +98,8 @@ Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadiv
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
+Capsule Networks as Generative Models. **Alex B Kiefer**, **Beren Millidge**, **Alexander Tschantz**, **Christopher L Buckley**. Sept 2022. Preprint arXiv:2209.02567. [Link](https://arxiv.org/abs/2209.02567). To appear in _The Third International Workshop on Active Inference._
+
 Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897). To appear in _The Third International Workshop on Active Inference._
 
 <span style="font-family: Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
