@@ -1,0 +1,65 @@
+---
+title: 'Some Remarks on MDPI's Business Model, and Open Access More Generally'
+date: 2022-11-01
+permalink: /posts/2022/11/on-open-access/
+layout: post
+usemathjax: true
+tags:
+  - musings
+---
+
+It's not a secret that I support open access publishing. If I've met you before you've probably heard my hot takes (if not, [avail yourself here](https://darsakthi.github.io/other/)). One year ago I almost guest edited a special issue with the MDPI journal _Symmetry_. I assembled some facts and figures to share with them regarding their egregious article processing charges and now want to share them with you, the reader. Here is the email I sent the chief editor of _Symmetry_, more or less copied and pasted. For legal reasons, I am obligated to point out that these are not false statements and therefore do not constitute a tort. Since [MDPI is not the type to take bad news well](https://www.chronicle.com/article/publisher-threatens-to-sue-blogger-for-1-billion/), it seems prudent to note that I am simply stating the facts of the matter, free of embellishment or interpretation. For some reason I also feel compelled to follow that with a cheeky wink. 
+
+Some of this data is bound to be out of date given it's a year old. I throw biologists under the bus at some point, so, deepest apologies for that.
+
+My personal issues with MPDI go beyond the numbers outlined below. Much has been written about this and I am not the first or only person to feel this way, so what shall I be doing to address those issues? For one thing, I will not be submitting to MDPI journals in the future, nor will be editing or reviewing for them. I would encourage others to do the same. Taking advantage of a fast publication if one can pay for it is blameless and is a symptom of the problem, not the real problm -- but nonetheless, it is important to show that, as academics, we will not be extorted. Likewise, seeking more flexible venues for longer or more interdisciplinary papers is understandable, as these are badly needed. MDPI, however, has taken us in; they've identified this unmet need and treated it as a business opportunity, which ought to insult the reader. What we should do is fill that vacuum ourselves. For instance, [a blog post by Timothy Gowers](https://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) (and a few more related posts listed under that one), which are all very similar to this one, preciptated his beginning a new journal from scratch that met the need for a different sort of venue in discrete maths. Direct action is always in style. 
+
+Enough meta-commentary: on with the show.
+
+---
+
+I. Four key details of the situation are as follows --
+
+In 2020, MDPI published 167 000 articles -- most all of them from special issues like this one -- and made between 190 and 230 million [1] in revenue from the APCs of these papers.
+
+This APC has grown exponentially in the past few years, from 100s of dollars to 1 000s of dollars.
+
+This happens whilst other 'diamond' open access journals publish without cost to the author.
+
+Proponents of MDPI claim it is more inclusive [2], relaxing things like word limits and editorial criteria.
+
+II. Now, your 2020 annual report [3] states that 
+
+MDPI waived fees for approximately 30% of all content in 2020. This is consistent with the figure reported in the 2019 report (25-27%). This is 50 100 articles, going by the above figure.
+
+"For journals in fields with low levels of funding, where authors typically do not have funds available, _APCs are typically waived_" [emphasis mine]. Again, the same language is found in your 2019 report [4].
+
+In effect, it seems quite simple to me -- offering larger waivers more consistently is both necessary for the success of this issue, and allowable by MDPI's own admission. The first salient point is: given such an excess in cash flow, when overheads of other journals would suggest this is unnecessary, I see no reason why your profit margin would rest on the full APCs of a dozen or so papers. Further, since enough waivers are set aside to cover at least partial losses on 50 100 articles, I have every confidence that you will be able to find the money if you look for it. If you're in need of motivation, then let me reiterate -- to lose any invited author's paper would be highly disappointing, as it concerns the success of the issue. 
+
+Moreover, recall that the study of symmetry takes place primarily in the field of pure mathematics and mathematical physics. These are amongst the worst funded fields in the natural sciences. The average individual NSERC grant in mathematical physics is in the 35 000 to 45 000 dollar range, usually over a number of years. Just recently, the average size of an NSF three year grant was 30 000 USD [5]. Total NSF expenditure [6] on mathematics is a fraction (0.5-5%) [7] of that of other fields, and has been on the decline overall since the 1960s [8]. The average per annum funding level for mathematicians in the US (external, non-institutional funds, e.g. NSF or DOD awards) is miniscule, often not even covering summer salaries. In accordance with point II.2, I would expect all fees to be partially or fully waived automatically. Why is this not the case, if your annual reports are accurate? At this point, I would remind you that as a registered joint-stock corporation in Basel [9], you are required to maintain reliable, consolidated reports under the Swiss code of obligations, including anything that could be construed as management information, or expected losses, especially in terms of voluntary retained earnings or deferred income (refer to [], page 16; the articles cited therein, especially CO 958c, CO 959a(2), and CO 961c; as well as to [11], page 6.).
+
+Consider that, for many authors we will invite -- their personal financial situations aside -- they will be working in a notoriously poorly funded field. I myself am a mathematician. I have no external funds arranged for next year -- which is not unusual in the slightest -- and like many, will be drawing on salary from departmental funds allotted for teaching and instruction. I will surely have to pull my own article if larger waivers cannot be found for this issue. The very same issue will plague us again and again if we cannot do something about this, since most of the authors we contact will be mathematicians or mathematical physicists, by definition. In the very first point I raised (see previous emails), I hope I made it clear what a shame it would be to lose any author's contribution. I hope this point makes it clear we will likely lose most of these author's contributions. It is simply unimaginable to ask someone to pay this quantity of money out of  their own pockets. I presume this is exactly why the language found in the annual reports exists, and yet, it is not being implemented, despite both legal and practical (if not moral) obligations to the contrary. This issue won't come at a loss to you -- there will be several biologists and computer scientists, for example -- fields with millions of dollars of federal and private grant funding, who will pay the full APC without a second thought. But, if we want even a single mathematician in the issue -- and the study of symmetry would suggest we do -- we simply must make some allowances.
+
+As to point I.4, and following the argument above -- in reality, the costs associated with publishing at MDPI make it far more exclusive than other journals. This is the very thing I would have us avoid in this case. We are excluding talented young scientists because they are unable to pay to play, and there are few things I stomach less easily than exclusion. Never mind that this issue will fail utterly if we can't make further accommodations. 
+
+On a personal note, as I said, I am a mathematician, where low cost open access has been a standard since the 90s. There is no universe in which I (or any other non-industry mathematician) would pay 1 800 CHF, or even 75%, of that to publish a paper. Moreover, I am hesitant to put my name on something that has been condemned to failure before it's even properly begun; and, I generally refuse to be party to exclusion. I expect it would be a shame for me to pull back, given my paper is the only paper so far to actually connect 'mind and life' with 'gauge symmetries and symmetry breaking,' and I am the only member of the set of guest editors who has any experience whatsoever with mathematical formulations of the role of symmetry in physics; further, I would certainly find it regrettable to pass on the chance to work with some amazing co-editors. But this is simply the reality. It's somewhat based in principle, but it's obvious that the core of this argument is purely utilitarian.
+
+The bottom line is, if any author invited to contribute to this special issue requests a partial or full fee waiver on the grounds of financial hardship, I would expect it to be granted. It ought to be granted as requested and without question, pursuant to your own (necessarily accurate) annual reporting. This issue is simply dead on arrival if we don't do this, and I see no legitimate reason not to proceed in this fashion. So, this is your invitation to reconsider, especially in accordance with points II.1 and II.2.
+
+[1] https://scholarlykitchen.sspnet.org/2020/08/10/guest-post-mdpis-remarkable-growth/      
+[2] https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/      
+[3] https://mdpi-res.com/data/2020_web.pdf      
+[4] https://mdpi-res.com/data/2019_web.pdf      
+[5] https://www.nature.com/articles/35039681      
+[6] https://www.nsf.gov/about/budget/fy2015/pdf/53_fy2015.pdf      
+[7] https://politics.stackexchange.com/questions/3091/why-fund-research-in-pure-mathematics/3100#3100      
+[8] https://www.jstor.org/stable/24967635      
+[9] https://handelsregister.help.ch/aktiengesellschaft.cfm?nr=CH-270.3.014.334-3&name=MDPI-AG      
+[10] https://assets.kpmg/content/dam/kpmg/ch/pdf/explanation-of-the-most-important-provisions.pdf      
+[11] https://www.pwc.ch/en/publications/2016/pwc_the_new_swiss_financial_reporting_law_jan_2015_e.pdf      
+
+---
+
+Was it too much? Probably. Did I have fun playing barrister? You bet.
+
+On the subject of special issues, keep an eye out for _Making and Breaking Symmetries in Mind and Life_, lead editor Adam Safron, where a brilliant collection of papers is going to appear in a special issue of the journal _Royal Society Interface (Focus)_. I'm grateful to Adam for his keen eye for the amazing, and his ability to curate such amazing contributions.
