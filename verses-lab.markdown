@@ -63,13 +63,13 @@ Alexander Tschantz [(website)](https://github.com/alec-tschantz)
   
 </html>
 
-Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex, the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre, and the [Levin lab](https://ase.tufts.edu/biology/labs/levin/) at Tufts University. The lab has a physical base of operations in Los Angeles, California. (Current as of August 2022.)
+Additionally, the lab has strong connections to the [EASy group](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex, the [Theoretical Neurobiology group](https://www.fil.ion.ucl.ac.uk/team/theoretical-neurobiology-team/) at University College London's Wellcome Centre, the [Levin lab](https://ase.tufts.edu/biology/labs/levin/) at Tufts University, and the [MSP group](https://msp.cis.strath.ac.uk) at the University of Strathclyde. The lab has a physical base of operations in Los Angeles, California. (Current as of November 2022.)
 
 &nbsp;
 
 ## Publications and Preprints
 
-Except for where PDFs are provided, publications are open access and can be found at the links indicated.
+Selected publications are listed below. For full lists, see our members' webpages. Except for where PDFs are provided, publications are open access and can be found at the links indicated.
 
 [Mathematics and Physics](#math-ph)
 
@@ -86,8 +86,6 @@ Except for where PDFs are provided, publications are open access and can be foun
 <a name="math-ph"></a>
 # Mathematics and Physics
 
-Weak Markov Blankets in High-Dimensional, Sparsely-Coupled Random Dynamical Systems. **Dalton A R Sakthivadivel**. July 2022. Preprint arXiv:2207.07620. [Link](https://arxiv.org/abs/2207.07620).
-
 A Worked Example of the Bayesian Mechanics of Classical Objects. **Dalton A R Sakthivadivel**. June 2022. Preprint arXiv:2206.12996. [Link](https://arxiv.org/abs/2206.12996). To appear in _The Third International Workshop on Active Inference_.
 
 On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, **Dalton A R Sakthivadivel**\*, **Conor Heins**, **Magnus Koudahl**, **Beren Millidge**, Lancelot Da Costa, **Brennan Klein**, **Karl J Friston**. May 2022. Preprint arXiv:2205.11543. [Link](https://arxiv.org/abs/2205.11543).    
@@ -95,29 +93,16 @@ On Bayesian Mechanics: A Physics of and by Beliefs. **Maxwell J D Ramstead**\*, 
 
 Towards a Geometry and Analysis for Bayesian Mechanics. **Dalton A R Sakthivadivel**. April 2022. Preprint arXiv:2204.11900. [Link](https://arxiv.org/abs/2204.11900).
 
-A Constraint Geometry for Inference and Integration. **Dalton A R Sakthivadivel**. March 2022. Preprint arXiv:2203.08119. [Link](https://arxiv.org/abs/2203.08119).
-
 &nbsp;
 
 <a name="ml"></a>
 # Machine Learning, Control Theory, Optimisation
 
-A Theoretical Framework for Inference and Learning in Predictive Coding Networks. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. July 2022. Preprint arXiv:2207.12316. [Link](https://arxiv.org/abs/2207.12316).
-
 Successor Representation Active Inference. **Beren Millidge**, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.09897. [Link](https://arxiv.org/abs/2207.09897). To appear in _The Third International Workshop on Active Inference._
-
-Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning. **Beren Millidge**, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz. June 2022. Preprint arXiv:2206.02629. [Link](https://arxiv.org/abs/2206.02629).
 
 <span style="font-family: Consolas">pymdp</span>: A Python Library for Active Inference in Discrete State Spaces. **Conor Heins**, **Beren Millidge**, Daphne Demekas, **Brennan Klein**, **Karl J Friston**, Iain Couzin, **Alexander Tschantz**. _Journal of Open Source Software_. May 2022. [Link](https://joss.theoj.org/papers/10.21105/joss.04098). See [arXiv:2201.03904](https://arxiv.org/abs/2201.03904) for technical appendices.
 
-Reward Bases: Instantaneous Reward Revaluation with Temporal Difference Learning. **Beren Millidge**, Mark Walton, Rafal Bogacz. April 2022. BioRxiv preprint. [Link](https://www.biorxiv.org/content/10.1101/2022.04.14.488361v1).
-
 Hybrid Predictive Coding: Inferring, Fast and Slow. **Alexander Tschantz**\*, **Beren Millidge**\*, Anil K Seth, **Christopher L Buckley**. April 2022. Preprint arXiv:2204.02169. [Link](https://arxiv.org/abs/2204.02169).    
-<span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
-
-Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models. **Beren Millidge,** Tommaso Salvatori, Yuhang Song, Thomas Lukasiewicz, Rafal Bogacz. February 2022. Preprint arXiv:2202.04557. [Link](https://arxiv.org/abs/2202.04557).
-
-Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **Beren Millidge**\*, Tommaso Salvatori\*, Yuhang Song, Rafal Bogacz, Thomas Lukasiewicz. February 2022. Preprint arXiv:2202.09467. [Link](https://arxiv.org/abs/2202.09467).      
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by first name</span>
 
 &nbsp;
@@ -127,21 +112,13 @@ Predictive Coding: Towards a Future of Deep Learning Beyond Backpropagation? **B
 
 On the Map-Territory Fallacy Fallacy. **Maxwell J D Ramstead**, **Dalton A R Sakthivadivel**, **Karl J Friston.** August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.06924).
 
-One Person's Modus Ponens...: Comment on "The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference" by Raja and Colleagues (2021). **Maxwell J D Ramstead**. August 2022. Preprint arXiv:2208.04275. [Link](https://arxiv.org/abs/2208.04275).
-
 Extended Plastic Inevitable. **Maxwell J D Ramstead** and **Karl J Friston.** _Constructivist Foundations_. July 2022. [Link](https://constructivist.info/17/3/238).
 
 Spin Glass Systems as Collective Active Inference. **Conor Heins**, **Brennan Klein**, Daphne Demekas, Miguel Aguilera, **Christopher L Buckley**. July 2022. Preprint arXiv:2207.06970. [Link](https://arxiv.org/abs/2207.06970). To appear in _The Third International Workshop on Active Inference_.
 
 Situated Models and the Modeler: A Comment on “The Markov Blanket Trick: On the Scope of the Free Energy Principle and Active Inference” by Raja, Valluri, Baggs, Chemero and Anderson. **Mahault Albarracin** and **Riddhi J Pitliya**. July 2022. [Journal link](https://doi.org/10.1016/j.plrev.2022.07.003).
 
-Applying the Free Energy Principle to Complex Adaptive Systems. Paul B Badcock, **Maxwell J D Ramstead**, Zahra Sheikhbahaee, Axel Constant. _Entropy_. May 2022. [Link](https://www.mdpi.com/1099-4300/24/5/689/htm).
-
 Epistemic Communities under Active Inference. **Mahault Albarracin**, Daphne Demekas, **Maxwell J D Ramstead**, **Conor Heins**. _Entropy_. March 2022. [Link](https://www.mdpi.com/1099-4300/24/4/476/htm).
-
-The Empire Strikes Back: Some Responses to Bruineberg and Colleagues. **Maxwell J D Ramstead**. December 2021. Preprint arXiv:2112.15528. [Link](https://arxiv.org/abs/2112.15528).
-
-Memory and Markov Blankets. Thomas Parr, Lancelot Da Costa, **Conor Heins**, **Maxwell J D Ramstead**, **Karl J Friston**. _Entropy_. August 2021. [Link](https://www.mdpi.com/1099-4300/23/9/1105).
 
 &nbsp;
 
@@ -155,17 +132,9 @@ Yoshimi\*. August 2022. Preprint arXiv:2208.09058. [Link](https://arxiv.org/abs/
 Commentary: The Nature of Beliefs and Believing. **Mahault Albarracin**\* and **Riddhi J Pitliya**\*. _Frontiers in Psychology_. July 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.981925/full).      
 <span style="font-size:0.75em;">\* equal contributions; listed alphabetically by surname</span>
 
-Drift-Diffusion Model Reveals Impaired Reward-Based Perceptual Decision-Making Processes Associated with Depression in Late Childhood and Early Adolescent Girls. **Riddhi J Pitliya**, Brady D Nelson, Greg Hajcak, Jingwen Jin. _Research on Child and Adolescent Psychopathology._ June 2022. [Link](https://link.springer.com/article/10.1007/s10802-022-00936-y).
-
-Enacting Gender: An Enactive-Ecological Account of Gender and Its Fluidity. **Mahault Albarracin** and Pierre Poirier. _Frontiers in Psychology_. May 2022. [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.772287/full).
-
 From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology. **Maxwell J D Ramstead**, Anil K Seth, Casper Hesp, Lars Sandved‑Smith, **Jonas Mago**, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, Guillaume Dumas, Antoine Lutz, **Karl J Friston**, Axel Constant. _Review of Philosophy and Psychology_. March 2022. [Link](https://link.springer.com/article/10.1007/s13164-021-00604-y).
 
 Active Inference Models do not Contradict Folk Psychology. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. _Synthese_. March 2022. [Link](https://link.springer.com/article/10.1007/s11229-022-03480-w).
-
-Why Bayesian Brains Perform Poorly on Explicit Probabilistic Reasoning Problems. Ryan Smith, **Maxwell J D Ramstead**, **Alex Kiefer**. February 2022. PsyArXiv preprint. [Link](https://doi.org/10.31234/osf.io/hne9s). 
-
-Stress and its Sequelae: An Active Inference Account of the Etiological Pathway From Allostatic Overload to Depression. Irene Arnaldo, Andrew W Corcoran, **Karl J Friston**, **Maxwell J D Ramstead**. _Neuroscience & Biobehavioral Reviews_. February 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0149763422000793).
 
 &nbsp;
 
