@@ -16,7 +16,9 @@ My personal issues with MPDI go beyond the numbers outlined below. Much has been
 Enough meta-commentary: on with the show.
 
 ---        
-        
+
+&nbsp;
+
 I. Four key details of the situation are as follows --
 
 - In 2020, MDPI published 167 000 articles -- most all of them from special issues like this one -- and made between 190 and 230 million [1] in revenue from the APCs of these papers.
@@ -56,7 +58,9 @@ The bottom line is, if any author invited to contribute to this special issue re
 [11] [https://www.pwc.ch/en/publications/2016/pwc_the_new_swiss_financial_reporting_law_jan_2015_e.pdf](https://www.pwc.ch/en/publications/2016/pwc_the_new_swiss_financial_reporting_law_jan_2015_e.pdf)      
 
 ---        
-        
+
+&nbsp;
+
 Was it too much? Probably. Did I have fun playing barrister? You bet. You will not be surprised to hear that the response from the chief editor was more handwaving about the costs associated with publication, suggesting my email had fallen on completely ignorant ears. More's the better -- at least I was motivated to no longer waste any time with MDPI. 
 
 On the subject of special issues, keep an eye out for _Making and Breaking Symmetries in Mind and Life_, lead editor Adam Safron, where a brilliant collection of papers is going to appear in a special issue of the journal _Royal Society Interface (Focus)_. I'm grateful to Adam for his keen eye for the amazing, and his ability to curate such amazing contributions.
