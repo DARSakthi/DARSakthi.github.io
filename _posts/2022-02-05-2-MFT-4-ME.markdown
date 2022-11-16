@@ -83,7 +83,7 @@ which implies the full relation
 
 $$ \ln\{Z_{\mid y}\} - \ln\{Z_q\} + \beta \langle \hat{H}_{\mid y} - \hat{H}_q \rangle_q = \ln\{Z_{,y} \} - \ln\{Z_q\} + \beta \langle \hat{H}_{,y} - \hat{H}_q \rangle_q + \ln\{p(y)\} \geq 0, $$
 
-such that globally minimising the variational free energy occurs precisely when we have a particular optimal value of $$\lambda$$, i.e., $$ q_\lambda(x) \approx p(x,y) $$, _and_ a minimum for $$-\ln\{p(y)\} $$. In particular, since $$\ln\{p(y)\}$$ is negative by assumption, there is a further error to our approximation induced by matching to the wrong density, i.e., we have
+such that globally minimising the variational free energy occurs precisely when we have a particular optimal value of $$\lambda$$, i.e., $$ q_\lambda(x) \approx p(x,y) $$, _and_ a minimum for $$-\ln\{p(y)\} $$. In particular, since $$\ln\{p(y)\}$$ is negative by assumption ($$p(y)$$ is also Gibbs), there is a further error to our approximation induced by matching to the wrong density, i.e., we have
 
 $$-\ln\{Z_{,y} \} \leq - \ln\{Z_q\} + \beta \langle \hat{H}_{,y} - \hat{H}_q \rangle_q + \ln\{p(y)\} \leq - \ln\{Z_q\} + \beta \langle \hat{H}_{,y} - \hat{H}_q \rangle_q. $$
 
