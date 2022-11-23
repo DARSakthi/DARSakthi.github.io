@@ -35,7 +35,7 @@ I am a member of the VERSES Research Ethics Board. I believe it is important to 
   [9] Maths to Award the Fields Medal, its Nobel Prize Equivalent, but is There a Numbers Problem? Daniel Keane. From <a href="https://www.abc.net.au/news/2022-06-28/fields-medal-female-inclusion-a-challenge-in-maths-award/101161564">ABC News (Australia)</a>.      
   [10] The Lie of “It’s Just Math.” Jade Master. From <a href="https://jadeedenstarmaster.wordpress.com/2020/12/11/the-lie-of-its-just-math/">Cat Blog</a>.        
   [11] Doing Math in Jest. Gizem Karaali. From <a href="https://arxiv.org/abs/1812.09601">arXiv:1812.09601</a>.        
-  [12] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net<\a>. See also references therein.        
+  [12] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net</a>. See also references therein.        
   [13] The Responsibility of the Scientist Today. Alexandre Grothendieck. <a href="http://matematicas.unex.es/~navarro/res/scientist.pdf">Translation here</a>.        
 </span>
 
