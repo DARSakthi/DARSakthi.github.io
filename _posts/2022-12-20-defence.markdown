@@ -1,0 +1,12 @@
+---
+title: 'Militarising the Mathematics of Active Inference'
+date: 2022-12-20
+permalink: /posts/2022/12/url/defence
+layout: post
+usemathjax: true
+published: false
+tags:
+  - musings and writings
+---
+
+...
