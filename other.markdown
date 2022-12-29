@@ -12,7 +12,7 @@ Other activities of or relating to my work
 I am signatory
 - 1249 (post publication) to le collectif 'no fake science'
 - 1226 to the USACBI boycott
-- 379 to the No Free View? No Review! pledge
+- 375 to the No Free View? No Review! pledge
 - 151 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
 
 I feel strongly about open access [1] and free and open [2] science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, both can help promote wider scientific literacy, another problem which I feel must be attended to.
