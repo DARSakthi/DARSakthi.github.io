@@ -1,6 +1,6 @@
 ---
 title: 'I'm the StatMan (ski-bi dibby dib yo da dub dub)'
-date: 2022-12-20
+date: 2023-05-30
 permalink: /posts/2023/05/stat-man/
 layout: post
 usemathjax: true
