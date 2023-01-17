@@ -71,7 +71,7 @@ Additionally, the lab has strong connections to the [EASy group](https://www.sus
 
 ## Publications and Preprints
 
-Selected publications are listed below. For full lists, see our members' webpages. Except for where PDFs are provided, publications are open access and can be found at the links indicated.
+Selected publications are listed below. For full lists, see our members' webpages, or the lab's [Google Scholar](https://scholar.google.co.uk/citations?user=220Ht-cAAAAJ&hl=en) page. Except for where PDFs are provided, publications are open access and can be found at the links indicated.
 
 [Mathematics and Physics](#math-ph)
 
