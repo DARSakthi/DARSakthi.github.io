@@ -6,7 +6,7 @@ author_profile: true
 
 # About and Contact Information
 
-I am a researcher primarily affiliated with the Department of Mathematics at Stony Brook University and the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am also involved in the Department of Physics and Astronomy at SBU, and the Department of Biomedical Engineering inside SBU's Renaissance School of Medicine. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
+I am currently senior researcher at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/) in the mathematics group. I am on leave from the Department of Mathematics at Stony Brook University, where I was also involved in the Department of Physics and Astronomy, and the Department of Biomedical Engineering inside SBU's Renaissance School of Medicine. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
 
 I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, stochastic dynamics, and probability theory. One of my long-term research goals is to formulate an axiomatic complex systems theory. For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research).
 
