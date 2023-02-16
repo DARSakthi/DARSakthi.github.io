@@ -21,7 +21,7 @@ I also feel strongly about equity [3] in science [4] and mathematics [5] (I am o
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
-I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of. I am particularly opposed to military applications of my work [11-14], a problem which affects many areas adjacent to the fields within which I do research.
+I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of. I am particularly opposed to military applications of my work [11-15], a problem which affects many areas adjacent to the fields within which I do research.
 
 <span style="font-size:0.7em;">
   [1] Guerilla Open Access Manifesto. Aaron Swartz. From <a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Internet Archive</a>.      
@@ -38,6 +38,7 @@ I am a member of the VERSES Research Ethics Board. I believe it is important to 
   [12] Doing Math in Jest. Gizem Karaali. From <a href="https://arxiv.org/abs/1812.09601">arXiv:1812.09601</a>.        
   [13] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net</a>. See also references therein.        
   [14] The Responsibility of the Scientist Today. Alexandre Grothendieck. <a href="http://matematicas.unex.es/~navarro/res/scientist.pdf">Translation here</a>.           
+  [15] Military Funding in Mathematics. William Thurston. <a href="https://www.ams.org/journals/notices/198701/198701FullIssue.pdf">Notices of the American Mathematical Society (page 39)</a>.
 </span>
 
 &nbsp;
