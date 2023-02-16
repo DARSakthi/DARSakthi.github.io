@@ -17,7 +17,7 @@ I am signatory
 
 I feel strongly about open access [1] and free and open [2] science. Profiteering and exploitation in academic publishing needs to end, and the products of publicly-funded research ought to be made accessible to the public. Besides simply being fair, both can help promote wider scientific literacy, another problem which I feel must be attended to.
 
-I also feel strongly about equity [3] in science [4] and mathematics [5] (I am originally, though not completely, Indian). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals. Some articles on these subjects which have resonated me include those cited above, as well as [6-9].
+I also feel strongly about equity [3] in science [4] and mathematics [5] (I am originally, though not completely, Indian). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals. Some articles on these subjects which have resonated me include those cited above, as well as [6-10].
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
@@ -33,10 +33,11 @@ I am a member of the VERSES Research Ethics Board. I believe it is important to 
   [7] Academia: Waiting for Heideggers. Timothy Burke. From <a href="https://timothyburke.substack.com/p/academia-waiting-for-heideggers">Eight by Seven</a>.      
   [8] Doing the Work. Ambika Kamath. From <a href="https://ambikamath.com/2020/02/23/doing-the-work/">ambikamath.com</a>.      
   [9] Maths to Award the Fields Medal, its Nobel Prize Equivalent, but is There a Numbers Problem? Daniel Keane. From <a href="https://www.abc.net.au/news/2022-06-28/fields-medal-female-inclusion-a-challenge-in-maths-award/101161564">ABC News (Australia)</a>.      
-  [10] The Lie of “It’s Just Math.” Jade Master. From <a href="https://jadeedenstarmaster.wordpress.com/2020/12/11/the-lie-of-its-just-math/">Cat Blog</a>.        
-  [11] Doing Math in Jest. Gizem Karaali. From <a href="https://arxiv.org/abs/1812.09601">arXiv:1812.09601</a>.        
-  [12] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net</a>. See also references therein.        
-  [13] The Responsibility of the Scientist Today. Alexandre Grothendieck. <a href="http://matematicas.unex.es/~navarro/res/scientist.pdf">Translation here</a>.        
+  [10]   [14] Todos Cuentan: Cultivating Diversity in Combinatorics. Federico Ardila-Mantilla. <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Notices of the American Mathematical Society</a>.        
+  [11] The Lie of “It’s Just Math.” Jade Master. From <a href="https://jadeedenstarmaster.wordpress.com/2020/12/11/the-lie-of-its-just-math/">Cat Blog</a>.        
+  [12] Doing Math in Jest. Gizem Karaali. From <a href="https://arxiv.org/abs/1812.09601">arXiv:1812.09601</a>.        
+  [13] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net</a>. See also references therein.        
+  [14] The Responsibility of the Scientist Today. Alexandre Grothendieck. <a href="http://matematicas.unex.es/~navarro/res/scientist.pdf">Translation here</a>.           
 </span>
 
 &nbsp;
