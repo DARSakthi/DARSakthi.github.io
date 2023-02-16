@@ -33,7 +33,7 @@ I am a member of the VERSES Research Ethics Board. I believe it is important to 
   [7] Academia: Waiting for Heideggers. Timothy Burke. From <a href="https://timothyburke.substack.com/p/academia-waiting-for-heideggers">Eight by Seven</a>.      
   [8] Doing the Work. Ambika Kamath. From <a href="https://ambikamath.com/2020/02/23/doing-the-work/">ambikamath.com</a>.      
   [9] Maths to Award the Fields Medal, its Nobel Prize Equivalent, but is There a Numbers Problem? Daniel Keane. From <a href="https://www.abc.net.au/news/2022-06-28/fields-medal-female-inclusion-a-challenge-in-maths-award/101161564">ABC News (Australia)</a>.      
-  [10]   [14] Todos Cuentan: Cultivating Diversity in Combinatorics. Federico Ardila-Mantilla. <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Notices of the American Mathematical Society</a>.        
+  [10] Todos Cuentan: Cultivating Diversity in Combinatorics. Federico Ardila-Mantilla. <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Notices of the American Mathematical Society</a>.        
   [11] The Lie of “It’s Just Math.” Jade Master. From <a href="https://jadeedenstarmaster.wordpress.com/2020/12/11/the-lie-of-its-just-math/">Cat Blog</a>.        
   [12] Doing Math in Jest. Gizem Karaali. From <a href="https://arxiv.org/abs/1812.09601">arXiv:1812.09601</a>.        
   [13] Mathematics Beyond Secrecy and Surveillance. Just Mathematics Collective. From <a href="https://www.justmathematicscollective.net/nsa_statement.html">justmathematicscollective.net</a>. See also references therein.        
