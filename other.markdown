@@ -21,7 +21,7 @@ I also feel strongly about equity [3] in science [4] and mathematics [5] (I am o
 
 I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in various capacities since the first conference in May of 2020, mostly as an organisational or [instructional volunteer](https://darsakthi.github.io/teaching/2020-NMA). In the 2021 Computational Neuroscience School I was a faculty mentor.
 
-I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of. I am particularly opposed to military applications of my work [10-13], a problem which is beginning to affect areas adjacent to my research.
+I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of. I am particularly opposed to military applications of my work [11-14], a problem which is beginning to affect areas adjacent to my research.
 
 <span style="font-size:0.7em;">
   [1] Guerilla Open Access Manifesto. Aaron Swartz. From <a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Internet Archive</a>.      
