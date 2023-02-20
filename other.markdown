@@ -15,7 +15,7 @@ I am signatory
 - 375 to the No Free View? No Review! pledge
 - 29 to the Just Mathematics Collective 'Mathematics Beyond Secrecy and Surveillance' initiative
 
-I feel strongly about open access [1] and free and open [2] science. In particular I believe profiteering and exploitation in academic publishing runs rampant, and the products of publicly-funded research ought to be made accessible to the public. Besides being equitable, both help promote wider scientific literacy.
+I feel strongly about open access [1] and free and open [2] science. In particular I believe profiteering and exploitation in academic publishing runs rampant, and the products of publicly-funded research ought to be made accessible to the public. Besides being equitable, both help promote wider scientific literacy, another important issue today.
 
 I also feel strongly about equity [3] in science [4] and mathematics [5] (I am originally, though not completely, Indian). I am a member of Spectra's [AllyList](http://lgbtmath.org/People.html), which means I have committed to making mathematical spaces everywhere more inclusive towards LGBTQ+ individuals. Some articles on these subjects which have resonated me include those cited above, as well as [6-10].
 
