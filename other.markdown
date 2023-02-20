@@ -24,7 +24,7 @@ I have been involved in [Neuromatch Academy](https://academy.neuromatch.io) in v
 I am a member of the VERSES Research Ethics Board. I believe it is important to think through the ethical implications of my and others’ research. Mathematics has been misused and abused in the past; we should always bear in mind who and what we do mathematics in service of. I am particularly opposed to military applications of my work [11-15], a problem which affects many areas of mathematics and physics—especially machine learning, and other areas directly adjacent to the fields within which I do research.
 
 <span style="font-size:0.7em;">
-  [1] Guerilla Open Access Manifesto. Aaron Swartz. From <a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Internet Archive</a>.      
+  [1] Guerilla Open Access Manifesto. Aaron Swartz. From the <a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Internet Archive</a>.      
   [2] Free Publishing. Jules Hedges. From <a href="https://julesh.com/2021/02/16/free-publishing/">julesh.com</a>.      
   [3] Ardila's Axioms. Federico Ardila. From <a href="http://fardila.com">fardila.com</a>.      
   [4] How Science Pretends to be Meritocratic | A Dr Fatima Video Essay. From <a href="https://www.youtube.com/watch?v=WSP4Y7M0bSo">YouTube</a>.      
