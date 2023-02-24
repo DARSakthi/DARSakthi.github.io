@@ -28,4 +28,4 @@ _Members and friends of the VERSES mathematics group_ (co-supervised with [K Fri
 
 &nbsp;
 
-_Enter this website if and only if your personal model of mathematics is consistent with [Ardila's axioms](http://fardila.com)._
+Enter this website if and only if your personal model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
