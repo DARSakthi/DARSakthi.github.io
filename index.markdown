@@ -16,7 +16,7 @@ It seems like something of a tradition for mathematicians to maintain a [blog](h
 
 Students
 
-[Francesco Sacco](https://francesco215.github.io) (cosupervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
+[Francesco Sacco](https://francesco215.github.io) (co-supervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
 
 Members and collaborators of the VERSES mathematics group (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston)):
 
