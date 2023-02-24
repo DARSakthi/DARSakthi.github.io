@@ -18,7 +18,7 @@ _Students_
 
 [Francesco Sacco](https://francesco215.github.io) (co-supervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
 
-_Members and friends of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston)):
+_Members and friends of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
 
