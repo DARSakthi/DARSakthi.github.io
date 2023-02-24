@@ -18,4 +18,14 @@ Students
 
 [Francesco Sacco](https://francesco215.github.io) (cosupervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
 
-Enter this website if and only if your personal model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
+Members and collaborators of the VERSES mathematics group (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston)):
+
+Lance Da Costa
+
+Tommaso Salvatori
+
+Toby St Clere Smithe
+
+
+
+_Enter this website if and only if your personal model of mathematics is consistent with [Ardila's axioms](http://fardila.com)._
