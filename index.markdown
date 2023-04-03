@@ -20,6 +20,8 @@ _Students_
 
 _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
+[Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
+
 [Tommaso Salvatori](https://www.cs.ox.ac.uk/people/tommaso.salvatori/)
 
 [Toby St Clere Smithe](https://tsmithe.net)
