@@ -46,7 +46,7 @@ Many mathematicians, ostensibly the target audience of the journal, don't have a
            
 On a personal note, as I said, I am a mathematician, where low cost open access has been a standard forever. There is no universe in which I (or any other mathematician) would pay 1800 CHF, or even three-quarters of that, to publish a paper. I just want to emphasise that this is basically an insult. 
             
-The bottom line is, if any author invited to contribute to this special issue requests a partial or full fee waiver on the grounds of financial hardship, I would expect it to be granted. It ought to be granted as requested based on your own (necessarily accurate) annual reporting. This issue is simply dead on arrival if we don't do this, and I see no legitimate reason not to proceed in this fashion.
+The bottom line is, if any author invited to contribute to this special issue requests a partial or full fee waiver on the grounds of financial hardship, I would expect it to be granted. 
             
 [1] [https://scholarlykitchen.sspnet.org/2020/08/10/guest-post-mdpis-remarkable-growth/](https://scholarlykitchen.sspnet.org/2020/08/10/guest-post-mdpis-remarkable-growth/)        
 [2] [https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/](https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/)      
