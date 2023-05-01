@@ -4,7 +4,6 @@ date: 2023-04-24
 permalink: /posts/2023/04/open-access/
 layout: post
 usemathjax: true
-published: false
 tags:
   - musings
 ---
