@@ -18,8 +18,6 @@ In any case, you will not be surprised to hear that the response from the chief 
 
 If you read this and you have a paper under review at MDPI, consider pulling it, or consider (armed with the following facts) asking for a fee waiver. Some of this data is bound to be out of date, given it's a year old, but a brief look at their 2021 and 2022 annual reports reveal similar figures. 
 
-Enough meta-commentary: on with the show.
-
 ---        
 
 &nbsp;
