@@ -1,5 +1,5 @@
 ---
-title: "Path-Wise Large Deviations Theory and Some of its Applications"
+title: "Path-Wise Large Deviations Theory and Some of Its Applications"
 collection: talks
 type: "Invitation"
 layout: talks
