@@ -8,8 +8,6 @@ date: 2023-06-23
 location: "London, England, United Kingdom (virtually)"
 ---
 
-I gave the following seminar at UCL's TNB seminar.
-
 _Abstract_: 
 
 I will discuss an approach to approximate Bayesian inference rooted in stochastic analysis, specifically, using large deviations theory. I will first summarise what a large deviations principle is and how they appear to be fundamental in probability theory and statistical physics. I will then use path-wise large deviations to rigorously generalise the main construction in stochastic thermodynamics, the effective action, to two interesting cases: SDEs with state-dependent diffusion coefficients, and SDEs driven by more general processes than Wiener noise. Lastly I will examine things in the case of coupled stochastic processes. In particular, the following will be proven, making use of some technical innovations to existing large deviations principles: when two generic processes are synchronised in a certain way, the minimisation of large deviations in their trajectories implies an approximate Bayesian inference rule is satisfied by the processes in the joint path space. This theorem is the main result of the talk. Along the way we will make some contact with related principles in non-equilibrium statistical mechanics like Jaynes' maximum calibre principle and Seifert's stochastic thermodynamics, and celebrate an interesting observation on the mathematical structure of the free energy principle—namely, that it appears to intertwine two different large deviations principles in an essential way.
