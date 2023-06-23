@@ -17,6 +17,5 @@ This talk will be based on ongoing work related to [arXiv:2206.12996](https://ar
 
 Talk: [link to recording](https://drive.google.com/file/d/1EWwryge7rEZe0Z3iPLOZf-KmUPaH34ho/view?usp=sharing) NOTE: placeholder
 
-Slides: [TNB March 2021.pdf]({{site.files}}/files/TNB March 2021.pdf) NOTE: placeholder
+Slides: [TNB June 2023.pdf]({{site.files}}/files/TNB June 2023.pdf)
 
-Amended _post hoc_ with notes: [TNB March 2021 (amended).pdf]({{site.files}}/files/TNB March 2021 (amended).pdf) NOTE: placeholder
