@@ -6,7 +6,7 @@ author_profile: true
 
 # About and Contact Information
 
-I am currently senior researcher in the mathematics group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am on leave from the Department of Mathematics at Stony Brook University, where I was also involved in the Department of Physics and Astronomy, and the Department of Biomedical Engineering inside SBU's Renaissance School of Medicine. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
+I am currently senior researcher in the mathematics group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am on leave from Stony Brook University. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
 
 I am broadly interested in applying methods from mathematical physics, like geometry, topology, and category theory, to problems in statistical and biological physics, random dynamics, and probability theory. I am particularly interested in non-equilibrium and non-stationary stochastic processes. For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research).
 
