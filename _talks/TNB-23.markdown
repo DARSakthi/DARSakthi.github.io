@@ -14,8 +14,5 @@ I will discuss an approach to approximate Bayesian inference rooted in stochasti
 
 This talk will be based on ongoing work related to [arXiv:2206.12996](https://arxiv.org/abs/2206.12996) and [arXiv:2210.12761](https://arxiv.org/abs/2210.12761). It will be primarily a technical account of that work. I will review large deviations theory and some key equations of Bayesian mechanics, but I will assume some background in statistical physics and stochastic processes.
 
-
-Talk: [link to recording](https://drive.google.com/file/d/1EWwryge7rEZe0Z3iPLOZf-KmUPaH34ho/view?usp=sharing) NOTE: placeholder
-
 Slides: [TNB June 2023.pdf]({{site.files}}/files/TNB June 2023.pdf)
 
