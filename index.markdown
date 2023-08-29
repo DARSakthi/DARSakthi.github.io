@@ -12,7 +12,7 @@ Phone: +1 (212) 817-8533
 
 Email: dalton.sakthivadivel@verses.ai
 
-I am currently a visitor at the [mathematics department](https://www.gc.cuny.edu/mathematics) of the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in mathematics. senior researcher in the mathematics group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am on leave from Stony Brook University. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
+I am currently a visitor at the [mathematics department](https://www.gc.cuny.edu/mathematics) of the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in mathematics. I am also senior researcher in the mathematics group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am on leave from Stony Brook University. Previously, I was at MIT. Since January 2022 much of my work has been funded by VERSES.
 
 For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in topology and how it threads through different areas of algebra and analysis. I am often motivated by objects or questions in mathematical and statistical physics. I am particularly interested in probability theory and its applications.
 
