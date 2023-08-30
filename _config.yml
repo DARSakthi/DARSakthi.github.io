@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dalton A R Sakthivadivel
-email: dalton.sakthivadivel@stonybrook.edu
+email: dalton.sakthivadivel@verses.ai
 locale: "en-GB"
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Dalton Sakthivadivel.
