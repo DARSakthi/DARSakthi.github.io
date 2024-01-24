@@ -12,7 +12,7 @@ Phone: +1 (212) 817-8533
 
 Email: dalton.sakthivadivel@verses.ai
 
-I am currently a visitor at the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). I am on leave from Stony Brook University. Previously, I was at MIT.
+I am currently a visitor at the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
 
 For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in topology and how it threads through different areas of algebra and analysis. I am often motivated by objects or questions in mathematical and statistical physics. I am particularly interested in probability theory and its applications.
 
@@ -28,8 +28,6 @@ _Students_
 _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
-
-[Tommaso Salvatori](https://www.cs.ox.ac.uk/people/tommaso.salvatori/)
 
 [Toby St Clere Smithe](https://tsmithe.net)
 
