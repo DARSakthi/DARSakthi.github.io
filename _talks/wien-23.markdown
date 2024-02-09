@@ -17,6 +17,8 @@ The content was very similar to a [previous talk at Stony Brook's Laufer Centre]
 
 &nbsp;
 
+
 &nbsp;
 
-![image](/assets/images/IMG_0354.jpg)
+
+<img src="/assets/images/IMG_0354.jpg" alt="drawing" width="400"/>
