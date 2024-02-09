@@ -15,4 +15,8 @@ We will trace through the logic of (a particular form of) Friston’s free energ
 The content was very similar to a [previous talk at Stony Brook's Laufer Centre](https://darsakthi.github.io/talks/laufer-23). Many thanks to [Moritz Kriegleder](https://scholar.google.at/citations?user=3udOepoAAAAJ&hl=de) for inviting me.
 
 
+&nbsp;
+
+&nbsp;
+
 ![image](/assets/images/IMG_0354.jpg)
