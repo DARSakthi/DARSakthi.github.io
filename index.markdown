@@ -35,4 +35,4 @@ _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Fr
 
 &nbsp;
 
-Enter this website if and only if your personal model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
+Enter this website if and only if your model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
