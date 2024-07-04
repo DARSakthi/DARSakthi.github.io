@@ -29,6 +29,8 @@ Bruno Borić
 
 _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
+[Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
+
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
 
 [Toby St Clere Smithe](https://tsmithe.net)
