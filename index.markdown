@@ -23,7 +23,7 @@ _Students_
 
 [Fiona Blackett](https://fiona1729.com)
 
-Bruno Borić
+[Bruno Borić](https://brunoboric.github.io/)
 
 [Francesco Sacco](https://francesco215.github.io) (co-supervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
 
