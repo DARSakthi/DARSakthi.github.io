@@ -14,4 +14,6 @@ Here I will provide some geometric intuition for the discussions in a recent pre
 
 In that preprint we share some results relating classifications of abelian topological orders to surgery classifications of (spin) three-manifolds, turning geometric reasoning about a given manifold into algebraic manipulation of the associated Chern-Simons theory and _vice versa_.
 
-I'm a strong believer in geometric intuition being powerful and important. 
+I believe geometry is important. This is not the post for that soapbox (I'll write one some day) but broadly speaking I subscribe to the [Atiyah school of thought](https://people.tamu.edu/~rojas//atiyah20thcentury.pdf) on this matter; so to supplement the calculations in that paper I'll discuss some of the thinking that went into them here.
+
+The idea behind the paper is as follows. 
