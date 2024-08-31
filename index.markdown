@@ -10,7 +10,7 @@ Office: 4-214.13
 
 Phone: +1 (212) 817-8533
 
-Email: dalton.sakthivadivel@verses.ai
+Email: dalton.sakthivadivel29@login.cuny.edu
 
 I am currently a visitor at the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
 
