@@ -4,7 +4,7 @@ collection: talks
 type: "Invitation"
 layout: talks
 venue: "Conference on Complex Systems 2024"
-date: 2023-10-04
+date: 2024-09-03
 location: "Exeter, England, United Kingdom"
 ---
 
