@@ -1,5 +1,5 @@
 ---
-title: "Constructing Solutions to Arbitrary Diffusion Processes Using Higher Geometry and Maximum Calibre"
+title: "Constructing solutions to arbitrary diffusion processes using higher geometry and maximum calibre"
 collection: talks
 type: "Invitation"
 layout: talks
