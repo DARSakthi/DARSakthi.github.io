@@ -1,5 +1,5 @@
 ---
-title: "Creating Personalised Neuromedicine Using Artificial Intelligence and Brain Modelling"
+title: "Creating personalised neuromedicine using artificial intelligence and brain modelling"
 collection: talks
 type: "Keynote"
 layout: talks
