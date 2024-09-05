@@ -1,5 +1,5 @@
 ---
-title: "Path-Wise Large Deviations Theory and Some of Its Applications"
+title: "Path-Wise large deviations theory and some of its applications"
 collection: talks
 type: "Invitation"
 layout: talks
@@ -9,7 +9,7 @@ location: "New York, NY, United States"
 published: "false"
 ---
 
-I gave the following talk at the Hunter College Mathematics Colloquium. Many thanks to Vincent R Martinez for inviting me. 
+I gave the following talk at the Hunter College Mathematics Colloquium. Many thanks to [Vincent R Martinez](https://scholar.google.ca/citations?user=zml74fIAAAAJ&hl=en) for inviting me. 
 
 _Abstract_: 
 
