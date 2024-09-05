@@ -1,5 +1,5 @@
 ---
-title: "The Cortex in the Code: How Neuroscience Makes AI Intelligent"
+title: "The cortex in the code: how neuroscience makes AI intelligent"
 collection: talks
 type: "Contribution"
 layout: talks
