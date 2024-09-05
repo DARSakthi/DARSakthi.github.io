@@ -1,5 +1,5 @@
 ---
-title: "Towards a Geometry and Analysis for Bayesian Mechanics"
+title: "Towards a geometry and analysis for Bayesian mechanics"
 collection: talks
 type: "Invitation"
 layout: talks
