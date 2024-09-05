@@ -1,5 +1,5 @@
 ---
-title: "PDE Analysis via Inference: Treating Dynamical Systems as Data-Generating Processes"
+title: "PDE aalysis via inference treating dynamical systems as data-generating processes"
 collection: talks
 type: "Invitation"
 layout: talks
@@ -8,7 +8,7 @@ date: 2021-10-28
 location: "Lubbock, Texas, United States (virtually)"
 ---
 
-I gave the following talk at TTU's Learning from Data seminar.
+I gave the following talk at TTU's Learning from Data seminar. Thank you to [Bhagya Athukorallage](https://scholar.google.com/citations?user=n5g38WIAAAAJ&hl=en) for the invitation.
 
 _Abstract_: 
 
