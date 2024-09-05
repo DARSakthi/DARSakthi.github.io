@@ -1,5 +1,5 @@
 ---
-title: "A Physical Account of the Free Energy Principle"
+title: "A physical account of the free energy principle"
 collection: talks
 type: "Invitation"
 layout: talks
