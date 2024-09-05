@@ -1,5 +1,5 @@
 ---
-title: "Large Deviations and Statistical Inference in Phased Materials"
+title: "Large deviations and statistical inference in phased materials"
 collection: talks
 type: "Invitation"
 layout: talks
