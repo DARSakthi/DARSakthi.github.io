@@ -1,5 +1,5 @@
 ---
-title: "A Higher Gauge Theory for Machine Learning and Inference"
+title: "A higher gauge theory for machine learning and inference"
 collection: talks
 type: "Poster"
 layout: talks
