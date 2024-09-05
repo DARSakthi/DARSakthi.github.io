@@ -1,5 +1,5 @@
 ---
-title: "Synchronisation and Self-Organisation under the Free Energy Principle"
+title: "Synchronisation and self-organisation under the free energy principle"
 collection: talks
 type: "Invitation"
 layout: talks
