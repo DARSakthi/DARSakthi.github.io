@@ -1,5 +1,5 @@
 ---
-title: "Classical Physics for the Bayesian Mechanic"
+title: "Classical physics for the Bayesian mechanic"
 collection: talks
 type: "Poster"
 layout: talks
