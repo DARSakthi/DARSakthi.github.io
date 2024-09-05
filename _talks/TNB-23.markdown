@@ -1,5 +1,5 @@
 ---
-title: "Approximate Bayesian Inference Through the Lens of Large Deviations"
+title: "Approximate Bayesian inference through the lens of large deviations"
 collection: talks
 type: "Invitation"
 layout: talks
