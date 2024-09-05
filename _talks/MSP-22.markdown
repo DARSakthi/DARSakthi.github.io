@@ -1,5 +1,5 @@
 ---
-title: "A Training Manual for Bayesian Mechanics"
+title: "A training manual for Bayesian mechanics"
 collection: talks
 type: "Invitation"
 layout: talks
