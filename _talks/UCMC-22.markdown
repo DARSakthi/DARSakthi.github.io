@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference and the Parallel Transport of Probability"
+title: "Statistical inference and the parallel transport of probability"
 collection: talks
 type: "Contribution"
 layout: talks
