@@ -1,5 +1,5 @@
 ---
-title: "Morphogenesis : Basal Cognition :: Self-Organisation : Maximum Entropy"
+title: "Morphogenesis : basal cognition :: self-organisation : maximum entropy"
 collection: talks
 type: "Invitation"
 layout: talks
