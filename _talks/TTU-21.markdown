@@ -1,5 +1,5 @@
 ---
-title: "PDE analysis via inference treating dynamical systems as data-generating processes"
+title: "PDE analysis via inference: treating dynamical systems as data-generating processes"
 collection: talks
 type: "Invitation"
 layout: talks
