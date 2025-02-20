@@ -12,7 +12,7 @@ Phone: +1 (212) 817-8533
 
 Email: dsakthivadivel@gc.cuny.edu
 
-I am currently a visitor at the [CUNY Graduate Centre](https://www.gc.cuny.edu) under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
+I am currently based at the [CUNY Graduate Centre](https://www.gc.cuny.edu) visiting under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
 
 For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in topology and how it threads through different areas of algebra, analysis, and arithmetic. I am often motivated by objects or questions in mathematical and statistical physics. Chern--Simons theories feature heavily in my work as rich objects living in the intersection of these areas. I am also interested in probability theory and its applications: I have a secondary research programme devoted to (non-equilibrium) statistical field theory and the properties of spaces of functions.
 
