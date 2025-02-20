@@ -33,6 +33,8 @@ _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Fr
 
 [Toby St Clere Smithe](https://tsmithe.net)
 
+&nbsp;
+
 _Former group members_
 
 [Francesco Sacco](https://francesco215.github.io) (co-supervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
