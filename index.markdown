@@ -37,6 +37,6 @@ _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Fr
 
 &nbsp;
 
-Useful links: [NYC subway maps and Long Island Rail Road branches](https://new.mta.info/maps) - [London underground and overground maps](https://tfl.gov.uk/maps/track) - [UK National Rail map](https://www.nationalrail.co.uk/travel-information/maps-of-the-national-rail-network/) - [currency conversions](https://www.google.com/finance/quote/USD-GBP)
+Useful links: [NYC subway maps and Long Island Rail Road branches](https://new.mta.info/maps) - [London underground and overground maps](https://tfl.gov.uk/maps/track) - [UK National Rail service](https://www.nationalrail.co.uk/travel-information/maps-of-the-national-rail-network/) - [currency conversions](https://www.google.com/finance/quote/USD-GBP)
 
 Enter this website if and only if your model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
