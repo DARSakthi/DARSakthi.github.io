@@ -18,8 +18,6 @@ For a summary of my current research, see [this page (/research)](https://darsak
 
 My articles (with bibliographic information) can be found on the [arXiv](https://arxiv.org/a/0000-0002-7907-7611.html) or [Google Scholar](https://scholar.google.com/citations?user=mWJtfUUAAAAJ). Some of the talks I have given are viewable [here (/talks)](https://darsakthi.github.io/talks). Advocacy and press relating to my work can be found [here (/other)](https://darsakthi.github.io/other/). I maintain a [blog](https://darsakthi.github.io/blog) about my work, amongst other things. I can also be found on [MathOverflow](https://mathoverflow.net/users/370636/dalton-a-r-sakthivadivel) and with ORCiD [0000-0002-7907-7611](https://orcid.org/0000-0002-7907-7611).
 
-&nbsp;
-
 _Students_
 
 [Fiona Blackett](https://fiona1729.com)
