@@ -24,6 +24,8 @@ _Students_
 
 [Bruno Borić](https://brunoboric.github.io/)
 
+[Rida Hamadani](https://ridahamadani.com/)
+
 _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
 [Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
@@ -31,8 +33,6 @@ _Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Fr
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
 
 [Toby St Clere Smithe](https://tsmithe.net)
-
-&nbsp;
 
 _Former supervisees_
 
