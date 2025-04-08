@@ -26,17 +26,17 @@ _Students_
 
 [Rida Hamadani](https://ridahamadani.com/)
 
-_Postdoctoral members of the VERSES mathematics group_ (co-supervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
-
-[Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
+_Postdoctoral members of the VERSES mathematics group_ (cosupervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
 
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
 
-[Toby St Clere Smithe](https://tsmithe.net)
+[Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
 
 _Former supervisees_
 
-[Francesco Sacco](https://francesco215.github.io) (co-supervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
+[Francesco Sacco](https://francesco215.github.io) (cosupervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
+
+[Toby St Clere Smithe](https://tsmithe.net) (cosupervised with K Friston)
 
 &nbsp;
 
