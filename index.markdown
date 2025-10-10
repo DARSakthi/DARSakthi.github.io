@@ -10,7 +10,7 @@ Office: 4-214.13
 
 Phone: +1 (212) 817-8533
 
-Email: dsakthivadivel@gc.cuny.edu
+Email: dalton.sakthivadivel@verses.ai; dsakthivadivel@gc.cuny.edu
 
 I am currently a member of faculty at the [CUNY Graduate Centre](https://www.gc.cuny.edu), where I am visiting under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
 
@@ -43,3 +43,4 @@ _Former supervisees_
 Useful links: [NYC subway maps and Long Island Rail Road branches](https://new.mta.info/maps) - [London underground and overground maps](https://tfl.gov.uk/maps/track) - [UK National Rail service](https://www.nationalrail.co.uk/travel-information/maps-of-the-national-rail-network/) - [currency conversions](https://www.google.com/finance/quote/USD-GBP)
 
 Enter this website if and only if your model of mathematics is consistent with [Ardila's axioms](http://fardila.com).
+
