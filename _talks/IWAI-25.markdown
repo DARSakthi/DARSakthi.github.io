@@ -10,7 +10,9 @@ published: true
 ---
 
 
-I gave one of the keynote lectures at the [2025 edition of IWAI](https://iwaiworkshop.github.io/). No abstract was ever created, but if I had to make one, I would say this: 
+I was privileged to give one of the keynote lectures at the [2025 edition of IWAI](https://iwaiworkshop.github.io/). Thank you to Mahault Albarracin for the invitation and to all of the organisers, volunteers, and staff, for all of the effort which was put into organising an historic year for the conference. 
+
+For this lecture, no abstract was ever created; if I had to make one, I would say the following.
 
 _Abstract_:
 
