@@ -16,7 +16,7 @@ For this lecture, no abstract was ever created; if I had to make one, I would sa
 
 _Abstract_:
 
-We will review some old and new results detailiing the mathematical and physical foundations of the free energy principle, and some new results generalising those pictures to time-varying non-equilibrium systems will be given.
+We will review some older and more current results concerning the mathematical and physical foundations of the free energy principle. Some new results generalising those pictures to time-varying non-equilibrium systems will be given.
 
 Slides: [Remarks on the mathematics of the free energy principle (especially with regard to path entropy and free action)]({{site.files}}/files/IWAI_slides_Oct_2025.pdf)
 
