@@ -10,9 +10,9 @@ Office: 4-214.13
 
 Phone: +1 (212) 817-8533
 
-Email: dalton.sakthivadivel@verses.ai; dsakthivadivel@gc.cuny.edu
+Email: dsakthivadivel@gc.cuny.edu
 
-I am currently a member of faculty at the [CUNY Graduate Centre](https://www.gc.cuny.edu), where I am visiting under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). I am also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). Previously, I have been at Stony Brook University and MIT.
+I am currently a member of faculty at the [CUNY Graduate Centre](https://www.gc.cuny.edu), where I am visiting under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). Previously, I have been at Stony Brook University and MIT. From January 2022 to November 2025 I was also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). 
 
 For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in topology and how it threads through different areas of algebra, analysis, and arithmetic. I am often motivated by objects or questions in mathematical and statistical physics. Chern--Simons theories feature heavily in my work as rich objects living in the intersection of these areas. I am also interested in probability theory and its applications: I have a secondary research programme devoted to (non-equilibrium) statistical field theory and the properties of spaces of functions.
 
@@ -26,17 +26,15 @@ _Students_
 
 [Rida Hamadani](https://ridahamadani.com/)
 
-_Postdoctoral members of the VERSES mathematics group_ (cosupervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))
+_Former supervisees (including postdoctoral members of the VERSES theory group, cosupervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))_
 
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
 
 [Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
 
-_Former supervisees_
-
 [Francesco Sacco](https://francesco215.github.io) (cosupervised with [M Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)))
 
-[Toby St Clere Smithe](https://tsmithe.net) (cosupervised with K Friston)
+[Toby St Clere Smithe](https://tsmithe.net) 
 
 &nbsp;
 
