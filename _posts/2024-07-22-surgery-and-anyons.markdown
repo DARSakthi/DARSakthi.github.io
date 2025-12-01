@@ -20,6 +20,8 @@ This is not the post for my soapbox on intuition and geometric reasoning (I'll w
 
 The idea behind the paper is as follows. Leon and I have been discussing what CFT and bulk boundary correspondences know about surgery on the boundaries of four-manifolds. 
 
+Our main question was: how does killing homology classes---filling in holes by knot surgery---relate to condensing anyons---annihilating loops linking nontrivially with an anyon loop?
+
 %%%%%%%%%%It was his hypothesis about a certain anomaly maybe arising from Poincaré duality which kicked things off and I just said some fancy topology words
 Specifically he has this nice abelian duality paper in communications (apparently it was his undergrad thesis) where he shows there’s an anomaly arising from Fourier duality in the sense that a certain dual TFT needs to be tensored with an invertible TFT to actually be equal to its S dual
 
