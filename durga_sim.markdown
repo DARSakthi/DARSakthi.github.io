@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /rsrg/
-title: Regularity Structures Reading Group
+permalink: /durga_sum/
+title: Self-organising, context-aware, coherent assignment of categories
 ---
 
 <iframe
