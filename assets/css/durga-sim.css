@@ -1,0 +1,330 @@
+.durga-page, .durga-page * {
+margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+}
+
+.durga-page {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1A1D21;
+            color: #EDF2F4;
+            min-height: 100vh;
+            overflow-x: hidden;
+}
+
+.durga-page .container {
+max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+}
+
+.durga-page header {
+text-align: center;
+            padding: 20px 0;
+            border-bottom: 2px solid #4A5C6A;
+            margin-bottom: 20px;
+}
+
+.durga-page h1 {
+font-size: 2.5em;
+            color: #E07A5F;
+            margin-bottom: 10px;
+}
+
+.durga-page .subtitle {
+color: #8D99AE;
+            font-size: 1.1em;
+}
+
+.durga-page .main-grid {
+display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 20px;
+}
+
+.durga-page .canvas-container {
+position: relative;
+            background: #0D0F11;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+
+.durga-page #simulationCanvas {
+display: block;
+            width: 100%;
+            height: 600px;
+}
+
+.durga-page .controls-panel {
+background: #252A30;
+            border-radius: 10px;
+            padding: 20px;
+            height: fit-content;
+}
+
+.durga-page .control-group {
+margin-bottom: 20px;
+}
+
+.durga-page .control-group label {
+display: block;
+            color: #8D99AE;
+            font-size: 0.9em;
+            margin-bottom: 8px;
+}
+
+.durga-page .control-group input[type="range"] {
+width: 100%;
+            height: 8px;
+            background: #4A5C6A;
+            border-radius: 4px;
+            outline: none;
+            -webkit-appearance: none;
+}
+
+.durga-page .control-group input[type="range"]::-webkit-slider-thumb {
+-webkit-appearance: none;
+            width: 18px;
+            height: 18px;
+            background: #E07A5F;
+            border-radius: 50%;
+            cursor: pointer;
+}
+
+.durga-page .control-group input[type="range"]::-moz-range-thumb {
+width: 18px;
+            height: 18px;
+            background: #E07A5F;
+            border-radius: 50%;
+            cursor: pointer;
+            border: none;
+}
+
+.durga-page .value-display {
+color: #E07A5F;
+            font-weight: bold;
+            float: right;
+}
+
+.durga-page button {
+width: 100%;
+            padding: 12px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 6px;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+}
+
+.durga-page .btn-primary {
+background: #E07A5F;
+            color: white;
+}
+
+.durga-page .btn-primary:hover {
+background: #c96a52;
+}
+
+.durga-page .btn-secondary {
+background: #4A5C6A;
+            color: white;
+}
+
+.durga-page .btn-secondary:hover {
+background: #3a4a56;
+}
+
+.durga-page .stats-panel {
+background: #252A30;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+}
+
+.durga-page .stats-panel h3 {
+color: #E07A5F;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+}
+
+.durga-page .stat-item {
+display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #4A5C6A;
+}
+
+.durga-page .stat-item:last-child {
+border-bottom: none;
+}
+
+.durga-page .stat-label {
+color: #8D99AE;
+}
+
+.durga-page .stat-value {
+color: #EDF2F4;
+            font-weight: bold;
+}
+
+.durga-page .basin-legend {
+display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 15px;
+}
+
+.durga-page .basin-item {
+display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px;
+            background: #1A1D21;
+            border-radius: 6px;
+}
+
+.durga-page .basin-color {
+width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            border: 2px solid white;
+}
+
+.durga-page .basin-name {
+font-size: 0.85em;
+            color: #EDF2F4;
+}
+
+.durga-page .basin-count {
+margin-left: auto;
+            font-size: 0.85em;
+            color: #E07A5F;
+            font-weight: bold;
+}
+
+.durga-page .info-panel {
+background: #252A30;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+}
+
+.durga-page .info-panel h3 {
+color: #E07A5F;
+            margin-bottom: 15px;
+}
+
+.durga-page .info-text {
+color: #8D99AE;
+            font-size: 0.9em;
+            line-height: 1.6;
+}
+
+.durga-page .toggle-container {
+display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+}
+
+.durga-page .toggle-switch {
+position: relative;
+            width: 50px;
+            height: 26px;
+}
+
+.durga-page .toggle-switch input {
+opacity: 0;
+            width: 0;
+            height: 0;
+}
+
+.durga-page .toggle-slider {
+position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: #4A5C6A;
+            border-radius: 26px;
+            transition: 0.3s;
+}
+
+.durga-page .toggle-slider:before {
+position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 3px;
+            bottom: 3px;
+            background: white;
+            border-radius: 50%;
+            transition: 0.3s;
+}
+
+.durga-page input:checked + .toggle-slider {
+background: #E07A5F;
+}
+
+.durga-page input:checked + .toggle-slider:before {
+transform: translateX(24px);
+}
+
+.durga-page .toggle-label {
+color: #8D99AE;
+            font-size: 0.9em;
+}
+
+.durga-page .layer-info {
+position: absolute;
+            top: 10px;
+            left: 10px;
+            background: rgba(26, 29, 33, 0.9);
+            padding: 10px 15px;
+            border-radius: 6px;
+            font-size: 0.85em;
+}
+
+.durga-page .layer-info .neural {
+color: #E07A5F;
+}
+
+.durga-page .layer-info .symbolic {
+color: #8D99AE;
+}
+
+.durga-page .layer-info .coupling {
+color: #4A5C6A;
+}
+
+@media (max-width: 980px) {
+  .durga-page .main-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .durga-page #simulationCanvas {
+    height: 480px;
+  }
+}
+
+@media (max-width: 640px) {
+  .durga-page .container {
+    padding: 12px;
+  }
+
+  .durga-page h1 {
+    font-size: 2rem;
+  }
+
+  .durga-page #simulationCanvas {
+    height: 360px;
+  }
+
+  .durga-page .basin-legend {
+    grid-template-columns: 1fr;
+  }
+}
