@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /durga_sum/
-title: Self-organising, context-aware, coherent assignment of categories
+permalink: /durga/
+title: Self-organising, context-aware, coherent assignment of data to categories
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/durga-sim.css' | relative_url }}">
@@ -9,8 +9,7 @@ title: Self-organising, context-aware, coherent assignment of categories
 <div class="durga-page">
 <div class="container">
         <header>
-            <h1>DURGA Attractor Basin Simulation</h1>
-            <p class="subtitle">Neuro-Symbolic Knowledge Crystallization Dynamics</p>
+            <h1>DURGA attractor basin simulation</h1>
         </header>
         
         <div class="main-grid">
@@ -133,13 +132,13 @@ title: Self-organising, context-aware, coherent assignment of categories
                 <div class="info-panel">
                     <h3>How It Works</h3>
                     <p class="info-text">
-                        Raw extraction particles (white circles) flow from the bottom toward six primitive attractor basins. 
-                        Each basin creates a gravitational field based on the particle's semantic properties. 
-                        When a particle reaches a basin, it crystallizes into that primitive type (colored star).
+                        Raw extracted particles (white circles) flow from the bottom towards six primitive attractor basins. 
+                        Each basin creates a field of attraction based upon the particle's semantic properties. 
+                        When a particle reaches a basin, it crystallises into that primitive type (coloured star).
                         <br><br>
-                        The simulation mimics biological self-organization: undifferentiated "stem cells" 
-                        differentiate into specialized tissues through morphogen gradients — just as raw 
-                        extractions crystallize into knowledge primitives through attractor dynamics.
+                        The simulation mimics biological self-organisation: undifferentiated "stem cells" 
+                        differentiate into specialised tissues through superposed morphogenetic gradients, just as raw 
+                        extractions crystallise into spatially-arranged knowledge primitives by stable attractor entry dynamics.
                     </p>
                 </div>
             </div>
