@@ -22,7 +22,7 @@ _Students_
 
 [Fiona Blackett](https://fiona1729.com)
 
-[Bruno Borić](https://brunoboric.github.io/)
+[Avery Borić](https://averyboric.github.io/)
 
 [Rida Hamadani](https://ridahamadani.com/)
 
