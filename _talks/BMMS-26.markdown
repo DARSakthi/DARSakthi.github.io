@@ -5,7 +5,7 @@ type: "Invitation"
 layout: talks
 venue: "Swinburne University of Technology"
 date: 2026-06-02
-location: "Melbourne, Victoria, Australia"
+location: "Melbourne, Victoria, Australia (virtually)"
 published: true
 ---
 
@@ -18,7 +18,7 @@ _Abstract_:
 
 We will trace through the logic of a certain variational free energy principle for non-equilibria and show how one arrives at the statement "a random process with a non-equilibrium steady state density looks as if it minimises variational free energy". We will then discuss how this principle could be used to relate the physics of non-equilibrium systems with notions of reservoir computation by considering the connection between variational free energy minimisation and the maintenance of certain fluxes of energy in and out of a system. Some discussion of what a representation means in this context will follow. We will propose a minimalist account of representation as synchronisation in coupled random dynamical systems.
 
-Slides (lightly edited to provide more references): [BMMS slides June 2026](https://darsakthi.github.io/files/BMMS_slides_June_2026.pdf)
+Slides (lightly edited to provide more references): [BMMS slides June 2026](https://darsakthi.github.io/files/BMMS_slides_June_2026.pdf).
 
 Recording: to follow. 
 
