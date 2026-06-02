@@ -15,6 +15,8 @@ We will trace through the logic of (a particular form of) the free energy princi
 The content was very similar to a [previous talk at Stony Brook's Laufer Centre](https://darsakthi.github.io/talks/laufer-23). Many thanks to [Moritz Kriegleder](https://scholar.google.at/citations?user=3udOepoAAAAJ&hl=de) for inviting me. See the [announcement here](https://philosophie.univie.ac.at/news-events/nachrichten-news-events/detailansicht-news-events/news/workshop-representation-in-models-of-cognition/).
 
 
+Slides: [Uni Wien slides Oct 2023]({{site.files}}/files/Uni_Wien_slides_Oct_2023.pdf)
+
 &nbsp;             
 
 
