@@ -28,4 +28,4 @@ Recording: to follow.
 
 
 
-Some useful data is contained in the final four slides[.](https://darsakthi.github.io/other/)
+Some useful data are contained in the final four slides[.](https://darsakthi.github.io/other/)
