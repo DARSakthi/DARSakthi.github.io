@@ -14,21 +14,10 @@ Email: dsakthivadivel@gc.cuny.edu
 
 I am currently a member of faculty at the [CUNY Graduate Centre](https://www.gc.cuny.edu), where I am visiting under the Einstein Chair professorship in [mathematics](https://www.gc.cuny.edu/mathematics). Previously, I have been at Stony Brook University and MIT. From January 2022 to November 2025 I was also the lead researcher in the theory group at the [VERSES Research Lab](https://darsakthi.github.io/verses-lab/). 
 
-For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in The Machinery surrounding irregularity in topology and how it threads through complementary areas of algebra, analysis, arithmetic, and occasionally others---and especially how those relations bear on questions in mathematical and statistical physics. My primary research programme is devoted to (non-equilibrium) statistical field theory and the analysis of random processes. I am therefore particularly interested in probability theory and the analysis of partial differential equations in infinitely many dimensions, on spaces of functions, and in non-differentiable or singular settings. 
+For a summary of my current research, see [this page (/research)](https://darsakthi.github.io/research). I am broadly interested in The Machinery surrounding irregularity in topology and how it threads through complementary areas of algebra, analysis, arithmetic, and others---and especially how those relations bear on questions in mathematical and statistical physics. My primary research programme is devoted to (non-equilibrium) statistical field theory and the analysis of random processes. I am therefore particularly interested in probability theory and partial differential equations in infinitely many dimensions; on spaces of functions of various regularities; and in non-differentiable, non-measurable, and singular settings. 
 
-It is fruitful to consider many different viewpoints living in the intersections of these areas offer many viewpoints which together offer
+The intersection of all of these areas contains both compelling questions and rich theories offering distinct but interlocking viewpoints on those questions. Techniques and constructions from global analysis, derived geometry, and geometric analysis have all been of interest and usage to me. Function space integrals, rigorously posed renormalisation methods, and the limiting objects of geometric and probabilistic constructions alike, have been fruitful inventions to consider---as have those topological field theories arising from index theory and differential cohomology. Markov diffusion operators and Hodge theory, along with the probability and statistical physics of interacting particle systems, appear prominently.
 
-Techniques and constructions from global analysis, derived geometry, and geometric analysis often support 
-
-Function space integrals, rigorously posed renormalisation methods, and the limiting properties of geometric and probabilistic objects alike, often feature in my work as rich inventions living in the intersection of these areas---as do those topological field theories arising from index theory and differential cohomology. I 
-
-; techniques and constructions from global analysis, derived geometry, and geometric analysis are ...
-
-Markov diffusion operators and Hodge theory
-
-the probability and statistical physics of interacting particle systems. 
-
-I am most often motivated by objects or questions in mathematical and statistical physics. The use of function space integrals, renormalisation techniques, and scaling limits feature heavily in my work as rich objects living in the intersection of these areas, as do those topological field theories arising from index theory and differential cohomology. 
 
 My articles (with bibliographic information) can be found on the [arXiv](https://arxiv.org/a/0000-0002-7907-7611.html) or [Google Scholar](https://scholar.google.com/citations?user=mWJtfUUAAAAJ). Some of the talks I have given are viewable [here (/talks)](https://darsakthi.github.io/talks). Advocacy and press relating to my work can be found [here (/other)](https://darsakthi.github.io/other/). I maintain a [blog](https://darsakthi.github.io/blog) about my work, amongst other things. I can also be found on [MathOverflow](https://mathoverflow.net/users/370636/dalton-a-r-sakthivadivel) and with ORCiD [0000-0002-7907-7611](https://orcid.org/0000-0002-7907-7611).
 
