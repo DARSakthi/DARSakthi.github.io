@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research-old/
+published: false
 ---
 
 Some information related to my current research programme can be found here. To find my research papers, please see [my arXiv user page](https://arxiv.org/a/0000-0002-7907-7611.html), which is updated automatically and contains extended bibliographic details.
