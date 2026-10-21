@@ -27,9 +27,9 @@ _Students_
 
 _Former supervisees (including postdoctoral members of the VERSES theory group, cosupervised with [K Friston FRS](https://en.wikipedia.org/wiki/Karl_J._Friston))_
 
-[Rida Hamadani](https://ridahamadani.com/)
-
 [Lance Da Costa](https://scholar.google.com/citations?user=PCHqHCsAAAAJ&hl=en)
+
+[Rida Hamadani](https://ridahamadani.com/)
 
 [Marco Perin](https://scholar.google.com/citations?user=T43xleQAAAAJ&hl=en)
 
